@@ -12,30 +12,34 @@ queries = [
     "fbi agent hillary leaks dead OR deads OR death",
     "rage against machine trump reunite OR reuniting OR reunited",
     "trump marines own plane",
-    "pizzage #pizzagate",
+    #"#pizzagate",
     "ireland trump refugee OR refugees OR accept OR accepting OR accepted OR take OR takes OR taking",
     "hillary isis weapons wikileaks",
     "obama trump leave office refuse OR refuses OR won't"
 ]
 
 def write_to_file(tweets, num):
-    textfile = "tweets_results_{num}.txt".format(num=num)
+    textfile = "tweets_results_{num}.csv".format(num=num)
     f = open(textfile,"w+")
 
     """
     we can add:
     tweet.id, tweet.permalink, tweet.date, tweet.favorites, tweet.geo
     """
+    f.write("Username,Date,Retweets,Favorites,Message,Hashtags,Mentions\n")
     for tweet in tweets:
-        f.write("Username: %s\n" % tweet.username)
-        f.write("ReTweets: %d\n" % tweet.retweets)
+        f.write("%s," % tweet.username)
+        f.write("%s," % tweet.date)
+        f.write("%d," % tweet.retweets)
+        f.write("%d," % tweet.favorites)
         if type(tweet.text) is unicode:
             convert_2_str = (tweet.text).encode('ascii', 'ignore')
             tweet.text = convert_2_str
 
-        f.write("Message: %s\n" % tweet.text)
-        f.write("Hashtags: %s\n" % tweet.hashtags)
-        f.write("Mentions: %s\n\n" % tweet.mentions)
+        tweet.text = tweet.text.translate(None, ",")
+        f.write("\"%s\"," % tweet.text)
+        f.write("%s," % tweet.hashtags)
+        f.write("%s\n" % tweet.mentions)
 
     f.close()
 
