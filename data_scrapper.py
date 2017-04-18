@@ -36,7 +36,7 @@ def write_to_file(tweets, num):
             convert_2_str = (tweet.text).encode('ascii', 'ignore')
             tweet.text = convert_2_str
 
-        tweet.text = tweet.text.translate(None, ",")
+        tweet.text = tweet.text.translate(None, ",\"")
         f.write("\"%s\"," % tweet.text)
         f.write("%s," % tweet.hashtags)
         f.write("%s\n" % tweet.mentions)
