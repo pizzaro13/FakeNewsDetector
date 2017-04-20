@@ -1,360 +1,639 @@
-[
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-		"Hardly a silver lining but if Trump wins we're bound to get a new album from Rage Against the Machine . They'd have to reunite  right?": {
-			"cluster": 1,
-			"count": 1
+{
+	"name": "rage against machine trump reunite OR reuniting OR reunited",
+	"value": 53,
+	"children": [
+		{
+			"week": 1,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 2,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 3,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 4,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 5,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 6,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 7,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 8,
+			"value": 1,
+			"children": [
+				{
+					"name": "Hardly a silver lining but if Trump wins we're bound to get a new album from Rage Against the Machine . They'd have to reunite  right?",
+					"cluster": 1,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 9,
+			"value": 1,
+			"children": [
+				{
+					"name": "Maybe...if we vote for Trump ..... Rage Against The Machine will reunite . That's be worth voting for Trump  right guys?",
+					"cluster": 2,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 10,
+			"value": 5,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  // SE ARMOOOOO",
+					"cluster": 3,
+					"value": 49
+				},
+				{
+					"name": "Wow Rage Against the Machine to reunite after 15 years just to make a whole album with an anti- trump theme?... http:// fb.me/81pchzj1m",
+					"cluster": 4,
+					"value": 1
+				},
+				{
+					"name": "Rage Against the Machine is reuniting to protest Trump at RNC? So brave of them to try and stop all their fans there from voting for him.",
+					"cluster": 5,
+					"value": 1
+				},
+				{
+					"name": "Rage Against The Machine to reunite and release anti Trump album. #RATM #RageAgainstTheMachine #AntiTrumpAlbum #AntiTrump #Album #Music",
+					"cluster": 6,
+					"value": 1
+				},
+				{
+					"name": "Can i start a petition if trump /Hilary gets elected Rage against the machine reunite full time to make sure the next generation doesn't suck",
+					"cluster": 7,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 11,
+			"value": 4,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via Heavier Metal",
+					"cluster": 3,
+					"value": 96
+				},
+				{
+					"name": "@IanKarmel I just pray that the RNC where Trump gets the nomination will prompt Rage Against the Machine to actually reunite .",
+					"cluster": 8,
+					"value": 1
+				},
+				{
+					"name": "I heard Rage Against the Machine is reuniting and making an anti Trump album. That's the dumbest headline ive read in awhile.",
+					"cluster": 9,
+					"value": 1
+				},
+				{
+					"name": "Rage Against The Machine to reunite  release new album to protest Donald Trump campaign. http:// pinterest.com/pin/4711188110 00691376/ ",
+					"cluster": 10,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 12,
+			"value": 1,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal >>> Yeach ! (y)",
+					"cluster": 3,
+					"value": 119
+				}
+			]
+		},
+		{
+			"week": 13,
+			"value": 3,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE PLEASE REUNITE AND RELEASE AN ANTI- TRUMP EP",
+					"cluster": 11,
+					"value": 1
+				},
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal",
+					"cluster": 3,
+					"value": 31
+				},
+				{
+					"name": "I for one couldn't be happier that Trump is reuniting Rage Against the Machine for the convention this summer! https:// twitter.com/karaswisher/st atus/716321516330201088 ",
+					"cluster": 12,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 14,
+			"value": 2,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal BRING IT ON BROTHERS",
+					"cluster": 3,
+					"value": 44
+				},
+				{
+					"name": "Heard a rumor that Rage Against the Machine is reuniting long enough to make an anti trump album. #PleaseLetThisBeReal",
+					"cluster": 13,
+					"value": 2
+				}
+			]
+		},
+		{
+			"week": 15,
+			"value": 3,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  va @Heavier Metal",
+					"cluster": 3,
+					"value": 27
+				},
+				{
+					"name": "Rage Against The Machine reuniting to do an anti Trump album is just comical to me",
+					"cluster": 14,
+					"value": 1
+				},
+				{
+					"name": "So I just read that Rage Against the Machine was reuniting to release an Anti- Trump record.... if this is true... THEN FUCK YEAH",
+					"cluster": 15,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 16,
+			"value": 3,
+			"children": [
+				{
+					"name": "For once thank u Trump RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal",
+					"cluster": 3,
+					"value": 49
+				},
+				{
+					"name": " Rage against the machine to reunite and release an anti-donald trump album wow",
+					"cluster": 16,
+					"value": 1
+				},
+				{
+					"name": "Apparently Trump isnt so bad after all. Rage Against the Machine to reunite and release anti Donald Trump album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ",
+					"cluster": 17,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 17,
+			"value": 3,
+			"children": [
+				{
+					"name": "RAGE + AGAINST +THE+ MACHINE +To+ Reunite +And+Release+Anti+Donald+ Trump +Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier +Metal",
+					"cluster": 3,
+					"value": 24
+				},
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// fb.me/2eygm4ZSl",
+					"cluster": 3,
+					"value": 75
+				},
+				{
+					"name": "RAGE AGAINST THE MACHINE IS REUNITING FOR A DONALD TRUMP DISS ALBUM FUCK ME SIDEWAYS THIS IS THE BEST THING I'VE EVER HEARD",
+					"cluster": 18,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 18,
+			"value": 3,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// fb.me/4GyAp1DRU",
+					"cluster": 3,
+					"value": 44
+				},
+				{
+					"name": "Rage Against The Machine is reuniting to do an album protesting Donald Trump apparently http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ",
+					"cluster": 10,
+					"value": 1
+				},
+				{
+					"name": "rage against the machine to reunite in anti trump recording. http:// fb.me/8cEwNjXQK",
+					"cluster": 19,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 19,
+			"value": 2,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal",
+					"cluster": 3,
+					"value": 19
+				},
+				{
+					"name": "the fake article about Rage Against the Machine reuniting to make a Donald Trump album is the most embarrassing thing on the Internet",
+					"cluster": 20,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 20,
+			"value": 8,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ",
+					"cluster": 3,
+					"value": 28
+				},
+				{
+					"name": "I won't vote for Trump if Rage Against the Machine gets back together. I mean I'm not going to anyway but I won't if they reunite too.",
+					"cluster": 21,
+					"value": 1
+				},
+				{
+					"name": "Watch Rage Against The Machine reunite and save the world from Trump",
+					"cluster": 22,
+					"value": 2
+				},
+				{
+					"name": " Rage against the machine to reunite and release a anti Donald Trump album",
+					"cluster": 16,
+					"value": 3
+				},
+				{
+					"name": "Rage Against the Machine is reuniting to stop Trump . I'm calling it now.",
+					"cluster": 23,
+					"value": 1
+				},
+				{
+					"name": "If there's one good thing from Trump and Hilary running it's potentially reuniting Rage Against the Machine .",
+					"cluster": 24,
+					"value": 1
+				},
+				{
+					"name": "Is Rage Against the Machine About to Reunite ? It Looks Possible http://www. riffyou.com/is-rage-agains t-the-machine-reunite-possible/  #musicnews #music #rocknroll #rock #Trump #Clinton",
+					"cluster": 25,
+					"value": 1
+				},
+				{
+					"name": "actually now that Rage Against The Machine reunited SPECIFICALLY for an anti Trump crusade ? Im done . I'll shut up now lol",
+					"cluster": 26,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 21,
+			"value": 1,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal",
+					"cluster": 3,
+					"value": 2
+				}
+			]
+		},
+		{
+			"week": 22,
+			"value": 2,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal",
+					"cluster": 3,
+					"value": 6
+				},
+				{
+					"name": "Rage Against the Machine plans to reunite to release album about how awful Donald Trump is http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ",
+					"cluster": 10,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 23,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 24,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 25,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 26,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 27,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 28,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 29,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 30,
+			"value": 1,
+			"children": [
+				{
+					"name": "Rage Against the Machine needs to reunite and fight Trump .",
+					"cluster": 22,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 31,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 32,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 33,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 34,
+			"value": 1,
+			"children": [
+				{
+					"name": "Who else thinks that Rage Against The Machine will reunite if Trump becomes president?",
+					"cluster": 27,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 35,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 36,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 37,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 38,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 39,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 40,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 41,
+			"value": 1,
+			"children": [
+				{
+					"name": "If trump wins the election rage against the machine needs to reunite",
+					"cluster": 19,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 42,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 43,
+			"value": 1,
+			"children": [
+				{
+					"name": "If Donald Trump becomes President Rage Against The Machine should reunite . That's the only good thing I can see about this.",
+					"cluster": 28,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 44,
+			"value": 1,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  #True or #Joke",
+					"cluster": 3,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 45,
+			"value": 11,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  @Heavier Metal",
+					"cluster": 3,
+					"value": 41
+				},
+				{
+					"name": ". @tmorello Would be epic if Rage Against the Machine reunited for a protest concert at Trump 's inauguration like you did at the DNC in 2000",
+					"cluster": 29,
+					"value": 1
+				},
+				{
+					"name": "Maybe Trump being elected will convince Rage Against the Machine to get back together. They reunited to tour against Bush...",
+					"cluster": 30,
+					"value": 1
+				},
+				{
+					"name": "I wonder if Rage Against The Machine will reunite now that Trump was elected",
+					"cluster": 27,
+					"value": 2
+				},
+				{
+					"name": "or system of a down and Rage against the machine are gonna reunite to write music against trump hahaha",
+					"cluster": 31,
+					"value": 1
+				},
+				{
+					"name": "Who knows a trump presidency might be what we need rn. I mean what else could get Rage Against the Machine to reunite ?",
+					"cluster": 32,
+					"value": 1
+				},
+				{
+					"name": "So since Trump has been named the winner we learned Rage Against the Machine might reunite and System of a Down is working on a new album",
+					"cluster": 33,
+					"value": 1
+				},
+				{
+					"name": "With Trump as president-elect surely there's no better time for Rage Against the Machine to reunite ?",
+					"cluster": 34,
+					"value": 1
+				},
+				{
+					"name": "Honestly can't wait for the bitchin' protest much will inevitably follow. Time for Rage Against The Machine to reunite I'd say. #Trump",
+					"cluster": 35,
+					"value": 1
+				},
+				{
+					"name": "Good thing if Trump wins is that maybe Rage against the machine will reunite and make new music...other than that I can't see a bright side.",
+					"cluster": 36,
+					"value": 1
+				},
+				{
+					"name": "The silver lining of a Trump win? Rage Against The Machine will likely reunite and lead a new wave of angry/heavy rock music.",
+					"cluster": 37,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 46,
+			"value": 3,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal",
+					"cluster": 3,
+					"value": 140
+				},
+				{
+					"name": "Dreams do come true! The bulls are back on parade! | RAGE AGAINST THE MACHINE to reunite & release Anti- Trump album. http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ",
+					"cluster": 38,
+					"value": 1
+				},
+				{
+					"name": "Sleep now in the fire Trump !  Rage Against the Machine to reunite and release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ",
+					"cluster": 17,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 47,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 48,
+			"value": 1,
+			"children": [
+				{
+					"name": "RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ",
+					"cluster": 3,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 49,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 50,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 51,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 52,
+			"value": 1,
+			"children": [
+				{
+					"name": "I hope trump becoming president will inspire Rage Against the Machine to reunite and inspire ppl to take down the government like before",
+					"cluster": 39,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 53,
+			"value": 0,
+			"children": [
+			]
 		}
-	},
-	{
-		"Maybe...if we vote for Trump ..... Rage Against The Machine will reunite . That's be worth voting for Trump  right guys?": {
-			"cluster": 2,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  // SE ARMOOOOO": {
-			"cluster": 3,
-			"count": 49
-		},
-		"Wow Rage Against the Machine to reunite after 15 years just to make a whole album with an anti- trump theme?... http:// fb.me/81pchzj1m": {
-			"cluster": 4,
-			"count": 1
-		},
-		"Rage Against the Machine is reuniting to protest Trump at RNC? So brave of them to try and stop all their fans there from voting for him.": {
-			"cluster": 5,
-			"count": 1
-		},
-		"Rage Against The Machine to reunite and release anti Trump album. #RATM #RageAgainstTheMachine #AntiTrumpAlbum #AntiTrump #Album #Music": {
-			"cluster": 6,
-			"count": 1
-		},
-		"Can i start a petition if trump /Hilary gets elected Rage against the machine reunite full time to make sure the next generation doesn't suck": {
-			"cluster": 7,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via Heavier Metal": {
-			"cluster": 3,
-			"count": 96
-		},
-		"@IanKarmel I just pray that the RNC where Trump gets the nomination will prompt Rage Against the Machine to actually reunite .": {
-			"cluster": 8,
-			"count": 1
-		},
-		"I heard Rage Against the Machine is reuniting and making an anti Trump album. That's the dumbest headline ive read in awhile.": {
-			"cluster": 9,
-			"count": 1
-		},
-		"Rage Against The Machine to reunite  release new album to protest Donald Trump campaign. http:// pinterest.com/pin/4711188110 00691376/ ": {
-			"cluster": 10,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal >>> Yeach ! (y)": {
-			"cluster": 3,
-			"count": 119
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE PLEASE REUNITE AND RELEASE AN ANTI- TRUMP EP": {
-			"cluster": 11,
-			"count": 1
-		},
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal": {
-			"cluster": 3,
-			"count": 31
-		},
-		"I for one couldn't be happier that Trump is reuniting Rage Against the Machine for the convention this summer! https:// twitter.com/karaswisher/st atus/716321516330201088 ": {
-			"cluster": 12,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal BRING IT ON BROTHERS": {
-			"cluster": 3,
-			"count": 44
-		},
-		"Heard a rumor that Rage Against the Machine is reuniting long enough to make an anti trump album. #PleaseLetThisBeReal": {
-			"cluster": 13,
-			"count": 2
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  va @Heavier Metal": {
-			"cluster": 3,
-			"count": 27
-		},
-		"Rage Against The Machine reuniting to do an anti Trump album is just comical to me": {
-			"cluster": 14,
-			"count": 1
-		},
-		"So I just read that Rage Against the Machine was reuniting to release an Anti- Trump record.... if this is true... THEN FUCK YEAH": {
-			"cluster": 15,
-			"count": 1
-		}
-	},
-	{
-		"For once thank u Trump RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal": {
-			"cluster": 3,
-			"count": 49
-		},
-		" Rage against the machine to reunite and release an anti-donald trump album wow": {
-			"cluster": 16,
-			"count": 1
-		},
-		"Apparently Trump isnt so bad after all. Rage Against the Machine to reunite and release anti Donald Trump album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ": {
-			"cluster": 17,
-			"count": 1
-		}
-	},
-	{
-		"RAGE + AGAINST +THE+ MACHINE +To+ Reunite +And+Release+Anti+Donald+ Trump +Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier +Metal": {
-			"cluster": 3,
-			"count": 24
-		},
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// fb.me/2eygm4ZSl": {
-			"cluster": 3,
-			"count": 75
-		},
-		"RAGE AGAINST THE MACHINE IS REUNITING FOR A DONALD TRUMP DISS ALBUM FUCK ME SIDEWAYS THIS IS THE BEST THING I'VE EVER HEARD": {
-			"cluster": 18,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// fb.me/4GyAp1DRU": {
-			"cluster": 3,
-			"count": 44
-		},
-		"Rage Against The Machine is reuniting to do an album protesting Donald Trump apparently http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ": {
-			"cluster": 10,
-			"count": 1
-		},
-		"rage against the machine to reunite in anti trump recording. http:// fb.me/8cEwNjXQK": {
-			"cluster": 19,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal": {
-			"cluster": 3,
-			"count": 19
-		},
-		"the fake article about Rage Against the Machine reuniting to make a Donald Trump album is the most embarrassing thing on the Internet": {
-			"cluster": 20,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ": {
-			"cluster": 3,
-			"count": 28
-		},
-		"I won't vote for Trump if Rage Against the Machine gets back together. I mean I'm not going to anyway but I won't if they reunite too.": {
-			"cluster": 21,
-			"count": 1
-		},
-		"Watch Rage Against The Machine reunite and save the world from Trump": {
-			"cluster": 22,
-			"count": 2
-		},
-		" Rage against the machine to reunite and release a anti Donald Trump album": {
-			"cluster": 16,
-			"count": 3
-		},
-		"Rage Against the Machine is reuniting to stop Trump . I'm calling it now.": {
-			"cluster": 23,
-			"count": 1
-		},
-		"If there's one good thing from Trump and Hilary running it's potentially reuniting Rage Against the Machine .": {
-			"cluster": 24,
-			"count": 1
-		},
-		"Is Rage Against the Machine About to Reunite ? It Looks Possible http://www. riffyou.com/is-rage-agains t-the-machine-reunite-possible/  #musicnews #music #rocknroll #rock #Trump #Clinton": {
-			"cluster": 25,
-			"count": 1
-		},
-		"actually now that Rage Against The Machine reunited SPECIFICALLY for an anti Trump crusade ? Im done . I'll shut up now lol": {
-			"cluster": 26,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal": {
-			"cluster": 3,
-			"count": 2
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal": {
-			"cluster": 3,
-			"count": 6
-		},
-		"Rage Against the Machine plans to reunite to release album about how awful Donald Trump is http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ": {
-			"cluster": 10,
-			"count": 1
-		}
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-		"Rage Against the Machine needs to reunite and fight Trump .": {
-			"cluster": 22,
-			"count": 1
-		}
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-		"Who else thinks that Rage Against The Machine will reunite if Trump becomes president?": {
-			"cluster": 27,
-			"count": 1
-		}
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-		"If trump wins the election rage against the machine needs to reunite": {
-			"cluster": 19,
-			"count": 1
-		}
-	},
-	{
-	},
-	{
-		"If Donald Trump becomes President Rage Against The Machine should reunite . That's the only good thing I can see about this.": {
-			"cluster": 28,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  #True or #Joke": {
-			"cluster": 3,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  @Heavier Metal": {
-			"cluster": 3,
-			"count": 41
-		},
-		". @tmorello Would be epic if Rage Against the Machine reunited for a protest concert at Trump 's inauguration like you did at the DNC in 2000": {
-			"cluster": 29,
-			"count": 1
-		},
-		"Maybe Trump being elected will convince Rage Against the Machine to get back together. They reunited to tour against Bush...": {
-			"cluster": 30,
-			"count": 1
-		},
-		"I wonder if Rage Against The Machine will reunite now that Trump was elected": {
-			"cluster": 27,
-			"count": 2
-		},
-		"or system of a down and Rage against the machine are gonna reunite to write music against trump hahaha": {
-			"cluster": 31,
-			"count": 1
-		},
-		"Who knows a trump presidency might be what we need rn. I mean what else could get Rage Against the Machine to reunite ?": {
-			"cluster": 32,
-			"count": 1
-		},
-		"So since Trump has been named the winner we learned Rage Against the Machine might reunite and System of a Down is working on a new album": {
-			"cluster": 33,
-			"count": 1
-		},
-		"With Trump as president-elect surely there's no better time for Rage Against the Machine to reunite ?": {
-			"cluster": 34,
-			"count": 1
-		},
-		"Honestly can't wait for the bitchin' protest much will inevitably follow. Time for Rage Against The Machine to reunite I'd say. #Trump": {
-			"cluster": 35,
-			"count": 1
-		},
-		"Good thing if Trump wins is that maybe Rage against the machine will reunite and make new music...other than that I can't see a bright side.": {
-			"cluster": 36,
-			"count": 1
-		},
-		"The silver lining of a Trump win? Rage Against The Machine will likely reunite and lead a new wave of angry/heavy rock music.": {
-			"cluster": 37,
-			"count": 1
-		}
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album  via @Heavier Metal": {
-			"cluster": 3,
-			"count": 140
-		},
-		"Dreams do come true! The bulls are back on parade! | RAGE AGAINST THE MACHINE to reunite & release Anti- Trump album. http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ": {
-			"cluster": 38,
-			"count": 1
-		},
-		"Sleep now in the fire Trump !  Rage Against the Machine to reunite and release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ": {
-			"cluster": 17,
-			"count": 1
-		}
-	},
-	{
-	},
-	{
-		"RAGE AGAINST THE MACHINE To Reunite And Release Anti Donald Trump Album http:// heaviermetal.net/rage-against-t he-machine-to-reunite-release-donald-trump-diss-album ": {
-			"cluster": 3,
-			"count": 1
-		}
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-		"I hope trump becoming president will inspire Rage Against the Machine to reunite and inspire ppl to take down the government like before": {
-			"cluster": 39,
-			"count": 1
-		}
-	},
-	{
-	}
-]
+	]
+}

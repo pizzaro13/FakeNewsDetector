@@ -1,184 +1,419 @@
-[
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-		"Trump Offering Free One-Way Tickets to Africa & Mexico for Those Who Wanna Leave America - TRENDING http:// fb.me/8mywGUhu5": {
-			"cluster": 1,
-			"count": 320
+{
+	"name": "Trump Africa Mexico ticket OR tickets leave OR leaving OR left OR offer OR offered OR offering OR give OR gave OR giving",
+	"value": 53,
+	"children": [
+		{
+			"week": 1,
+			"value": 0,
+			"children": [
+			]
 		},
-		"Trump offering free one way tickets to Africa and Mexico for people who don't wanna stay here lmao": {
-			"cluster": 2,
-			"count": 4
+		{
+			"week": 2,
+			"value": 0,
+			"children": [
+			]
 		},
-		"I cant handle Facebook anymore. Guys Trump isn't offering free one way tickets to Africa or Mexico . Read a newspaper #SupportThePress": {
-			"cluster": 3,
-			"count": 1
+		{
+			"week": 3,
+			"value": 0,
+			"children": [
+			]
 		},
-		"Trump Offering Free One Way Tickets to Mexico and Africa http:// tmzhiphop.com/trump-offering -free-one-way-tickets-to-africa-mexico-for-those-who-wanna-leave-america/ ": {
-			"cluster": 4,
-			"count": 34
+		{
+			"week": 4,
+			"value": 0,
+			"children": [
+			]
 		},
-		"I know it's fake news but trump offering one way tickets to Mexico n Africa had me dying!": {
-			"cluster": 5,
-			"count": 1
+		{
+			"week": 5,
+			"value": 0,
+			"children": [
+			]
 		},
-		"@VanityFair Trump Airlines giving away a free one way ticket to Africa or Mexico  hmmm seems like a lie just like Trump 's Campaign promise": {
-			"cluster": 6,
-			"count": 1
+		{
+			"week": 6,
+			"value": 0,
+			"children": [
+			]
 		},
-		"Trump is offering free one way tickets to Mexico and Africa for those who want to leave . Give me a ticket to Westeros. Then we'll talk.": {
-			"cluster": 7,
-			"count": 2
+		{
+			"week": 7,
+			"value": 0,
+			"children": [
+			]
 		},
-		"Trump is offering free one way tickets to mexico and africa to everyone that said they wanted to leave fuuuuck lmao": {
-			"cluster": 8,
-			"count": 1
+		{
+			"week": 8,
+			"value": 0,
+			"children": [
+			]
 		},
-		"Trump Offering Free 1-Way Tickets to Africa  Mexico  no need to put your $ where your mouth is! http:// tmzhiphop.com/trump-offering -free-one-way-tickets-to-africa-mexico-for-those-who-wanna-leave-america/  via @TRENDING": {
-			"cluster": 9,
-			"count": 15
+		{
+			"week": 9,
+			"value": 0,
+			"children": [
+			]
 		},
-		"Trump 's Airlines are offering free one way tickets to Africa and Mexico if we wanna go back to our own country ... He real bold lol smh": {
-			"cluster": 10,
-			"count": 1
+		{
+			"week": 10,
+			"value": 0,
+			"children": [
+			]
 		},
-		"People that want leave Trump paying for a one way ticket either to Africa or mexico": {
-			"cluster": 11,
-			"count": 1
+		{
+			"week": 11,
+			"value": 0,
+			"children": [
+			]
 		},
-		"#Trump offering free oneWay tickets to #Africa & #Mexico for those who wanna leave http:// bit.ly/2fKoT0G pic.twitter.com/I3ox02M4J6": {
-			"cluster": 12,
-			"count": 1
+		{
+			"week": 12,
+			"value": 0,
+			"children": [
+			]
 		},
-		"Donald Trump Offering One-Way Tickets to Africa & Mexico http://www. pokablog.com/donald-trump/ pic.twitter.com/7HUCrg3InM": {
-			"cluster": 13,
-			"count": 2
+		{
+			"week": 13,
+			"value": 0,
+			"children": [
+			]
 		},
-		"Is Trump legit offering one way tickets to either Africa or Mexico ? Talk about wildin' out!!": {
-			"cluster": 14,
-			"count": 1
+		{
+			"week": 14,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 15,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 16,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 17,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 18,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 19,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 20,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 21,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 22,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 23,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 24,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 25,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 26,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 27,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 28,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 29,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 30,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 31,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 32,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 33,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 34,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 35,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 36,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 37,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 38,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 39,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 40,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 41,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 42,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 43,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 44,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 45,
+			"value": 14,
+			"children": [
+				{
+					"name": "Trump Offering Free One-Way Tickets to Africa & Mexico for Those Who Wanna Leave America - TRENDING http:// fb.me/8mywGUhu5",
+					"cluster": 1,
+					"value": 320
+				},
+				{
+					"name": "Trump offering free one way tickets to Africa and Mexico for people who don't wanna stay here lmao",
+					"cluster": 2,
+					"value": 4
+				},
+				{
+					"name": "I cant handle Facebook anymore. Guys Trump isn't offering free one way tickets to Africa or Mexico . Read a newspaper #SupportThePress",
+					"cluster": 3,
+					"value": 1
+				},
+				{
+					"name": "Trump Offering Free One Way Tickets to Mexico and Africa http:// tmzhiphop.com/trump-offering -free-one-way-tickets-to-africa-mexico-for-those-who-wanna-leave-america/ ",
+					"cluster": 4,
+					"value": 34
+				},
+				{
+					"name": "I know it's fake news but trump offering one way tickets to Mexico n Africa had me dying!",
+					"cluster": 5,
+					"value": 1
+				},
+				{
+					"name": "@VanityFair Trump Airlines giving away a free one way ticket to Africa or Mexico  hmmm seems like a lie just like Trump 's Campaign promise",
+					"cluster": 6,
+					"value": 1
+				},
+				{
+					"name": "Trump is offering free one way tickets to Mexico and Africa for those who want to leave . Give me a ticket to Westeros. Then we'll talk.",
+					"cluster": 7,
+					"value": 2
+				},
+				{
+					"name": "Trump is offering free one way tickets to mexico and africa to everyone that said they wanted to leave fuuuuck lmao",
+					"cluster": 8,
+					"value": 1
+				},
+				{
+					"name": "Trump Offering Free 1-Way Tickets to Africa  Mexico  no need to put your $ where your mouth is! http:// tmzhiphop.com/trump-offering -free-one-way-tickets-to-africa-mexico-for-those-who-wanna-leave-america/  via @TRENDING",
+					"cluster": 9,
+					"value": 15
+				},
+				{
+					"name": "Trump 's Airlines are offering free one way tickets to Africa and Mexico if we wanna go back to our own country ... He real bold lol smh",
+					"cluster": 10,
+					"value": 1
+				},
+				{
+					"name": "People that want leave Trump paying for a one way ticket either to Africa or mexico",
+					"cluster": 11,
+					"value": 1
+				},
+				{
+					"name": "#Trump offering free oneWay tickets to #Africa & #Mexico for those who wanna leave http:// bit.ly/2fKoT0G pic.twitter.com/I3ox02M4J6",
+					"cluster": 12,
+					"value": 1
+				},
+				{
+					"name": "Donald Trump Offering One-Way Tickets to Africa & Mexico http://www. pokablog.com/donald-trump/ pic.twitter.com/7HUCrg3InM",
+					"cluster": 13,
+					"value": 2
+				},
+				{
+					"name": "Is Trump legit offering one way tickets to either Africa or Mexico ? Talk about wildin' out!!",
+					"cluster": 14,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 46,
+			"value": 1,
+			"children": [
+				{
+					"name": "Trump Offering Free One-Way Tickets to Africa & Mexico for Those Who Wanna Leave America - TRENDING http:// fb.me/JH0IUyw8",
+					"cluster": 1,
+					"value": 71
+				}
+			]
+		},
+		{
+			"week": 47,
+			"value": 1,
+			"children": [
+				{
+					"name": "Trump Offering Free One-Way Tickets To Africa & Mexico For Those Who Wanna... http:// po.st/wrMUB1",
+					"cluster": 1,
+					"value": 16
+				}
+			]
+		},
+		{
+			"week": 48,
+			"value": 1,
+			"children": [
+				{
+					"name": "Donald Trump Giving Out Free One-Way Tickets to Africa & Mexico for Those Who Wants To Leave America http:// thatsfeed.net/4XbZ6oy2ls/202 024 ",
+					"cluster": 1,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 49,
+			"value": 1,
+			"children": [
+				{
+					"name": "Donald Trump Giving Out Free One-Way Tickets to Africa & Mexico for Those Who Wants To Leave America http:// thatsfeed.net/4XbZ6oy2ls/202 024 ",
+					"cluster": 1,
+					"value": 3
+				}
+			]
+		},
+		{
+			"week": 50,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 51,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 52,
+			"value": 1,
+			"children": [
+				{
+					"name": "Third-most popular:  Trump Offering Free One-Way Tickets to Africa & Mexico for Those Who Wanna Leave America https:// apple.news/AJH4sZmibQhmpU D6H3w5pPg ",
+					"cluster": 1,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 53,
+			"value": 0,
+			"children": [
+			]
 		}
-	},
-	{
-		"Trump Offering Free One-Way Tickets to Africa & Mexico for Those Who Wanna Leave America - TRENDING http:// fb.me/JH0IUyw8": {
-			"cluster": 1,
-			"count": 71
-		}
-	},
-	{
-		"Trump Offering Free One-Way Tickets To Africa & Mexico For Those Who Wanna... http:// po.st/wrMUB1": {
-			"cluster": 1,
-			"count": 16
-		}
-	},
-	{
-		"Donald Trump Giving Out Free One-Way Tickets to Africa & Mexico for Those Who Wants To Leave America http:// thatsfeed.net/4XbZ6oy2ls/202 024 ": {
-			"cluster": 1,
-			"count": 1
-		}
-	},
-	{
-		"Donald Trump Giving Out Free One-Way Tickets to Africa & Mexico for Those Who Wants To Leave America http:// thatsfeed.net/4XbZ6oy2ls/202 024 ": {
-			"cluster": 1,
-			"count": 3
-		}
-	},
-	{
-	},
-	{
-	},
-	{
-		"Third-most popular:  Trump Offering Free One-Way Tickets to Africa & Mexico for Those Who Wanna Leave America https:// apple.news/AJH4sZmibQhmpU D6H3w5pPg ": {
-			"cluster": 1,
-			"count": 1
-		}
-	},
-	{
-	}
-]
+	]
+}

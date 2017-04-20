@@ -1,2044 +1,2744 @@
-[
-	{
-		"@LOHANTHONY you can move to Ireland if trump takes over xx": {
-			"cluster": 1,
-			"count": 1
+{
+	"name": "ireland trump refugee OR refugees OR accept OR accepting OR accepted OR take OR takes OR taking",
+	"value": 53,
+	"children": [
+		{
+			"week": 1,
+			"value": 1,
+			"children": [
+				{
+					"name": "@LOHANTHONY you can move to Ireland if trump takes over xx",
+					"cluster": 1,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 2,
+			"value": 1,
+			"children": [
+				{
+					"name": "@EricTrump @Trump _ Ireland we need U Don Jr & Ivanka to take control of reigns - your father will be gone a long time-we trust U as he does",
+					"cluster": 2,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 3,
+			"value": 2,
+			"children": [
+				{
+					"name": "2016 election possibilities. #Trump vs #Sanders  with #Bernie winning. #SinnFein in Govt in Ireland . #PirateParty take power in #Iceland .",
+					"cluster": 3,
+					"value": 1
+				},
+				{
+					"name": "I wonder since I'm an immigrant if I can move to Ireland or something as a refugee of Trump gets elected... #UK #DonaldTrump",
+					"cluster": 4,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 4,
+			"value": 2,
+			"children": [
+				{
+					"name": "@KEEMSTARx do Americans actually take trump seriously? In Europe hes seen as a joke and we've had our share of them in ireland",
+					"cluster": 5,
+					"value": 1
+				},
+				{
+					"name": "If Trump takes the seat as president. We are moving out of this country. Ireland / Canada / UK.",
+					"cluster": 6,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 5,
+			"value": 1,
+			"children": [
+				{
+					"name": "Greetings from Ireland Eric!! If Trump takes New Hampshire he could win the lot! I'm lovin the coverage!! https:// twitter.com/ericbolling/st atus/695572418216251392 ",
+					"cluster": 7,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 6,
+			"value": 4,
+			"children": [
+				{
+					"name": "Trump : Not using profanities is easy - mammies across Ireland  take note of this quote to tell your kids! #GOPDebate",
+					"cluster": 8,
+					"value": 1
+				},
+				{
+					"name": "@KirstenPowers @KatrinaNation Kirstenif Trump becomes POTUS U& family welcome here in Australia.BOrielly going Ireland if SANDERS. Take care",
+					"cluster": 9,
+					"value": 1
+				},
+				{
+					"name": "Takes 10 years to dismantle HSE??? Ireland needs a Trump not a Leo. @FineGael @campaignforleo #twip",
+					"cluster": 10,
+					"value": 1
+				},
+				{
+					"name": "@laura_ ireland you know it beautiful lady Go Trump !!! time to take Back America !!! pic.twitter.com/RDINm5w802",
+					"cluster": 11,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 7,
+			"value": 1,
+			"children": [
+				{
+					"name": "When I asked my dad if we would move to Canada if Trump was elected he said no Ireland  because Trump was going to take over Canada",
+					"cluster": 12,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 8,
+			"value": 6,
+			"children": [
+				{
+					"name": "in the midst of #GE16 #ireland coverage take a few mins to read @marionmckeone in today's @sundaybusiness #Trump and #racism",
+					"cluster": 13,
+					"value": 1
+				},
+				{
+					"name": "With Pfizer moving to Ireland  I am waiting for Donald Trump to say he will no longer be taking Viagra.",
+					"cluster": 14,
+					"value": 1
+				},
+				{
+					"name": "Take a break from Trump . Ireland votes today. http://www. ft.com/intl/cms/s/0/c d8719ca-db09-11e5-98fd-06d75973fe09.html#axzz41FxhgrK0  pic.twitter.com/BWPso60zEv",
+					"cluster": 15,
+					"value": 1
+				},
+				{
+					"name": "if trump wins the election I'm declaring myself a political refugee and moving to Ireland",
+					"cluster": 16,
+					"value": 1
+				},
+				{
+					"name": "@FoxNews @KarlRove NO The only reason why Cruz won in IA was b/c he cheated. Trump is taking every State. We are done with Politicians",
+					"cluster": 17,
+					"value": 1
+				},
+				{
+					"name": "@Kingghidorah64 well Ireland is always willing to take Refugees from America fleeing a Trump administration",
+					"cluster": 18,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 9,
+			"value": 11,
+			"children": [
+				{
+					"name": "If the election comes down to Hillary or Trump .. I can whole heartedly say I'm gonna do all that it takes to move to Ireland .",
+					"cluster": 19,
+					"value": 1
+				},
+				{
+					"name": "@Jacobnbc Trump needs to take a tour of that BEAUTY!!!",
+					"cluster": 20,
+					"value": 1
+				},
+				{
+					"name": "@foxandfriends @FoxFriendsFirst Trump with his 15% corp tax ..that puts into competition with Ireland that is taking our corp due to low tax",
+					"cluster": 21,
+					"value": 1
+				},
+				{
+					"name": "If trump is elected president I'm taking my ass to Ireland . All are welcome to join me.",
+					"cluster": 22,
+					"value": 1
+				},
+				{
+					"name": "The Harry Potter club offered to take me with them to Ireland and live there in a castle if trump wins.",
+					"cluster": 23,
+					"value": 1
+				},
+				{
+					"name": "@Matttt_wynne yassss I'm so happy rn  but for real if trump becomes president were moving to Ireland we'll take Grayson ...",
+					"cluster": 24,
+					"value": 1
+				},
+				{
+					"name": "@Matttt_wynne trump is leading the Republican Party pls take me to Ireland and just drop me off and leave me there...",
+					"cluster": 25,
+					"value": 1
+				},
+				{
+					"name": "Who in the uk and Ireland wants to take in a chef when the USA burns as trump plays a streaming audio of a fiddle?",
+					"cluster": 26,
+					"value": 1
+				},
+				{
+					"name": "If Trump becomes US president - expect flood of fleeing American refugees struggling across Atlantic and washing up in west Ireland /Cornwall",
+					"cluster": 27,
+					"value": 1
+				},
+				{
+					"name": "@realDonaldTrump @ZANVDEM Trump is gettting better and better as time passeshe's taking on all the real criminal bullies and cowards",
+					"cluster": 28,
+					"value": 1
+				},
+				{
+					"name": "In America a nutter ( Trump or similar) is in danger of taking over the building; in Ireland the nutters (fringe groups inds) already have.",
+					"cluster": 29,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 10,
+			"value": 11,
+			"children": [
+				{
+					"name": ". @clairlemon @newscomauHQ Ireland and (gulp) the U.S.? Or would Post- Trump Americans be considered refugees ?",
+					"cluster": 30,
+					"value": 1
+				},
+				{
+					"name": "If trump wins I need @wwebalor to marry me and take me to Ireland",
+					"cluster": 31,
+					"value": 1
+				},
+				{
+					"name": "Donald Trump : I've told the police be gentle when take those protesters out #TrumpRally",
+					"cluster": 32,
+					"value": 1
+				},
+				{
+					"name": "Donald Trump  We're going to take our country back from those people..they do nothing! #TrumpRally",
+					"cluster": 33,
+					"value": 1
+				},
+				{
+					"name": "@SenanByrne is Ireland pretty awesome? Need a place to after Adolf Trump takes over",
+					"cluster": 34,
+					"value": 1
+				},
+				{
+					"name": "@HealthyBalance8 @coeursvoles Ireland was on a list of countries that would totally accept people looking to leave the US if Trump wins.",
+					"cluster": 35,
+					"value": 1
+				},
+				{
+					"name": "Cartoonists Overseas Take on Donald Trump http://www. politico.com/magazine/galle ry/2016/03/foreign-cartoonists-trump-000621?slide=0  The horror of the hair. Dan Murphy of Ireland 's is impressive! Trump dump?",
+					"cluster": 36,
+					"value": 1
+				},
+				{
+					"name": "So ireland has no #Taoiseach . Better then the chance of #Trump taking over tho right?",
+					"cluster": 37,
+					"value": 1
+				},
+				{
+					"name": "So now #Trump wants to take Physer out of #Ireland and back to USA on CNN Anderson Cooper. #Krumpf",
+					"cluster": 38,
+					"value": 1
+				},
+				{
+					"name": "@Lee_Eisenberg Ireland will accept limited numbers of political refugees in a post- Trump election apocalypse. Form an orderly queue...",
+					"cluster": 39,
+					"value": 1
+				},
+				{
+					"name": "Wondering if Arlene Foster wants to take a leaf from Trump 's book and resurrect a great work from Early Ireland pic.twitter.com/w4J2lHalRk",
+					"cluster": 40,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 11,
+			"value": 7,
+			"children": [
+				{
+					"name": "#Trump supporters claim Paul Ryan's tie proves he was born in Ireland . Speaker denies he'll accept nomination @pryan pic.twitter.com/U4j6T7Xk3K",
+					"cluster": 41,
+					"value": 1
+				},
+				{
+					"name": "@amsaph A dear friend is here from Ireland and she has concluded that the US runs on fear...and Trump is totally taking advantage.",
+					"cluster": 42,
+					"value": 1
+				},
+				{
+					"name": "We're moving to Ireland  we're just moving back if Trump is elected. - Grandma's take on politics",
+					"cluster": 43,
+					"value": 1
+				},
+				{
+					"name": "The reason companies are coming to Ireland is the corporation tax is 12.5% unlike 35% in the states #Trump ! Plus we accept crap wages",
+					"cluster": 44,
+					"value": 1
+				},
+				{
+					"name": "We should not allow Pfizer to go to Ireland . Trump knows this because he liked to take companies overseas",
+					"cluster": 45,
+					"value": 1
+				},
+				{
+					"name": "Cartoonists Overseas Take on Donald Trump - Ireland http://www. politico.com/magazine/galle ry/2016/03/foreign-cartoonists-trump-000621?slide=3  #NeverTrump #LoathedWorldwide #CrassAsItGets",
+					"cluster": 46,
+					"value": 1
+				},
+				{
+					"name": "When you see Pfizer moving to Ireland and you see that in the future. This principle was that the purpose of taking them from us.",
+					"cluster": 47,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 12,
+			"value": 10,
+			"children": [
+				{
+					"name": "Ireland and Australia's are so good ~ Cartoonists Overseas Take on Donald Trump http://www. politico.com/magazine/galle ry/2016/03/foreign-cartoonists-trump-000621?slide=6 ",
+					"cluster": 46,
+					"value": 1
+				},
+				{
+					"name": "Donald Trump calls out Ireland for taking US jobs http://www. irishtimes.com/business/econo my/donald-trump-calls-out-ireland-for-taking-us-jobs-1.2582851#.VvPkkFY_ZQY.twitter@IrishTimesBiz ",
+					"cluster": 48,
+					"value": 15
+				},
+				{
+					"name": "Inishturk Island Ireland  has now also offered to take in Americans fleeing Trump . Real refugees should be as lucky as we are.",
+					"cluster": 49,
+					"value": 1
+				},
+				{
+					"name": "#Donald Trump calls out Ireland for taking US jobs #jobs #jobsearch #: #Countries like Mexico and Ireland are ... http:// bit.ly/1U6fUqp",
+					"cluster": 50,
+					"value": 2
+				},
+				{
+					"name": "So Ireland will take Americans fleeing Trump ? I'm a bit surprised they're not offering to take Americans fleeing Clinton.",
+					"cluster": 51,
+					"value": 1
+				},
+				{
+					"name": "We should take a page out of Trump 's book and build a wall between Ireland and England. #MakeIrelandGreatAgain #TrumpTrain",
+					"cluster": 52,
+					"value": 1
+				},
+				{
+					"name": "For like the 5000th time Trump implied that when Pfizer inverts to Ireland  it takes jobs with it. Not true. http://www. bna.com/trump-taxes-b1 7179935343/ ",
+					"cluster": 53,
+					"value": 1
+				},
+				{
+					"name": "In his @washingtonpost editorial board meeting Trump mentions Ireland taking jobs (presumably American jobs). It doesn't. EU's a big market",
+					"cluster": 54,
+					"value": 1
+				},
+				{
+					"name": "A transcript of Trump 's meeting with The Washington Post editorial board ( Ireland gets mentioned for taking jobs http:// wpo.st/H6rN1",
+					"cluster": 55,
+					"value": 1
+				},
+				{
+					"name": "I take it back if Trump wins I'm moving to Italy or LONDON. or Ireland  they don't have as many problems ( I don't think...)",
+					"cluster": 56,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 13,
+			"value": 8,
+			"children": [
+				{
+					"name": "Take a look at Ireland 's #erodingcoastline after #RTEprime time episode on #Trump 's golf course #doonbeg",
+					"cluster": 57,
+					"value": 1
+				},
+				{
+					"name": "Cringed looking at #Trump on #rtept we welcome #refugees we don't welcome #racist . Keep that mad man out of Ireland",
+					"cluster": 58,
+					"value": 1
+				},
+				{
+					"name": "Cruz & #Trump are DANGEROUS: Ireland is prosecuting a 21 yr-old for taking pills to prevent pregnancy! #WarOnWomen https:// twitter.com/rishikesh2905/ status/715554574325538816 ",
+					"cluster": 59,
+					"value": 1
+				},
+				{
+					"name": "@kencurtin Yes indeed but hasn't Ireland been becoming more liberal little by little? Trump wants to take a huge step back.",
+					"cluster": 60,
+					"value": 1
+				},
+				{
+					"name": "Trump takes lead from Ireland & says punish women for abortions @repealeight http://www. irishtimes.com/news/world/us/ donald-trump-says-women-should-be-punished-for-abortions-1.2592878  pic.twitter.com/dX2fYJLroc",
+					"cluster": 61,
+					"value": 1
+				},
+				{
+					"name": "There's literally a website for American refugees immigrating to Ireland if Donald Trump becomes president",
+					"cluster": 62,
+					"value": 1
+				},
+				{
+					"name": "I swear if Trump becomes president I am taking my passport and moving straight back to Ireland",
+					"cluster": 63,
+					"value": 1
+				},
+				{
+					"name": "#DonaldTrump says the US can't take anyone who might be in any way related to ISIS. Ireland can't take anyone in any way related to Trump .",
+					"cluster": 64,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 14,
+			"value": 3,
+			"children": [
+				{
+					"name": "#IrishMed top trend in Ireland for 8 hrs @GoffHickey ' Take that Donald Trump ;your boys took one hell of a beating' https://www. dropbox.com/s/1el2iet4e95s r7a/Screenshot%202016-04-07%2007.28.37.png?dl=0 ",
+					"cluster": 65,
+					"value": 1
+				},
+				{
+					"name": "@oreillyfactor Feizer not to move to Ireland kandy after alk. TRUMP spoke about this issue many times. Taking jobs away",
+					"cluster": 66,
+					"value": 1
+				},
+				{
+					"name": "Trump abused over his abortion comments. In Northern Ireland a woman has been given a suspended sentence for taking an abortion Pill.",
+					"cluster": 67,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 15,
+			"value": 3,
+			"children": [
+				{
+					"name": "POLL: At This Rate Would You Take Donald Trump Over This Shower? http:// waterfordwhispersnews.com/2016/04/15/pol l-at-this-rate-would-you-take-donald-trump-over-this-shower/?utm_source=WWN_Twitter_Account&utm_medium=Twitter&utm_campaign=Social_Link&utm_content=Article  #ireland pic.twitter.com/ALmEKEYzph",
+					"cluster": 68,
+					"value": 1
+				},
+				{
+					"name": "@AppSame @DrMartyFox @ChristieC733 @realDonaldTrump #TRUMP #CONGRESS @SpeakerRyan @SenateMajLdr REFUGEES TO IRELAND https:// twitter.com/ONECampaign/st atus/719857853968883713 ",
+					"cluster": 69,
+					"value": 1
+				},
+				{
+					"name": "@TammaraMaiden1 @RebeccaHewitt18 @interUNFAO @bimmerella @TripleMinority @annanotherthng Ireland is accepting refugees from Trump Land.",
+					"cluster": 70,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 16,
+			"value": 0,
+			"children": [
+			]
+		},
+		{
+			"week": 17,
+			"value": 4,
+			"children": [
+				{
+					"name": "Ironically he's an anti-immigrant Trump supporter from Ireland . I don't think a single refugee has ever gone TO Ireland .",
+					"cluster": 71,
+					"value": 1
+				},
+				{
+					"name": "@david75donovan @TrueEgAl @PopulationWatch @drewmistak @conradhackett how many is ireland taking in?",
+					"cluster": 72,
+					"value": 1
+				},
+				{
+					"name": "@farleftcoast If Trump wins there is a place in Ireland that shall accept us for free!!",
+					"cluster": 73,
+					"value": 1
+				},
+				{
+					"name": "If trump supporters find america so bad rn why dont they take their stupid asses to 7% ireland 8% germany 12% britan......",
+					"cluster": 74,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 18,
+			"value": 7,
+			"children": [
+				{
+					"name": "People who are trying to move to Ireland if Trump becomes President should have to take a history test to get in.",
+					"cluster": 75,
+					"value": 1
+				},
+				{
+					"name": "@SNu_Zeke371 well then trump taking GOP nomination then should give me more of a reason to go to Ireland now",
+					"cluster": 76,
+					"value": 1
+				},
+				{
+					"name": "Take heart Northern Ireland ....whatever the outcome of #Elections2016 we are safe in the knowledge we won't have voted in #Trump #ae16",
+					"cluster": 77,
+					"value": 1
+				},
+				{
+					"name": "@KupoOnToast I think I'll vote Trump ... so I can move to Ireland . Because they are apparently open to taking Trump - refugees",
+					"cluster": 78,
+					"value": 1
+				},
+				{
+					"name": "@Hippie_Gemma Maybe we'll build a wall around the UK and charge you for it. But I did see Ireland is accepting citizens if Trump wins.",
+					"cluster": 79,
+					"value": 1
+				},
+				{
+					"name": "Hey Ted Take time out in St Mullins The Mystic center of Ireland #TedCruz #Trump #dublin #carlow #waterford pic.twitter.com/kxuoWxYIpq",
+					"cluster": 80,
+					"value": 1
+				},
+				{
+					"name": "I COME BACK TO THE UNITED STATES AND NOT EVEN 8 HOURS LATER AND TRUMP IS THE NOMINEE SCREW THIS TAKE ME BACK TO IRELAND",
+					"cluster": 81,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 19,
+			"value": 17,
+			"children": [
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/6gMQP8MIZ",
+					"cluster": 82,
+					"value": 168
+				},
+				{
+					"name": "Ireland is now officially accepting Trump refugees from America http:// ift.tt/27q4lz6 #Mimmer #Politics",
+					"cluster": 83,
+					"value": 9
+				},
+				{
+					"name": ". @LorrieHope1955 Ireland Is Seriously Accepting Trump human beings From The U.S. -- Here's Why #HumanCrisis",
+					"cluster": 84,
+					"value": 13
+				},
+				{
+					"name": "there's also an island off the coast of Ireland accepting post- Trump ex-pats so you do have options @MapleMatch",
+					"cluster": 85,
+					"value": 1
+				},
+				{
+					"name": "Is this thing about Ireland accepting Americans if Donald Trump gets elected real? Because I mean sign me up.",
+					"cluster": 86,
+					"value": 1
+				},
+				{
+					"name": "In other news Ireland has agreed to accept American refugees if Trump becomes President.",
+					"cluster": 87,
+					"value": 1
+				},
+				{
+					"name": ". @SarcasticGringo Help me out #Ireland if Trump really wins will you take us in as political humans? #HumanCrisis",
+					"cluster": 88,
+					"value": 2
+				},
+				{
+					"name": "LOL didn't know that. Well Ireland would still likely protect US trump refugees from trained (by roy cohen) macathyite trump",
+					"cluster": 89,
+					"value": 1
+				},
+				{
+					"name": "IRELAND IS NOW OFFICIALLY ACCEPTING TRUMP REFUGEES FROM AMERICA https:// bandannie.com/2016/05/15/ire land-is-now-officially-accepting-trump-refugees-from-america/  via @wordpressdotcom",
+					"cluster": 90,
+					"value": 4
+				},
+				{
+					"name": ". @MichelleGregg61 Inishturk Ireland is offering to take in American human beings just in case Trump gets elected. More than likely...",
+					"cluster": 91,
+					"value": 2
+				},
+				{
+					"name": "Ireland is taking refugees if trump gets elected..I know where I'll be going #irishroots",
+					"cluster": 92,
+					"value": 1
+				},
+				{
+					"name": "Ireland has now joined Canada in accepting Americans requesting political asylum from a Donald Trump presidency. -- http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 93,
+					"value": 1
+				},
+				{
+					"name": "wow other countries are offering us a Silence from a possible Trump presidency we may have to take Ireland",
+					"cluster": 94,
+					"value": 1
+				},
+				{
+					"name": ". @soloniallrising Also thank you Ireland for accepting trump humans #HumanCrisis",
+					"cluster": 95,
+					"value": 2
+				},
+				{
+					"name": ". @saoirseomara Ireland Is Now Officially Accepting Trump humans From America Do we need more proof that it *is* bad? #noTrump #HumanCrisis",
+					"cluster": 96,
+					"value": 6
+				},
+				{
+					"name": "#Ireland joins #Canada in accepting #Trump #Refugees from America http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 97,
+					"value": 1
+				},
+				{
+					"name": "#Ireland Is Now Officially Accepting #Trump Refugees From America Can't take the idea of a Trump presidency? Then... http:// fb.me/Acw7D6G3",
+					"cluster": 98,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 20,
+			"value": 10,
+			"children": [
+				{
+					"name": "BREAKING : Ireland is now officially accepting Trump refugees from America | Cosmo Politics http:// fb.me/1679De98L",
+					"cluster": 83,
+					"value": 47
+				},
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/7bAuEUlP1",
+					"cluster": 82,
+					"value": 40
+				},
+				{
+					"name": "Ireland is accepting Trump refugees . http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 99,
+					"value": 4
+				},
+				{
+					"name": "Just found out if Trump becomes president Ireland is excepting Americans as refugees !",
+					"cluster": 100,
+					"value": 1
+				},
+				{
+					"name": "Ireland Is Seriously Accepting Trump Refugees From The U.S.  Heres Why http://www. liberalamerica.org/2016/05/15/ire land-is-seriously-accepting-trump-refugees-from-the-u-s-heres-why/  via @LibAmericaOrg",
+					"cluster": 84,
+					"value": 4
+				},
+				{
+					"name": "I hear Ireland & Canada will accept Trump refugees . Upside to Trump vote.",
+					"cluster": 101,
+					"value": 1
+				},
+				{
+					"name": ">Scandinavian countries along with Ireland will be accepting refugees from America should Trump become president I'M FUCKING DOING IT",
+					"cluster": 102,
+					"value": 1
+				},
+				{
+					"name": "This sounds awesome. #Ireland Is Seriously Accepting #Trump #Refugees From The U.S. -- Here's Why http:// bit.ly/1OyzPNi",
+					"cluster": 84,
+					"value": 2
+				},
+				{
+					"name": "#Ireland & #Canada now accepting #Trump #refugees http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 97,
+					"value": 1
+				},
+				{
+					"name": "#Ireland  now welcoming #Trump refugees ! http:// fb.me/3DHSSN4db",
+					"cluster": 103,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 21,
+			"value": 6,
+			"children": [
+				{
+					"name": "Ireland Is Seriously Accepting Trump Refugees From The U.S. -- Here's Why http:// fb.me/4zJdjBamz",
+					"cluster": 82,
+					"value": 4
+				},
+				{
+					"name": "BREAKING : Ireland is now officially accepting Trump refugees from America | Cosmo Politics http:// cosmo-politics.com/2016/05/18/bre aking-ireland-is-now-officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 83,
+					"value": 1
+				},
+				{
+					"name": "Trump Building Wall in Ireland to Keep Climate Change Out News that the Donalds businesses take climate change... http:// fb.me/14AwVQT6P",
+					"cluster": 104,
+					"value": 6
+				},
+				{
+					"name": "Jemaine tweeted an article that stated Ireland will take those of us trying to escape Trump . Truth?",
+					"cluster": 105,
+					"value": 1
+				},
+				{
+					"name": "#Climate Guardian  Trump dismissive of CC but takes threat seriously when it comes to his golf course in Ireland http:// bit.ly/1TKBq2X",
+					"cluster": 106,
+					"value": 1
+				},
+				{
+					"name": "Wow. Even Donald Trump is taking the time to prepare for #ClimateChange along Ireland 's west coast. Lessons for gov? https:// twitter.com/ArthurNeslen/s tatus/735016112295976960 ",
+					"cluster": 107,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 22,
+			"value": 9,
+			"children": [
+				{
+					"name": "Trump takes time-out from trail to visit golf courses in Scotland Ireland via the @FoxNews App http://www. foxnews.com/politics/2016/ 06/03/trump-takes-time-out-from-trail-to-visit-golf-courses-in-scotland-ireland.html ",
+					"cluster": 108,
+					"value": 36
+				},
+				{
+					"name": "Spare me the Trump visiting Ireland hot takes ; we've already implemented his removal of birthright citizenship policy here",
+					"cluster": 109,
+					"value": 1
+				},
+				{
+					"name": "#Trump is coming to visit Ireland  Anti fascist action take note he is a high profile person Gardai will come down heavy on any violence .",
+					"cluster": 110,
+					"value": 1
+				},
+				{
+					"name": "Trump will probably use his trip to Ireland to take pot shots at the Democratic Party via Joe Biden",
+					"cluster": 111,
+					"value": 1
+				},
+				{
+					"name": ". @bingoald Ireland Is Now Officially Accepting Trump humans From America #HumanCrisis",
+					"cluster": 82,
+					"value": 2
+				},
+				{
+					"name": "So Biden and Trump will be in Ireland at the same time. That'll take the edge off silly season.",
+					"cluster": 112,
+					"value": 1
+				},
+				{
+					"name": "Apparently trump is coming to ireland  taKE HIM BAC K",
+					"cluster": 113,
+					"value": 1
+				},
+				{
+					"name": "BREAKING : Ireland is now officially accepting Trump refugees from America | Cosmo Politics http:// fb.me/7Xk2EhZHM",
+					"cluster": 83,
+					"value": 3
+				},
+				{
+					"name": "Ireland Is Seriously Accepting Trump Refugees From The U.S. -- Here's Why http:// fb.me/TnU3KhwT",
+					"cluster": 82,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 23,
+			"value": 8,
+			"children": [
+				{
+					"name": "http://www. thejournal.ie/donald-trump-i slamic-centre-dublin-2814986-Jun2016/?utm_source=facebook_short  . WOULD YOU ACCEPT THIS OFFER MR. TRUMP ??? #Trump #Ireland #Thejournal .ie #Usa #DonaldTrump #DonaldTrumpforPresident",
+					"cluster": 114,
+					"value": 1
+				},
+				{
+					"name": "Ireland ? #Trump wants to take a judge off a #GMO potato labeling case because of his Irish ancestry. @Palecrybaby #tcot",
+					"cluster": 115,
+					"value": 1
+				},
+				{
+					"name": "Honestly just going to take my Ireland passport and move to Europe if Trump be comes President",
+					"cluster": 116,
+					"value": 1
+				},
+				{
+					"name": "Could I move to Ireland as a political Refugee seeking asylum if #HillaryClinton or #Trump get into the White House.... Just curious...",
+					"cluster": 117,
+					"value": 1
+				},
+				{
+					"name": "' Trump Not Welcome' protest to take place against Donald Trump 's visit to Ireland http://www. rte.ie/radio/utils/ra dioplayer/rteradioweb.html#!rii=b9%5F21001064%5F48%5F08%2D06%2D2016%5F   pic.twitter.com/STnwn4Mcd9",
+					"cluster": 118,
+					"value": 1
+				},
+				{
+					"name": ". @MEH957 @misterjaded I hear there's a place in Ireland accepting Trump human beings #HumanCrisis",
+					"cluster": 119,
+					"value": 2
+				},
+				{
+					"name": "Ireland announced that if Trump wins the election they'll take in American refugees ... I'm down to go back to the motherland",
+					"cluster": 120,
+					"value": 1
+				},
+				{
+					"name": "Ireland  England Canada and the Netherlands will be accepting American immigrants if trump gets elected. Start planning.",
+					"cluster": 121,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 24,
+			"value": 9,
+			"children": [
+				{
+					"name": "Trump is no role model for Ireland 's refugee policy http://www. independent.ie/opinion/column ists/eoghan-harris/trump-is-no-role-model-for-irelands-refugee-policy-34813672.html  via @Independent_ie",
+					"cluster": 122,
+					"value": 5
+				},
+				{
+					"name": "Trump is no role model for Ireland 's refugee policy:  a better future for Northern Ireland . But awa... http:// bit.ly/1ZZymRa",
+					"cluster": 123,
+					"value": 4
+				},
+				{
+					"name": "#Trump now skips Ireland on trip. Can't compete with #Biden  or tries to hide #GlobalWarming take #IndependentVoters pic.twitter.com/qUSQdSDSP3",
+					"cluster": 124,
+					"value": 1
+				},
+				{
+					"name": "@Morning_Joe @JoeNBC @morningmika More interesting than who Trump might pick as VP is the question what sane person would accept it?!",
+					"cluster": 125,
+					"value": 1
+				},
+				{
+					"name": "Must watch...... Video: President Obama Takes on Donald Trump During Speech on ISIS http:// abcnews.go.com/Politics/video /president-obama-takes-donald-trump-speech-isis-39849704?cid=share_twitter_widget ",
+					"cluster": 126,
+					"value": 1
+				},
+				{
+					"name": "Trump 's not coming to Ireland  I was looking forward to the political lot bending over and taking it up the poo pipe...",
+					"cluster": 127,
+					"value": 1
+				},
+				{
+					"name": "Michael Moore has called on Irish people to  take the p**s out of Donald Trump when he visits Ireland later this... http:// fb.me/2GHraTZEL",
+					"cluster": 128,
+					"value": 1
+				},
+				{
+					"name": "@JonathanRKnight donald trump is coming here to Ireland in a week or two. Taking bids to lock him in a room and throw away the key lol #joke",
+					"cluster": 129,
+					"value": 1
+				},
+				{
+					"name": "@Lawrence @realDonaldTrump Irish were known terrorists at the time. Can't take chance -Scotland near Ireland . Deport trump .",
+					"cluster": 130,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 25,
+			"value": 24,
+			"children": [
+				{
+					"name": "hmmm. Maybe we future Pres Trump refugees should consider Ireland .",
+					"cluster": 131,
+					"value": 1
+				},
+				{
+					"name": "Between this and Trump  Ireland may has its own unique refugee crisis 'cos so many have rights to granny citizenship https:// twitter.com/sambrook/statu s/746762134831370241 ",
+					"cluster": 132,
+					"value": 1
+				},
+				{
+					"name": "Biden to take on Trump in Ireland http:// thehill.com/homenews/admin istration/284761-biden-to-take-on-trump-in-ireland ",
+					"cluster": 133,
+					"value": 11
+				},
+				{
+					"name": "@realDonaldTrump Trump said UK took its country back. Yup Scotland Northern Ireland  may take back their countries from the UK.",
+					"cluster": 134,
+					"value": 1
+				},
+				{
+					"name": "Donald Trump bad mouthing Pres Obama over n Ireland . Media blows it off but admits it would not b accepted if it were done to any other Pres",
+					"cluster": 135,
+					"value": 1
+				},
+				{
+					"name": "Hmm take back my country 'this England' -And when Scotland & Ireland leave? Trump / @CNN -Don't explain consequences https:// twitter.com/politico/statu s/746420162752983042 ",
+					"cluster": 136,
+					"value": 1
+				},
+				{
+					"name": "Trump arrives in Scotland on the day of #EUref result...UK out of EU Scotland & Ireland want out of UK take note USA!! #666",
+					"cluster": 137,
+					"value": 1
+				},
+				{
+					"name": "Now when the Mob takes over the Bahamas and Trump becomes president all I have is Britain Whales Ireland and Scotland... Fuck the UK",
+					"cluster": 138,
+					"value": 1
+				},
+				{
+					"name": "Biden to take on Trump in Ireland : The VP will slam demagogues in politics who blame immigrants for problems. http:// bit.ly/294cEID",
+					"cluster": 139,
+					"value": 2
+				},
+				{
+					"name": "With #Farage & #B .Johnson to take charge in UK & #Trump in America surely it's not outlandish that #Ireland could win #EURO2016 #Brexit",
+					"cluster": 140,
+					"value": 1
+				},
+				{
+					"name": "Lol Trump says UK votes to take its country back except Scotland and Northern Ireland now want to leave.",
+					"cluster": 141,
+					"value": 1
+				},
+				{
+					"name": "Waiting 4 Trump to take credit for UK leaving EU now 2 make Ireland France Belgium & Netherlands build a giant wall! #UKreferendum #UKref",
+					"cluster": 142,
+					"value": 1
+				},
+				{
+					"name": "So I'm awake in Ireland with news the UK voted leave. Look out Merica the forces of Trump are global elites take note.",
+					"cluster": 143,
+					"value": 1
+				},
+				{
+					"name": "Frantz Fanon would so be diggin' on this: UK gonna ' take their country back' N Ireland Sinn Fein bugout & Scots flying Mexican flag @Trump",
+					"cluster": 144,
+					"value": 1
+				},
+				{
+					"name": "If Scotland & Ireland leave to the EU an American referendum's in order. Let US states secede & take Trump w/ 'em. #theCentreWillNotHold",
+					"cluster": 145,
+					"value": 1
+				},
+				{
+					"name": "@VP Visits Ireland  Takes Shots at Donald Trump . #BestVPever #JoeBiden http://www. irishcentral.com/roots/ancestry /Joe-Biden-on-the-personal-nature-of-his-visit-to-his-ancestral-home.html  : http://www. irishcentral.com/roots/ancestry /Joe-Biden-on-the-personal-nature-of-his-visit-to-his-ancestral-home.html ",
+					"cluster": 146,
+					"value": 1
+				},
+				{
+					"name": "You will be welcome in Ireland along with the Trump refugees from the States !",
+					"cluster": 147,
+					"value": 1
+				},
+				{
+					"name": "#Trump takes opposing stances on climate change depending on if he's in the US or Ireland . http:// ow.ly/d1vJ30191vE",
+					"cluster": 148,
+					"value": 1
+				},
+				{
+					"name": "- and what do you want by ' take control'. Sounds a little Trump -esque. Ireland would be hit badly if Britain left",
+					"cluster": 149,
+					"value": 1
+				},
+				{
+					"name": "Joe Biden takes his anti-Donald Trump crusade to Ireland next week | Daily Mail Online http://www. dailymail.co.uk/news/article-3 651297/Biden-tees-anti-Trump-moment-plans-Ireland-speech-just-Republican-Donald-Trump-visits-Scottish-golf-course.html ",
+					"cluster": 150,
+					"value": 9
+				},
+				{
+					"name": "Vi. P. Biden takes his anti- Trump crusade to Ireland next week http:// dailym.ai/28JCIY7 What part of illegal is Biden not understanding?",
+					"cluster": 151,
+					"value": 2
+				},
+				{
+					"name": "Vice President Joe Biden takes anti-Donald Trump crusade to Ireland as The Don flies to his resort in Scotland http:// dailym.ai/28JCIY7",
+					"cluster": 152,
+					"value": 2
+				},
+				{
+					"name": "#maddow I'll take Trump cancels Ireland trip for the daily double Alex?",
+					"cluster": 153,
+					"value": 1
+				},
+				{
+					"name": "Ireland doesn't want refugees yet they recently criticized Trump for wanting ban them! http:// ln.is/www.irishcentr al.com/jNV1x ",
+					"cluster": 154,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 26,
+			"value": 4,
+			"children": [
+				{
+					"name": "Suddenly Ireland is the place to be  if youre a Trump or Brexit refugee http:// fw.to/aT5pJw",
+					"cluster": 155,
+					"value": 17
+				},
+				{
+					"name": "Trump takes time-out from trail to visit golf courses in Scotland Ireland #golftraining #golf http:// soco.space/KbzlDr",
+					"cluster": 108,
+					"value": 1
+				},
+				{
+					"name": "Funny how Trump was in Scotland when he praised the UK for taking back their country while Scotland and Northern Ireland voted to remain",
+					"cluster": 156,
+					"value": 1
+				},
+				{
+					"name": "I felt kinda dumb for a couple days for taking a postgrad job in Ireland . Then Brexit + Trump happened and now I'm feeling v comfortable",
+					"cluster": 157,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 27,
+			"value": 9,
+			"children": [
+				{
+					"name": "@Trump _World we need to take Ireland back from the dinosaurs in Europe bleeding us dry. Help by a teacher that's leading us. God help us",
+					"cluster": 158,
+					"value": 1
+				},
+				{
+					"name": "Ireland is offering refugee status of trump gets elected so that's always an option",
+					"cluster": 159,
+					"value": 1
+				},
+				{
+					"name": "same sections that might elect Trump as our president. Idiocracy in full effect. Is Ireland accepting young professionals?",
+					"cluster": 160,
+					"value": 1
+				},
+				{
+					"name": "omfg. Ireland would take Trump haters over Hillary haters ?!?!?!?! my sadness has now turned livid. STOP THE NEO-BOLSHEVIKS EVERYWHERE !!!!",
+					"cluster": 161,
+					"value": 1
+				},
+				{
+					"name": "will they take Killary refugees ? RT @Ognir2 : Trump to make Ireland - well Inishturk - great again http:// theinfounderground.com/smf/index.php? topic=21607 ",
+					"cluster": 162,
+					"value": 1
+				},
+				{
+					"name": "If Trump takes power in Amerikkka we're expatriating to Ireland or Scotland. Seriously. We're working on passports now.",
+					"cluster": 163,
+					"value": 1
+				},
+				{
+					"name": "@Ireland Fellow Imgurian here was in Ireland last year. Fell in #Love with #Galway . I might be a refugee there if we elect Trump or Hillary",
+					"cluster": 164,
+					"value": 1
+				},
+				{
+					"name": "Happy Fourth of July!! Take a look at the Trump International Golf Links in Doonbeg Ireland http://www. executivetoursireland.com/trump-internat ional-golf-links-doonbeg-private-golf-tours-of-ireland/ ",
+					"cluster": 165,
+					"value": 1
+				},
+				{
+					"name": "Discover the little Irish ireland opening its doors to Trump refugees in @dfreid 's short doc http:// bit.ly/29orYDR pic.twitter.com/j6aN7JXZOT",
+					"cluster": 166,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 28,
+			"value": 5,
+			"children": [
+				{
+					"name": "Watching the docudrama After Braveheart 14th Century Ireland - Othering of the Irish by the English. Like Trump 's take on Muslims.",
+					"cluster": 167,
+					"value": 1
+				},
+				{
+					"name": "This week:Richard Ford takes on #Trump ;a newnuanced history of modern Ireland ;the ups & downs of historical fiction https:// twitter.com/thetls/status/ 753510721472921600 ",
+					"cluster": 168,
+					"value": 1
+				},
+				{
+					"name": "Shameless Hillary haven't you heard Trump stopped 18 times to take questions in Ireland in one day? You? 222 days&counting",
+					"cluster": 169,
+					"value": 1
+				},
+				{
+					"name": "#Trump President: Guess I'm moving to Ireland Refugee status. #Clinton President:Guess I'm moving to Ireland Refugee status. #BernieOrJill",
+					"cluster": 170,
+					"value": 1
+				},
+				{
+					"name": "@realDonaldTrump mr trump chances are youll never see this im fro ireland and i pray you take up the position of Great Leader help IRELAND",
+					"cluster": 171,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 29,
+			"value": 12,
+			"children": [
+				{
+					"name": "romanticized cute. i've a better idea! Ireland  take yr descendants who vote trump . plenty of Irish-Am racists here. http://www. theatlantic.com/video/index/49 1813/the-tiny-irish-island-that-will-welcome-american-refugees/ ",
+					"cluster": 172,
+					"value": 1
+				},
+				{
+					"name": "'As for Micah he has a backup plan should Trump be elected: Were going to move to Ireland  he says.' A refugee crisis in Ireland ?",
+					"cluster": 173,
+					"value": 1
+				},
+				{
+					"name": ". @matteorenzi I heard you're taking in migrants. Is it true? If Trump wins I just want a few options in case #Canada and #Ireland say no.",
+					"cluster": 174,
+					"value": 1
+				},
+				{
+					"name": "The Tiny Irish Island That Will Welcome American Refugees #IrishIsland #Trump #Americanexodus #Inishturk #Ireland http://www. theatlantic.com/video/index/49 1813/the-tiny-irish-island-that-will-welcome-american-refugees/ ",
+					"cluster": 175,
+					"value": 1
+				},
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 82,
+					"value": 2
+				},
+				{
+					"name": "A little coffee shop in Ireland  take note. #Trump pic.twitter.com/d9Ew51y18e",
+					"cluster": 176,
+					"value": 1
+				},
+				{
+					"name": "Ireland starting accepting American Donald Trump refugees in May. https:// twitter.com/dorothysnarker /status/755873594815619072 ",
+					"cluster": 177,
+					"value": 1
+				},
+				{
+					"name": "I hear a village in Ireland is opening their arms to American refugees from a Trump Presidency. You should def look into that.",
+					"cluster": 178,
+					"value": 1
+				},
+				{
+					"name": "Sharp intake of breath there as the guy from Muslims for Trump takes the stage. Can feel the temperature dropping all the way in Ireland .",
+					"cluster": 179,
+					"value": 1
+				},
+				{
+					"name": "Inishturk the tiny Irish island that would welcome Trump refugees - https:// vimeo.com/172273624 @inishturkisland #Ireland",
+					"cluster": 180,
+					"value": 1
+				},
+				{
+					"name": "As Trump accepts the GOP nomination the Irish prepare to take the coffin ships back to Ireland . #RNCinCLE",
+					"cluster": 181,
+					"value": 1
+				},
+				{
+					"name": "Love this doc by MEL Films on tiny Inishturk Ireland  where American refugees fleeing Donald Trump are welcome http://www. theatlantic.com/video/index/49 1813/the-tiny-irish-island-that-will-welcome-american-refugees/ ",
+					"cluster": 182,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 30,
+			"value": 19,
+			"children": [
+				{
+					"name": "Someone ask Trump if he's okay with Great Britain taking over Northern Ireland .",
+					"cluster": 183,
+					"value": 1
+				},
+				{
+					"name": ". @ChristinaMBeck Ireland Is Now Officially Accepting Trump humans From America #HumanCrisis",
+					"cluster": 82,
+					"value": 42
+				},
+				{
+					"name": "You can't let that egomaniac Trump take The Whitehouse. Ireland right behind you Bill & Hillary. C you in July August 2018.",
+					"cluster": 184,
+					"value": 1
+				},
+				{
+					"name": "Guys just remember if trump is elected Ireland will take us in",
+					"cluster": 185,
+					"value": 1
+				},
+				{
+					"name": "Watch Make Inishturk Great Again on @Vimeo https:// vimeo.com/172273624 for trump refugees to Ireland",
+					"cluster": 186,
+					"value": 1
+				},
+				{
+					"name": "Well be prepared for Americans. Ireland has stated if Trump becomes president they're opening an island for refugees .",
+					"cluster": 187,
+					"value": 1
+				},
+				{
+					"name": "Incase any1 is wondering what Ireland thinks of #Trump take a look at the new men's urinals in the Adelphi Dublin pic.twitter.com/9srIBZtrWI",
+					"cluster": 188,
+					"value": 1
+				},
+				{
+					"name": "In May 2016- Ireland Officially began Accepting Trump Refugees From America & they've already started redecorating! pic.twitter.com/HbEnGFslhw",
+					"cluster": 189,
+					"value": 1
+				},
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America ...can't hurt to have info on how to go visit http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 82,
+					"value": 14
+				},
+				{
+					"name": "i just read an article about an island in Ireland that announced it will accept Trump refugees !",
+					"cluster": 190,
+					"value": 1
+				},
+				{
+					"name": "Ireland is accepting trump refugees  we can head out there.",
+					"cluster": 191,
+					"value": 1
+				},
+				{
+					"name": "With Trump we Russians can take back Baltic countries rebuild USSR and end Ireland 's Eurovision dynasty.",
+					"cluster": 192,
+					"value": 1
+				},
+				{
+					"name": "I just uploaded (NEW TAKE 3) MICHAEL FLATLEY Trump International Golf Links and Hotel Doonbeg Ireland  to @Vimeo : https:// vimeo.com/176577918",
+					"cluster": 193,
+					"value": 2
+				},
+				{
+					"name": "@RepubDirtyTrick - If you do move; please take me and my dog with you!! #Fyilive - Ireland is now prepping for refugees due to Herr Trump",
+					"cluster": 194,
+					"value": 1
+				},
+				{
+					"name": "Ireland is accepting refugees if trump wins. So looks like I'll be leaving to Ireland ",
+					"cluster": 92,
+					"value": 1
+				},
+				{
+					"name": "In Ireland  some1 asked me Why is Trump popular? I said He's a joke! No1 takes him seriously. Watched primaries #AndThatsWhenIStartedCrying",
+					"cluster": 195,
+					"value": 1
+				},
+				{
+					"name": "Inishturk Ireland offers a haven if Donald Trump wins - The Tiny Irish Island That Will Welcome American Refugees  http://www. theatlantic.com/video/index/49 1813/the-tiny-irish-island-that-will-welcome-american-refugees/ ",
+					"cluster": 175,
+					"value": 1
+				},
+				{
+					"name": "Trump and Clinton have very different takes on US firms relocating to Ireland - http:// ift.tt/2aoJmJe",
+					"cluster": 196,
+					"value": 1
+				},
+				{
+					"name": "New poll has Trump ahead of Clinton by a decent gap. Scary thought. After voting I might take Ireland up on their offer of a new home.",
+					"cluster": 197,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 31,
+			"value": 10,
+			"children": [
+				{
+					"name": "If Donald Trump 's son runs for mayor of NYC I'll be moving to Ireland . *@andymientus sings take me home to Ireland *",
+					"cluster": 198,
+					"value": 1
+				},
+				{
+					"name": "even if Ireland needs reforms doesn't mean we can't take a model & learn from it. Im not a fool or trump supporter",
+					"cluster": 199,
+					"value": 1
+				},
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/2iKttOhvA",
+					"cluster": 82,
+					"value": 10
+				},
+				{
+					"name": "Lmao its lololololo TRUMP GO VACATION TAKE CARE GOLF COURSE IN IRELAND IF THEY CARE TO HAVE U THERE LOLOLOLOLOL https:// twitter.com/BlackCatUnload s/status/761409611341688832 ",
+					"cluster": 200,
+					"value": 1
+				},
+				{
+					"name": "Irish pub invites restroom patrons to take aim at Trump #aim https:// dragplus.com/post/id/372131 56 ",
+					"cluster": 201,
+					"value": 2
+				},
+				{
+					"name": "#ElectionDayIn5Words Still accepting Trump refugees  Ireland ?",
+					"cluster": 202,
+					"value": 1
+				},
+				{
+					"name": "Ireland takes aim at Donald Trump as his face appears on an Irish pubs urinal http:// irishpost.co.uk/ireland-takes- aim-donald-trump-face-appears-irish-pubs-urinal/ ",
+					"cluster": 203,
+					"value": 2
+				},
+				{
+					"name": "A #DonaldTrump urinal has #Dublin lining up to take aim https://www. rt.com/viral/354045-t rump-urinal-dublin-viral/#.V5_zrU5HYt8.twitter  #DumpTrump #NeverTrump #ImWithHer #Trump #Ireland",
+					"cluster": 204,
+					"value": 1
+				},
+				{
+					"name": "This small Irish town wants to welcome US citizens if Trump becomes president ( Trump refugees ) http://www. irishcentral.com/culture/travel /Make-Inishturk-Great-Again--Irish-island-reacts-to-huge-interest-from-Trump-refugees.html  #Ireland #Trump",
+					"cluster": 205,
+					"value": 1
+				},
+				{
+					"name": "Dublin pub takes the piss out of Donald Trump  literally - Mashable http:// dlvr.it/Lx0cpf",
+					"cluster": 206,
+					"value": 10
+				}
+			]
+		},
+		{
+			"week": 32,
+			"value": 5,
+			"children": [
+				{
+					"name": "Trump said he's going to take a long vacation after he losing election probably Ireland to be with his $",
+					"cluster": 207,
+					"value": 1
+				},
+				{
+					"name": "Sadlyonly when Ireland is terror target will voters accept #TaxesForTanksNotBanks . Trump would deffo pull Nato $ plug",
+					"cluster": 208,
+					"value": 1
+				},
+				{
+					"name": "When Ireland is taking about Trump  you know things are ugly. #donaldordictator",
+					"cluster": 209,
+					"value": 1
+				},
+				{
+					"name": "POTUS SCOTUS US Senate US House Clinton and Trump could take their cue from Ireland ... http:// fb.me/7SzsK2VVD",
+					"cluster": 210,
+					"value": 1
+				},
+				{
+					"name": "Donald Trump singing to american tourist's in Ireland https:// youtu.be/TKVwst1RGHw via @YouTube Take a min. to listen it is GOOD~!",
+					"cluster": 211,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 33,
+			"value": 5,
+			"children": [
+				{
+					"name": "Curious about what Donald Trump 's plans with US corporate taxes could mean for Ireland ? We take a look http:// bit.ly/2bCD5XC",
+					"cluster": 212,
+					"value": 1
+				},
+				{
+					"name": "Dear Mr. Trump ! I was contacted by the person from Ireland who is originally from Donbass.He asked me if you would accept ..",
+					"cluster": 213,
+					"value": 1
+				},
+				{
+					"name": "Even Ireland wants to DUMP TRUMP - so what's taking so long 4 the @GOP 2 come to the same conclusion? Delusion ?! https:// twitter.com/asdevaul/statu s/764944524367933441 ",
+					"cluster": 214,
+					"value": 1
+				},
+				{
+					"name": "Can I apply for refugee status if the madman Trump is elected? I'm 38% Irish. Help!",
+					"cluster": 215,
+					"value": 1
+				},
+				{
+					"name": "Ireland is taking lots of business from US MANY american companies moving there I'm surehe's worried that will end w trump",
+					"cluster": 216,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 34,
+			"value": 6,
+			"children": [
+				{
+					"name": "For sure Canada & Ireland don't want them. They will accept us tho if Trump wins!",
+					"cluster": 217,
+					"value": 1
+				},
+				{
+					"name": "@bigtwinnygav quality movie better she learns now as soon as Trump takes over it will be real",
+					"cluster": 218,
+					"value": 1
+				},
+				{
+					"name": "We are seeing an explosion of Capitalist World Economic Growth now taking place in Ireland  England and will in the future Trump Presidency",
+					"cluster": 219,
+					"value": 1
+				},
+				{
+					"name": "oh God. Ireland us far too close to the US if Trump takes power!!",
+					"cluster": 220,
+					"value": 1
+				},
+				{
+					"name": "God Bless you as well lovely lady; pray for Trump & like minded ppl to Take Back Our Country pic.twitter.com/OfwPmgO8N2",
+					"cluster": 221,
+					"value": 1
+				},
+				{
+					"name": "If trump becomes president I'm moving to Dublin Ireland to train at @SBGCHARLESTOWN is that okay with ya'll?Do you guys accept immigrants?",
+					"cluster": 222,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 35,
+			"value": 5,
+			"children": [
+				{
+					"name": "If the ACC can convince Ireland to take GT vs BC off our hands then maybe Trump really can convince Mexico to pay for his wall",
+					"cluster": 223,
+					"value": 1
+				},
+				{
+					"name": "@masg66 Don't just say it someone please take the step deport Trump & family back to Ireland Scotland where ever maybe Africa",
+					"cluster": 224,
+					"value": 1
+				},
+				{
+					"name": "REVEALED: Foreign #FED Member Behind #Refugee Push https:// youtu.be/yUuh1iQo-yU via @YouTube #US #EU #CoudenhoveKalergi #Orban #AFD #Trump #LePen",
+					"cluster": 225,
+					"value": 1
+				},
+				{
+					"name": "Take the money while you can! #Ireland ppl deserve it. Apple will be returning to US anyway when Trump 's reforms manifestate.",
+					"cluster": 226,
+					"value": 1
+				},
+				{
+					"name": "I would love to hear Donald Trump 's take on Apple owing back taxes to Ireland  his beacon of hope in a sea of high taxes.",
+					"cluster": 227,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 36,
+			"value": 7,
+			"children": [
+				{
+					"name": "Conflicting Takes  Here and Abroad on Clinton's Role in Northern Ireland Accord http:// linkr.es/2nmGZ #Hillary #Trump",
+					"cluster": 228,
+					"value": 1
+				},
+				{
+					"name": "@DebraMessing From here in Ireland it's amazing to see how much crap many Americans will accept from Trump https:// twitter.com/talkopan/statu s/774797765633200128 ",
+					"cluster": 229,
+					"value": 1
+				},
+				{
+					"name": "Postscript: If Trump wins I am taking my brain back to Ireland from where my ancestors came in the 1700s.",
+					"cluster": 230,
+					"value": 1
+				},
+				{
+					"name": "There's a Father Ted-ish isle off the coast of Ireland that's willing to take all of us in the event Trump wins.",
+					"cluster": 231,
+					"value": 1
+				},
+				{
+					"name": "If you go to Ireland  I beg of you PLEASE take Trump with you.",
+					"cluster": 232,
+					"value": 1
+				},
+				{
+					"name": "We have to move if he wi no joke.. Ireland is accepting Trump refugees . . https:// twitter.com/Nupe117/status /773371817062961152 ",
+					"cluster": 233,
+					"value": 1
+				},
+				{
+					"name": "Abortion pushers in Ireland despise Trump because he's wealthy but take money and direction from Soros and Murdoch. How does that work?",
+					"cluster": 234,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 37,
+			"value": 5,
+			"children": [
+				{
+					"name": "Come on Mayo. Take advantage of 2016's freaky voodoo. If Trump can be president you can win an All Ireland . #DUBvMAYO",
+					"cluster": 235,
+					"value": 1
+				},
+				{
+					"name": "@lynnsweet Your take on Trump 's birther issue as being racist is garbage! If Obama's origin perhaps was Ireland you wouldnt say a thing!",
+					"cluster": 236,
+					"value": 1
+				},
+				{
+					"name": "Take 30 seconds of your time to help this cause still a lot of sign-ups needed. #trump #ireland #surfing https:// twitter.com/eanilsen/statu s/776750581155262464 ",
+					"cluster": 237,
+					"value": 1
+				},
+				{
+					"name": "@HillaryClinton Trump : 10% repatriation tax. Not a bad idea. Do it fast before Ireland takes a big chuck of it.",
+					"cluster": 238,
+					"value": 1
+				},
+				{
+					"name": "If Donald Trump becomes President of USA the Republic of Ireland has agreed to take in Muslim refugees from America.",
+					"cluster": 239,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 38,
+			"value": 8,
+			"children": [
+				{
+					"name": "STOP Trump for what? When are ppl going to start taking responsibility for their own actions.",
+					"cluster": 240,
+					"value": 1
+				},
+				{
+					"name": "U2 BONO should go to his home Ireland n beg his govt to take millions of moslums moran. Latinos for Trump",
+					"cluster": 241,
+					"value": 1
+				},
+				{
+					"name": "Here at TrumpU we demand you take this down - Bono says he dislikes #Trump therefore he must be sent back to Ireland !",
+					"cluster": 242,
+					"value": 1
+				},
+				{
+					"name": "Bono Says Donald Trump Is Trying to Hijack the Idea of America http:// TAKE YOUR GLOBAL WARMING AND GO BACK TO IRELAND  WE DON'T NEED YOU!!",
+					"cluster": 243,
+					"value": 1
+				},
+				{
+					"name": "Im suprised Sean the refugee basher/barrister hasn't began building a Trump style wall around Ireland .This mans from the stone age #liveline",
+					"cluster": 244,
+					"value": 1
+				},
+				{
+					"name": "People are loving Skittles' response to Donald Trump Jr.'s refugee tweet http:// mashable.com/2016/09/20/ski ttles-donald-trump-jr-refugees-/#6RAASwSsa05c  via @mashable",
+					"cluster": 245,
+					"value": 1
+				},
+				{
+					"name": ". @michaelgrais Ireland Is Now Officially Accepting Trump humans From America #HumanCrisis",
+					"cluster": 82,
+					"value": 1
+				},
+				{
+					"name": "@U2 you make Ireland proud. God's country. Thanks for taking a stand against Donald Trump",
+					"cluster": 246,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 39,
+			"value": 11,
+			"children": [
+				{
+					"name": "@PhilipdClarke TRUMP IS Panicking. What'A your take there in Ireland ?",
+					"cluster": 247,
+					"value": 1
+				},
+				{
+					"name": "Alec Baldwin As Trump won't take any acting on Alec's part. But Trump treats Ivanka w/ dignity. Baldwin treats daughter Ireland #NotSoMuch ..",
+					"cluster": 248,
+					"value": 1
+				},
+				{
+					"name": "#LwC Note their is a island in Ireland that is taking Democrats if Trump gets elected. Regressives can have a home! Hope is out there!",
+					"cluster": 249,
+					"value": 1
+				},
+				{
+					"name": "Are you going to go see the island Ireland 's pirate queen came from? Apparently they're taking US asylum seekers from Trump .",
+					"cluster": 250,
+					"value": 1
+				},
+				{
+					"name": "Trump draws worlds attention to Moriarty tribunal and siteserve Another proud day for Ireland Take a bow @FineGael http://www. irishtimes.com/news/world/us/ trump-attacks-clinton-over-denis-o-brien-links-1.2809481#.V-xRb-NDPPE.twitter ",
+					"cluster": 251,
+					"value": 1
+				},
+				{
+					"name": "@GovGaryJohnson @HardballChris Your comment just helped Trump take a big leap twds Presidency. You should be ASHAMED. This is not a game.",
+					"cluster": 252,
+					"value": 1
+				},
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/5ldAZsVqu",
+					"cluster": 82,
+					"value": 1
+				},
+				{
+					"name": "Remember America Ireland is the same size as your state of Ohio. We cant take everyone if Donald Trump wins.",
+					"cluster": 253,
+					"value": 1
+				},
+				{
+					"name": "Fact check: Trump 's Corporate Tax rate takes rate from highest in the world to 15% competitive with Ireland . Plus US co.s pay State tax 2",
+					"cluster": 254,
+					"value": 1
+				},
+				{
+					"name": "Conflicting Takes  Here and Abroad on Clinton's Role in Northern Ireland Accord http:// linkr.es/7CBuo #Hillary #Trump",
+					"cluster": 228,
+					"value": 1
+				},
+				{
+					"name": "WATCH: U2 ends the iHeartRadio Music Festival by bashing Donald Trump http:// disq.us/t/2djyupc Bono; Take your happy ass back to IRELAND !!",
+					"cluster": 255,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 40,
+			"value": 6,
+			"children": [
+				{
+					"name": "If you decide to go back to ol Ireland iffin Trump becomes Prez please take me with you.",
+					"cluster": 232,
+					"value": 1
+				},
+				{
+					"name": "Does #Trump realize he'd b pouring ale @pub n Ireland rt now if his #refugee ancestors wer ban 2 enter USA? #StrongerTogether #Debates",
+					"cluster": 256,
+					"value": 1
+				},
+				{
+					"name": "I have an idea go back to Ireland  take trump with you and build a wall there and live among only blond ppl!",
+					"cluster": 257,
+					"value": 1
+				},
+				{
+					"name": "USA created by White people from EuropeEngland Ireland etc+we're taking her back; that+ Trump scares you @jerryspringer #insaneHillary",
+					"cluster": 258,
+					"value": 1
+				},
+				{
+					"name": "Trump 's already building a wall. In Ireland . Environmentalists and surfers are taking him on. http:// magicseaweed.com/news/donald-tr umps-wall-in-ireland-will-unquestionably-ruin-surf-spot/9535/ ",
+					"cluster": 259,
+					"value": 1
+				},
+				{
+					"name": "Why is #Clinton obsessed with refugees from the Middle East when there are plenty of refugees in Latin America? #FARC #Venezuela #Trump",
+					"cluster": 260,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 41,
+			"value": 8,
+			"children": [
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America  Winning Democrats http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 82,
+					"value": 1
+				},
+				{
+					"name": "http:// ie.beduac.de Trump : US election is rigged and Hillary Clinton should take drug test - Irish Independent #news #Ireland",
+					"cluster": 261,
+					"value": 1
+				},
+				{
+					"name": "trump is right...come to Ireland and yell see a globalist sell out corrupt refugee full country...Corp media r foolin all",
+					"cluster": 262,
+					"value": 1
+				},
+				{
+					"name": "tbh my dog is from ireland . if trump really is trying deport all the immigrants i sweater god i'll throw hands before they take my puppo.",
+					"cluster": 263,
+					"value": 1
+				},
+				{
+					"name": "@PTcoldfire Google how Trump tried to used Eminent Domain to Take Ireland Citizens Land.Judge Ruled against him",
+					"cluster": 264,
+					"value": 1
+				},
+				{
+					"name": "#bbcqt How do we  take control of the only land border we have - with the Republic of Ireland ? Build a Trump style wall?",
+					"cluster": 265,
+					"value": 1
+				},
+				{
+					"name": "who cares? trump said lewd things. btw don't we invite millions of them here? why doesn't ireland take in 500000?",
+					"cluster": 266,
+					"value": 1
+				},
+				{
+					"name": "Let's take it a step further...Apple took their parent company to Ireland for tax shield reasons but Trump has kept his here in the USA. https:// twitter.com/nationdivided/ status/786029985328869377 ",
+					"cluster": 267,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 42,
+			"value": 10,
+			"children": [
+				{
+					"name": ": US election: Trump takes aim at First Lady Michelle Obama http:// bbc.in/2eCbYeU  #1 in #Ireland http://www. toprt.com/TopRT_IE/?t=78 9609485853655040 ",
+					"cluster": 268,
+					"value": 1
+				},
+				{
+					"name": "Markets up as Hillary Clinton takes big lead over Donald Trump http:// bit.ly/2dUkm9x #Irishbiz #Ireland",
+					"cluster": 269,
+					"value": 1
+				},
+				{
+					"name": "http:// ie.beduac.de Donald Trump 's 'rigged' claim takes US election into dangerous waters - Irish Times #news #Ireland",
+					"cluster": 270,
+					"value": 1
+				},
+				{
+					"name": ": US presidential hopeful Donald Trump says he will accept the results of the #1 in #Ireland http://www. toprt.com/TopRT_IE/?t=78 9146047905955840 ",
+					"cluster": 271,
+					"value": 1
+				},
+				{
+					"name": "so uh...how easy would it be to move to Ireland as a political refugee in the event Trump wins (asking for a friend/me)?",
+					"cluster": 272,
+					"value": 1
+				},
+				{
+					"name": "In fairness the astonishment saying that Trump won't accept result when we vote in Ireland and give a NO we get told to vote again. #debate",
+					"cluster": 273,
+					"value": 1
+				},
+				{
+					"name": "If Trump got presidency Ireland  will you accept an American refugee ? I'm a Conley if it counts. #debatenight",
+					"cluster": 274,
+					"value": 1
+				},
+				{
+					"name": "doesnt Trump comprehend that austerity DOESNT work.. take a look at Greece Spain Ireland all places that tried it & economy perished",
+					"cluster": 275,
+					"value": 1
+				},
+				{
+					"name": "He can take @mitchellreports w him.. to a #Trump golf course in Ireland ... Far far away. https:// twitter.com/damnpatriot/st atus/788894412877074434 ",
+					"cluster": 276,
+					"value": 1
+				},
+				{
+					"name": "Even #Obama is taking time off Campaigning against #Trump & for #Clinton to back us! Learn English in UK or Ireland . http://www. Lingoo.ninja pic.twitter.com/C1BpreUaU0",
+					"cluster": 277,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 43,
+			"value": 3,
+			"children": [
+				{
+					"name": "Hillary slandered Lewinsky. Trump takes it to court",
+					"cluster": 278,
+					"value": 1
+				},
+				{
+					"name": "Take rugby add NZ All Blacks Ireland  Chicago and Donald Trump and you have a brouhaha. Me for Breitbart Sports http://www. breitbart.com/sports/2016/10 /27/rugby-brawl-ireland-team-urged-to-dump-stay-at-trump-tower-ahead-of-chicago-match/ ",
+					"cluster": 279,
+					"value": 1
+				},
+				{
+					"name": "In today's AP test Trump wins the presidency but Dems take the senate. So the  Ireland wins but Krum catches the snitch scenario",
+					"cluster": 280,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 44,
+			"value": 12,
+			"children": [
+				{
+					"name": "A tiny island off the coast of Ireland called Inishturk will be happy to take you in if Trump wins on Tuesday: http:// buff.ly/2fu7I3j",
+					"cluster": 281,
+					"value": 1
+				},
+				{
+					"name": "Here is my plan.. If Trump wins and becomes president I will take my family even my parents and defect to Ireland . I am very serious.",
+					"cluster": 282,
+					"value": 1
+				},
+				{
+					"name": "Ireland has put out a statement that they will happily take fleeing Americans repulsed by TRUMP . Luckily it don't come to that.",
+					"cluster": 283,
+					"value": 1
+				},
+				{
+					"name": "People are loving the Dublin Cookie Co's blackboard taking the piss out of Donald Trump : The only http:// dlvr.it/MbnSnV #Dublin #Ireland pic.twitter.com/eMbKAvFPMd",
+					"cluster": 284,
+					"value": 1
+				},
+				{
+					"name": "The View from Ireland : Will Trump fans accept the result if he loses? (Guest Voice) - http:// themoderatevoice.com/the-view-from- ireland/  pic.twitter.com/eM8iVDnKfK",
+					"cluster": 285,
+					"value": 1
+				},
+				{
+					"name": "@Newshub_ Ireland Trump will take Pennsylvania momentum is on his side. The undecideds are making up their minds!",
+					"cluster": 286,
+					"value": 1
+				},
+				{
+					"name": "Gov Granholm you are a stellar surrogate for HRC! It takes a village to handle the truckloads of lies coming from Trump et al.",
+					"cluster": 287,
+					"value": 1
+				},
+				{
+					"name": "Will Ireland take a hit with a Trump Presidency? http://www. irishtimes.com/business/econo my/bruton-warns-trump-presidency-would-be-bad-for-global-trade-1.2852348#.WBsWpM4Mdeo.twitter  via @IrishTimesBiz",
+					"cluster": 288,
+					"value": 1
+				},
+				{
+					"name": "If Trump wins I can only hope to god that Ireland will take me and my family back.",
+					"cluster": 289,
+					"value": 1
+				},
+				{
+					"name": "Mosul refugees  Clinton/ Trump  Calais Jungle Ireland  obviously not news. However a 1964 dog story is?",
+					"cluster": 290,
+					"value": 1
+				},
+				{
+					"name": "Is #Ireland prepared for the #American #Refugees #Trump win? time to consider extending his wall in Clare the whole length of the west coast",
+					"cluster": 291,
+					"value": 1
+				},
+				{
+					"name": "We gotta make Ireland great again. Pleasure to meet you last night Mr. Trump ( @Clisare ) No walls were built in the taking of this pic pic.twitter.com/eZOrLBQ0HG",
+					"cluster": 292,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 45,
+			"value": 118,
+			"children": [
+				{
+					"name": "Ireland is accepting Trump refugees  but abortion is not legal there so why would ppl go there to run away from republican administration?",
+					"cluster": 293,
+					"value": 1
+				},
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 82,
+					"value": 200
+				},
+				{
+					"name": "@Doemela Merkel tells ? Trump she'll gladly take themvia Ireland UK FranceHollandBelgiumDenmarkbut must be Muslims?",
+					"cluster": 294,
+					"value": 1
+				},
+				{
+					"name": "@DrunkRemnick So I take it you were not totally in favor of a Donald Trump presidency...you can always move to Cape Breton or Ireland !",
+					"cluster": 295,
+					"value": 1
+				},
+				{
+					"name": "IRELAND IS NOW OFFICIALLY ACCEPTING TRUMP REFUGEES FROM AMERICA! http:// fb.me/8ivxMCwQf",
+					"cluster": 90,
+					"value": 11
+				},
+				{
+					"name": "They're calling him the 'pride of Ireland ' Jesus lads I'd take trump over him anyway",
+					"cluster": 296,
+					"value": 1
+				},
+				{
+					"name": " #FactCheck :No #Ireland is NOT 'officially accepting Trump refugees '(via @thejournal_ie ) http:// jrnl.ie/3074777 Well can you start? ;-)",
+					"cluster": 297,
+					"value": 1
+				},
+				{
+					"name": ". @andrewrobscott Ireland is now accepting Trump humans from America #HumanCrisis",
+					"cluster": 83,
+					"value": 9
+				},
+				{
+					"name": "Ireland taking the Trump approach turn things so ugly that the other side loses their enthusiasm.",
+					"cluster": 298,
+					"value": 1
+				},
+				{
+					"name": "Take heart: Trump has failed for a couple of years now to build a 3km wall in Ireland : http://www. irishtimes.com/news/ireland/i rish-news/new-campaign-against-trump-s-plans-for-doonbeg-wall-1.2795344#.WCcmUffAzv4.twitter  via @IrishTimes",
+					"cluster": 299,
+					"value": 1
+				},
+				{
+					"name": "Read that Ireland is taking in  Trump Refugees . Well.....t m'am anois. Sln go fill cl tna fionn!",
+					"cluster": 300,
+					"value": 1
+				},
+				{
+					"name": "Jen: Ireland is accepting Trump refugees . Wanna move to Ireland ? Me: OF COURSE I DO. DOMHNALL GLEESON IS THERE! #savemefuturehusband pic.twitter.com/rqUPw3C7nU",
+					"cluster": 301,
+					"value": 1
+				},
+				{
+					"name": "FactCheck: No Ireland is NOT officially accepting Trump refugees  http:// fb.me/8cf54LAvP",
+					"cluster": 83,
+					"value": 27
+				},
+				{
+					"name": "#Ireland We had to accept #FF #FG #LAB Why cant they accept #TRUMP ...",
+					"cluster": 302,
+					"value": 1
+				},
+				{
+					"name": "No Ireland is NOT officially accepting Trump refugees from America. This gets our first ever verdict of NONSENSE http:// jrnl.ie/3074777f pic.twitter.com/vWcpNDytc5",
+					"cluster": 303,
+					"value": 5
+				},
+				{
+					"name": "Ireland is accepting refugees from America who want asylum from Trump 's presidency. Bye everyone. #Iwantedtogotoirelandanyway",
+					"cluster": 304,
+					"value": 1
+				},
+				{
+					"name": "So Ireland is accepting  Trump -ugees. The irony. Ah well I'm covered by dual citizenship but I'm willing to see how he does first.",
+					"cluster": 305,
+					"value": 1
+				},
+				{
+					"name": "Markets take bets on what Donald Trump will change http:// bit.ly/2fWFGkm #Irishbiz #Ireland",
+					"cluster": 306,
+					"value": 1
+				},
+				{
+					"name": "After Brexit and now Trump it's all wide open in the political world. Ireland and the rest of the world needs to take note of these events",
+					"cluster": 307,
+					"value": 1
+				},
+				{
+					"name": "@Apple Before Trump takes you out of Ireland could you pay your tax please? Cheers",
+					"cluster": 308,
+					"value": 1
+				},
+				{
+					"name": "Listen to Alan Barrett on @morningireland discussing foreign direct investment in Ireland after Trump takes office http:// bit.ly/2fHCSUI",
+					"cluster": 309,
+					"value": 1
+				},
+				{
+					"name": "US friends Ireland is open to taking applications from US refugees fleeing Trump hate crimes ! Apply for asylum #trump",
+					"cluster": 310,
+					"value": 1
+				},
+				{
+					"name": "@cooper_m @lstwrd @JaneyMack66 I wonder how Irish Trump supporters will react if his tax policy takes multinational jobs from ireland",
+					"cluster": 311,
+					"value": 1
+				},
+				{
+					"name": ". @dilfquest literally any country besides ireland accepting trump humans???? #HumanCrisis",
+					"cluster": 312,
+					"value": 2
+				},
+				{
+					"name": "just saw ireland was  accepting trump refugees ",
+					"cluster": 313,
+					"value": 1
+				},
+				{
+					"name": "Ireland now accepting Trump refugees  see you there...",
+					"cluster": 202,
+					"value": 2
+				},
+				{
+					"name": "Ireland is accepting Trump refugees . Lol. That house party might not be completely out of the question!",
+					"cluster": 314,
+					"value": 1
+				},
+				{
+					"name": "Ireland is Accepting Trump Results America Immigrants http:// fb.me/4zEqcHYO7",
+					"cluster": 315,
+					"value": 2
+				},
+				{
+					"name": "Is Ireland officially accepting Trump refugees from America? NO - of course it isn't. Verdict: NONSENSE. http:// jrnl.ie/3074777f pic.twitter.com/Ci53jJdbDV",
+					"cluster": 316,
+					"value": 2
+				},
+				{
+					"name": "@AnneCadwallader This daft tweet takes away from the book Lethal Allies. Many here in Ireland support Donald Trump .",
+					"cluster": 317,
+					"value": 1
+				},
+				{
+					"name": "Long before Trump we in Ireland instigated a policy of conscious cruelty to drive away refugees #DirectProvision https:// twitter.com/EXECUTIVESTEVE /status/796647436529860608 ",
+					"cluster": 318,
+					"value": 1
+				},
+				{
+					"name": "#rtept If it takes Trump as long to build his wall as it takes Ireland to sort out the #HomelessCrisis  he'll be 2 years into his 2nd term!",
+					"cluster": 319,
+					"value": 1
+				},
+				{
+					"name": "Hey @Neeerts is Ireland really accepting Trump refugees ?",
+					"cluster": 99,
+					"value": 2
+				},
+				{
+					"name": "Ireland is accepting Trump refugees from America. Lets go babe! @inkedhigh",
+					"cluster": 320,
+					"value": 2
+				},
+				{
+					"name": "Friendly advice: Ireland is accepting Americans fleeing from trump !",
+					"cluster": 321,
+					"value": 1
+				},
+				{
+					"name": "#Ireland Accepting American #Hillaryrefugees that are unhappy with Trump 's win... http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ",
+					"cluster": 322,
+					"value": 1
+				},
+				{
+					"name": "If Trump does pull all the American companies out Ireland I hope he takes that Budweiser piss too.Even the rats won't drink it in the cellar",
+					"cluster": 323,
+					"value": 1
+				},
+				{
+					"name": "@Jack_Septic_Eye did you hear about Ireland offering americans homes as ' trump refugees '? pic.twitter.com/5KsGuSsVHt",
+					"cluster": 324,
+					"value": 1
+				},
+				{
+					"name": "Enda Kenny congratulated Trump on behalf of Ireland ? Well on behalf of Ireland I take that back you numskull",
+					"cluster": 325,
+					"value": 2
+				},
+				{
+					"name": "lol Ireland is taking  trump refugees  well I'll be there in 2 days anyway",
+					"cluster": 92,
+					"value": 1
+				},
+				{
+					"name": "Great thread. We in Ireland already accept lots of the things that terrified us about Trump . https:// twitter.com/EXECUTIVESTEVE /status/796647436529860608 ",
+					"cluster": 326,
+					"value": 1
+				},
+				{
+					"name": "After the disappointment of Trump I'm counting on @RugbyCanada to cheer me up when they take on Ireland this Saturday at @AVIVAStadium",
+					"cluster": 327,
+					"value": 1
+				},
+				{
+					"name": "My take on what President Trump might mean for Northern Ireland 's economy in today's Belfast Telegraph http://www. belfasttelegraph.co.uk/news/world-new s/trump-triumph-puts-northern-ireland-economy-at-risk-if-us-adopts-policy-of-inward-investment-35203490.html ",
+					"cluster": 328,
+					"value": 1
+				},
+				{
+					"name": "Trump elected as the president today- Riots in L.A. Ireland beat the All Blacks. Brexit and refugee Europe. A Crazy world",
+					"cluster": 329,
+					"value": 1
+				},
+				{
+					"name": "For all of you wanting to leave the U.S. come January 1st Ireland is officially accepting Trump refugees .",
+					"cluster": 330,
+					"value": 1
+				},
+				{
+					"name": "@Jack_Septic_Eye I heard Ireland is accepting American refugees because of trump . Is it true? If it is can I come live with you?",
+					"cluster": 331,
+					"value": 1
+				},
+				{
+					"name": "Trump has hotels in Brazil & Panama & Ireland . Can you plz take these protests to one of those #TrumpProtest#presidentelect",
+					"cluster": 332,
+					"value": 1
+				},
+				{
+					"name": "Trump election kills #TTIP deal and will hurt Ireland : John Bruton http:// shr.gs/IIMWaTK Right with one part - taking bollox later!",
+					"cluster": 333,
+					"value": 1
+				},
+				{
+					"name": "Just got return flights to Ireland for 3 for 50 total in the @Ryanair Donald Trump sale. Thanks Americans.... I take it all back",
+					"cluster": 334,
+					"value": 1
+				},
+				{
+					"name": ". @Boojum_Dublin Just wait until #Trump invades #Ireland and takes the #Guinness he always said we should have taken the #Guinness",
+					"cluster": 335,
+					"value": 1
+				},
+				{
+					"name": "Are Americans who leave the country due to Trump considered to be a refugee ? Ireland has to sort out the Syrians before we let them in if so",
+					"cluster": 336,
+					"value": 1
+				},
+				{
+					"name": "A different take : the theme of my Presidency is Building Bridges Mary McAleese President of Ireland  Nov '97. #Trump #BuildingWalls",
+					"cluster": 337,
+					"value": 1
+				},
+				{
+					"name": "My English 101 teacher just announced she's moving to Ireland bc trump  I decided to take advantage of the situation and gave her my card ;) pic.twitter.com/lz4ZmeC96U",
+					"cluster": 338,
+					"value": 1
+				},
+				{
+					"name": "It takes America electing trump  for Ireland to truly start second guessing their own judgement and leadership? We really are sheep.",
+					"cluster": 339,
+					"value": 1
+				},
+				{
+					"name": "going there... and more if #TRUMP takes a keen eye on taxes not being paid and scrambled by $ AAPL in Ireland ... #W &S https:// twitter.com/PugTrader/stat us/793336926749151233 ",
+					"cluster": 340,
+					"value": 1
+				},
+				{
+					"name": "@EndaKennyTD take back that congratulations from Ireland bullshit. Irish people dont like trump . Dont fucking sign us up to WW3 grow a pair",
+					"cluster": 341,
+					"value": 1
+				},
+				{
+					"name": "If Trump even tries to take Starbucks out of Ireland  I'll kill him myself.",
+					"cluster": 342,
+					"value": 1
+				},
+				{
+					"name": "#UltraConservatism is taking #Britain & #Ireland down the road of #Trumpism Trump & May support #racism #xenophobia #mobrule #isolationism pic.twitter.com/0wUUqpwsJk",
+					"cluster": 343,
+					"value": 1
+				},
+				{
+					"name": "Trump beats Clinton to take White House: We'll have reaction from America the UK and the Republic of Ireland . pic.twitter.com/CbxZJbkKH7",
+					"cluster": 344,
+					"value": 1
+				},
+				{
+					"name": "#cubs take #WorldSeries . Ireland beat #allblacks . Trump new @potus . Hahahaha...oh wait...",
+					"cluster": 345,
+					"value": 1
+				},
+				{
+					"name": "In this weird day take time to see our latest post - they'll go with your mood that's for sure http:// wp.me/p37U35-2OX #Trump #blacktights",
+					"cluster": 346,
+					"value": 1
+				},
+				{
+					"name": "Nominations now being accepted from villages all over Ireland who want to be the place that Trump 's ancestors hail from.",
+					"cluster": 347,
+					"value": 1
+				},
+				{
+					"name": "Justin tells @talktojoe1850 that if his ex wife would allow he'd take his kids to Ireland #USElections #Trump #liveline pic.twitter.com/Lewo9dybAE",
+					"cluster": 348,
+					"value": 1
+				},
+				{
+					"name": "There's still that little village in Ireland that said it would take us all in if Trump won.",
+					"cluster": 349,
+					"value": 1
+				},
+				{
+					"name": "@Liveline_RTE Michael OLeary is the Equivalent of Trump . Take no bullshit from anyone Joe. You asked the question who in Ireland .",
+					"cluster": 350,
+					"value": 1
+				},
+				{
+					"name": "How dare Enda Kenny congratulate Donald Trump on behalf of Ireland . On behalf of Ireland I would like to take back Enda's statement.",
+					"cluster": 351,
+					"value": 2
+				},
+				{
+					"name": "@realDonaldTrump Donald trump are you going to work close with Ireland when you take your seat in January according to @EndaKennyTD",
+					"cluster": 352,
+					"value": 1
+				},
+				{
+					"name": "The Irish know to take Trump seriously. Many big companies are using Ireland 's low business tax rate. https:// twitter.com/deputymcgratht d/status/796268779277787137 ",
+					"cluster": 353,
+					"value": 1
+				},
+				{
+					"name": "Where were you when Trump got elected? Oh just finishing off a refugee camp in the living room for my US friends #USElection2016 #Ireland",
+					"cluster": 354,
+					"value": 1
+				},
+				{
+					"name": "If Trump goes on a rampage and drags Britain into it I'm okay cause @1987ladyo said she's taking me to live in Ireland",
+					"cluster": 355,
+					"value": 1
+				},
+				{
+					"name": "7 reasons for Americans to move to Northern Ireland (before Trump takes control) via @irish_news http://www. irishnews.com/opinion/2016/1 1/09/news/7-reasons-for-americans-to-move-to-northern-ireland-777435/?param=ds441rif44T ",
+					"cluster": 356,
+					"value": 1
+				},
+				{
+					"name": "@EndaKennyTD Please take back Congratulating Donald Trump from the people of Ireland . #WeDont #TrumpNotWelcomeHere",
+					"cluster": 357,
+					"value": 1
+				},
+				{
+					"name": "My Google search history: Who won the election? What countries are taking refugees if Trump wins? How to move to Ireland .",
+					"cluster": 358,
+					"value": 1
+				},
+				{
+					"name": ". @Jackaboys_Sam Welp I've heard that Ireland is taking Trump humans so... BYEEEEE AMERICA HELLO JACKABOY! @Jack_Septic_Eye #HumanCrisis",
+					"cluster": 359,
+					"value": 2
+				},
+				{
+					"name": "Should #Ireland take in #American political refugees ? #USElection2016 #Trump #USA @JOEdotie",
+					"cluster": 360,
+					"value": 1
+				},
+				{
+					"name": "Trump and Ireland : No trade deals are Great & Hes taking back multinationals who didnt pay taxes anyways http:// a.msn.com/01/en-ie/AAk4T Yu?ocid=st ",
+					"cluster": 361,
+					"value": 1
+				},
+				{
+					"name": "While we in Ireland can't directly do anything about Trump  what we can do is take this as motivation to demand better from our politicians",
+					"cluster": 362,
+					"value": 1
+				},
+				{
+					"name": "Pres. Trump will take back visa free access for countries that refuse to take back their citizens who are illegal immigrants in US.",
+					"cluster": 363,
+					"value": 1
+				},
+				{
+					"name": "How long will it take for an attempt on Trump 's life",
+					"cluster": 364,
+					"value": 1
+				},
+				{
+					"name": "2/2 person to take on Trump . Too unpopular and too much baggage. Some year for underdogs Leicester Brexit Ireland vAll Blacks & Trump ...",
+					"cluster": 365,
+					"value": 1
+				},
+				{
+					"name": "@Colmogorman This is like if Ireland let the Catholic Church take back control!! #Trump",
+					"cluster": 366,
+					"value": 1
+				},
+				{
+					"name": "@macklemore so when are you moving to Ireland ? Our president is sound and cute. Take the trump card and run",
+					"cluster": 367,
+					"value": 1
+				},
+				{
+					"name": "@TV3Ireland asking the questions that matter: Will Trump accept the Shamrock on St. Patrick's day #USElection2016 #trump #ireland",
+					"cluster": 368,
+					"value": 1
+				},
+				{
+					"name": "Did Morning Ireland really just take an ad break during Trump 's victory speech!",
+					"cluster": 369,
+					"value": 1
+				},
+				{
+					"name": "Think Ireland needs to take the blame here. This all started when we voted Dustin into the Eurovision #electionnight #trump",
+					"cluster": 370,
+					"value": 1
+				},
+				{
+					"name": "03/08/17: American refugees should be allowed into Ireland in search of a better life! #trump",
+					"cluster": 371,
+					"value": 1
+				},
+				{
+					"name": "IF trump wins president will you take me Ireland when you go home PLEASE!!!",
+					"cluster": 372,
+					"value": 1
+				},
+				{
+					"name": "@newyorktimes110 Ireland watching as Trump takes big lead. #fear #ElectionNight @POTUS can you veto... pic.twitter.com/3lvCEeNy25",
+					"cluster": 373,
+					"value": 1
+				},
+				{
+					"name": "when Trump kicks you and others out take me to Ireland please.",
+					"cluster": 374,
+					"value": 2
+				},
+				{
+					"name": "#TYTLive FYI Canada and a small island in Ireland is accepting Trump Refugees Checking Paperwork & looking around the house at what to bring",
+					"cluster": 375,
+					"value": 1
+				},
+				{
+					"name": "COUNTRIES ACCEPTING IMMIGRANTS IF TRUMP WINS: - New Zealand - Ireland - Canada - Svalbard - Sweden (credit: http:// mashable.com/2016/03/03/mov e-to-canada-trump/#J5chOMZ8lsqT  )",
+					"cluster": 376,
+					"value": 1
+				},
+				{
+					"name": "Ireland said they would accept political refugees from a Trump presidency maybe look into it. Gorgeous country and much better than THIS",
+					"cluster": 377,
+					"value": 1
+				},
+				{
+					"name": "I would if I could trust me. This is just sickening. Look into Ireland for immigration they said they'd accept trump refuges",
+					"cluster": 378,
+					"value": 1
+				},
+				{
+					"name": "If Trump wins you folks in Ireland ready to take in some political refugees . Anyone who questions him will be trampled on.",
+					"cluster": 379,
+					"value": 1
+				},
+				{
+					"name": "@my family in Ireland : clear out a guest room for me. If trump wins y'all gonna have to take me for the next 4 years.",
+					"cluster": 380,
+					"value": 1
+				},
+				{
+					"name": "I wonder if Trump will take over Facebook like Putin did with Vkontakte? They'll should move their HQ to Ireland for real while they can.",
+					"cluster": 381,
+					"value": 1
+				},
+				{
+					"name": "So about that island off coast of Ireland taking Americans in case Donald Trump becomes POTUS.....",
+					"cluster": 382,
+					"value": 1
+				},
+				{
+					"name": "My home country ( ireland ) has legitimayely offered me free stay and work if Trump wins. I may have to take you up on that tomorrow. Slinte!",
+					"cluster": 383,
+					"value": 1
+				},
+				{
+					"name": "if trump wins will Ireland take me because I am but a mere high school student with high anxiety I can't take this",
+					"cluster": 384,
+					"value": 1
+				},
+				{
+					"name": "and i thought ireland was dumb for legalising drugs for 24 hrs that one time but trump being in the lead so far really just takes the piss",
+					"cluster": 385,
+					"value": 1
+				},
+				{
+					"name": "There's a few islands in Ireland that may take in refugees from American pending a Trump win.",
+					"cluster": 386,
+					"value": 1
+				},
+				{
+					"name": "If Trump wins as it seems he will be might take mom up on her friend's house in Ireland",
+					"cluster": 387,
+					"value": 1
+				},
+				{
+					"name": "if trump wins mark and i just decided we are taking our cat and moving to ireland . we'll miss you all.",
+					"cluster": 388,
+					"value": 1
+				},
+				{
+					"name": "Hey so anyone living in Ireland or Britain want to take in @JoBelleCee and myself in if Trump wins????",
+					"cluster": 389,
+					"value": 1
+				},
+				{
+					"name": "I think the good news is that when Trump takes over my mother in law has to get shipped back to Ireland .",
+					"cluster": 390,
+					"value": 1
+				},
+				{
+					"name": "Would any of you from the UK Ireland  or Canada be kind enough to take me in if Trump wins? Please? Anybody?",
+					"cluster": 391,
+					"value": 1
+				},
+				{
+					"name": "Will the UK or Ireland also accept Trump escapees should the situation sour enough such that escape is necessary? Canada is nice but...",
+					"cluster": 392,
+					"value": 1
+				},
+				{
+					"name": "when u said to nic that's more republican votes for trump ... you meant electoral bc u we're taking about Ohio but ok",
+					"cluster": 393,
+					"value": 1
+				},
+				{
+					"name": "If Trump wins I'm taking full advantage of my dual citizenship and moving to Ireland",
+					"cluster": 394,
+					"value": 1
+				},
+				{
+					"name": "I love being in unproblematic Ireland no trump or Clinton taking over here",
+					"cluster": 395,
+					"value": 1
+				},
+				{
+					"name": "@Lord_Sugar If Leicester can with the PL..Brexit take place..Todd Hamilton win the open & Ireland beat NZ at rugby...could it be trump ??",
+					"cluster": 396,
+					"value": 1
+				},
+				{
+					"name": "and Mrs Brown as President of Ireland ? The Trump Card and talking the Brown would take on totally different meanings!!",
+					"cluster": 397,
+					"value": 1
+				},
+				{
+					"name": "If Trump wins I'm either going to A. Petition to England to take us back or B. Move to Ireland .",
+					"cluster": 398,
+					"value": 1
+				},
+				{
+					"name": "If there's any silver lining to a Trump win it's that @BATTLES might take up residence in Ireland . https:// twitter.com/BATTLES/status /795453696721162240 ",
+					"cluster": 399,
+					"value": 1
+				},
+				{
+					"name": "Trump to become president and to fund the IRA to take back Ireland  heard it here first",
+					"cluster": 400,
+					"value": 1
+				},
+				{
+					"name": "trump ain't my boy. only support him because you know 2 of less evils anyways how about them all blacks taking the L vs Ireland",
+					"cluster": 401,
+					"value": 1
+				},
+				{
+					"name": "The (social) media is so messed up. take one look at snapchat and it's all about standing up to trump and voting for Hillary.",
+					"cluster": 402,
+					"value": 1
+				},
+				{
+					"name": "Go President Trump ! Only corruption can take you down now. Best wishes from Ireland ..x.",
+					"cluster": 403,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 46,
+			"value": 12,
+			"children": [
+				{
+					"name": "trump is going to pull the american companies out of ireland take it back to the states",
+					"cluster": 404,
+					"value": 1
+				},
+				{
+					"name": "@nowthisnews In Ireland they said if Trump is elected it will take a generation to recover however it will be a black eye USA",
+					"cluster": 405,
+					"value": 1
+				},
+				{
+					"name": "That's what Trump & co have been saying all along. They'll just copy the Canadians & follow the Japanese by banning refugees .",
+					"cluster": 406,
+					"value": 1
+				},
+				{
+					"name": "An American refugee on her way to Ireland in search of a better life away from Donald Trump  https://www. instagram.com/p/BM9eibHgmNt/",
+					"cluster": 407,
+					"value": 1
+				},
+				{
+					"name": "Farage and Trump to elope and take advantage of Ireland 's SSM laws with a honeymoon in Doonbeg",
+					"cluster": 408,
+					"value": 1
+				},
+				{
+					"name": "#ThursdayThoughts 'It's vital we stand up against it': Anti- Trump protest to take place outside US embassy in Dublin Ireland",
+					"cluster": 409,
+					"value": 1
+				},
+				{
+					"name": "oh wait despite a brexiter/ Trump supporter saying Ireland should should follow. can't take his argument seriously. #PatKennyTonight",
+					"cluster": 410,
+					"value": 1
+				},
+				{
+					"name": "Time to move on in Ireland over trump  lots of Americans Hav now accepted it time all the experts here do same #Trump",
+					"cluster": 411,
+					"value": 1
+				},
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/5HFFUXVNC",
+					"cluster": 82,
+					"value": 2
+				},
+				{
+					"name": ". @Newshub_ Ireland President #Trump has the power to reduce the number of human beings that the USA takes in per year to ZERO! #HumanCrisis",
+					"cluster": 412,
+					"value": 2
+				},
+				{
+					"name": "IRELAND IS NOW OFFICIALLY ACCEPTING TRUMP REFUGEES FROM AMERICA! http:// fb.me/X0jmcqb9",
+					"cluster": 90,
+					"value": 1
+				},
+				{
+					"name": "#MAGA ! http:// ift.tt/2fR7O51 Trump : No 'big' vacations no salary as president - Gee The Obama's take a vacation to Ireland and it only",
+					"cluster": 413,
+					"value": 2
+				}
+			]
+		},
+		{
+			"week": 47,
+			"value": 13,
+			"children": [
+				{
+					"name": "If you take away all my illegal votes (who I'm going to reward by sending them all back to Mexico and Ireland ) I still won #Trump https:// twitter.com/realDonaldTrum p/status/802972944532209664 ",
+					"cluster": 414,
+					"value": 1
+				},
+				{
+					"name": "The western world is full of liberal fascists .. they can't accept #Brexit & President #Trump .. next weekend will they accept #loVotoNo ?",
+					"cluster": 415,
+					"value": 1
+				},
+				{
+					"name": "Article by @arnouddemeyer President of Singapore Mgt Uni well worth a read - Ireland take note #Brexit #Trump #Entreprenuership #Tax @Entirl pic.twitter.com/O2Ef1k8sgb",
+					"cluster": 416,
+					"value": 1
+				},
+				{
+					"name": "In Scotland #Trump Built a Wall. Then He Sent Residents the Bill. #Doonbeg #Ireland take note #NatureTrumpWalls http:// nyti.ms/2fYGljw",
+					"cluster": 417,
+					"value": 1
+				},
+				{
+					"name": "Ireland ended up taking trump refugees https:// twitter.com/konradkarandy/ status/802153973314715648 ",
+					"cluster": 418,
+					"value": 1
+				},
+				{
+					"name": "what is the area of Ireland Helping Trump refugees ???",
+					"cluster": 419,
+					"value": 1
+				},
+				{
+					"name": "come to Ireland  I'll take care of you. Trump won't be able to bother you there.",
+					"cluster": 420,
+					"value": 1
+				},
+				{
+					"name": "#Trump Immigration Plan: Reduce intake of Syrian refugees to zero using authority under the 1980 Refugee Act.",
+					"cluster": 421,
+					"value": 1
+				},
+				{
+					"name": "FactCheck: No Ireland is NOT officially accepting Trump refugees  - TheJournal.ie http:// ow.ly/IZYt306oN45",
+					"cluster": 83,
+					"value": 1
+				},
+				{
+					"name": "@ghook @IngrahamAngle George: If Enda Kenny is smart (?) he should accept Pres Elect Trump 's idea today of bilateral trade deals- Ireland &US",
+					"cluster": 422,
+					"value": 1
+				},
+				{
+					"name": "Today's @GraziaUK column: the precious nature of abortion rights why Trump / Pence mustn't take them from US and why Ireland needs them NOW",
+					"cluster": 423,
+					"value": 1
+				},
+				{
+					"name": "Great read about Trump taking jobs back from Ireland . @BakerTillyHB reminds us Ireland is the only English speaking EU country post #brexit https:// twitter.com/BakerTillyHB/s tatus/798121430621753344 ",
+					"cluster": 424,
+					"value": 1
+				},
+				{
+					"name": "#Immigrants taking our government jobs! Send #Trump to Germany or Scotland #Pence & #Bannon to Ireland . #USA #MAGA #NotMyPresident",
+					"cluster": 425,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 48,
+			"value": 6,
+			"children": [
+				{
+					"name": "Trump promises to build a border wall and limit immigration and refugees . Need to keep them out in Ireland as well!",
+					"cluster": 426,
+					"value": 1
+				},
+				{
+					"name": "@deejay90192 no shit. One guy said what's the big deal trump taking a congrats from Taiwan pres. I can't take much more. Ireland",
+					"cluster": 427,
+					"value": 1
+				},
+				{
+					"name": "@ceejay410 I can't take this. I am going to Ireland or Scotland. They are accepting trump refugees . I will not be trump Usa",
+					"cluster": 428,
+					"value": 1
+				},
+				{
+					"name": "TRANE is now headquartered in Ireland via Ingersoll Rand taking advantage of tax shelters Trump seeks to squelch.",
+					"cluster": 429,
+					"value": 1
+				},
+				{
+					"name": "Don't forget about #AppleTax  Ireland should abandon it's stupid appeal and grab the 19 bn (incl int) & before Trump takes office. #rtept",
+					"cluster": 430,
+					"value": 1
+				},
+				{
+					"name": "Has #Trump s Election Win Exposed #Ireland s Apathy and Hypocrisy? #Repealthe8th #Homeless #LGBTQ #Refugees http://www. headstuff.org/2016/11/trump- win-ireland-apathy-hypocrisy/  pic.twitter.com/xT4G44slcD",
+					"cluster": 431,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 49,
+			"value": 6,
+			"children": [
+				{
+					"name": "Evening top 5: Ireland committed to taking 130 refugees before Christmas; and Trump dismisses CIA claims of Russia http:// ift.tt/2gtoN0t",
+					"cluster": 432,
+					"value": 1
+				},
+				{
+					"name": "If Apple takes Advantage of the 10% Tax Rate under Trump to bring Home their $230 Billion in Cash Ireland will ta http:// ift.tt/2hAyjv5",
+					"cluster": 433,
+					"value": 2
+				},
+				{
+					"name": "Prediction: In years to come Conor McGregor will take a run at being Ireland 's Donald Trump type candidate.",
+					"cluster": 434,
+					"value": 1
+				},
+				{
+					"name": "Ireland taking in Americans fleeing Trump ...ruPaul says Trump touched inappropriately... Hundreds and hundreds of thousands of hits. https:// twitter.com/SFGate/status/ 807234643732725760 ",
+					"cluster": 435,
+					"value": 1
+				},
+				{
+					"name": "Message from Ireland : Donald Trump should be wary of let them take the boat approach to abortion - @PatrickSmyth1 http://www. irishtimes.com/opinion/donald -trump-should-be-wary-of-let-them-take-the-boat-approach-to-abortion-1.2890578 ",
+					"cluster": 436,
+					"value": 1
+				},
+				{
+					"name": "Ignore Trump . In N Ireland we say if you give it out you have to take it. John Boyd",
+					"cluster": 437,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 50,
+			"value": 3,
+			"children": [
+				{
+					"name": "I'm drinking Irish Whiskey do you think Ireland will take me in when Trump /Putin takeover?",
+					"cluster": 438,
+					"value": 1
+				},
+				{
+					"name": "If #Apple takes Advantage of 10% #TaxRate under #Trump 2bring Home their $230 Bill-Cash #Ireland will take a Hit https:// waa.ai/jWFo pic.twitter.com/ruFjc9M4mq",
+					"cluster": 439,
+					"value": 1
+				},
+				{
+					"name": "I agree. I just hope and pray the left start accepting democracy and allow President Trump to lead in peace.",
+					"cluster": 440,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 51,
+			"value": 4,
+			"children": [
+				{
+					"name": "I've read your pieces on Trump  the Electoral College and Christmas in Ireland ...but this is the hot take I was looking for!",
+					"cluster": 441,
+					"value": 1
+				},
+				{
+					"name": "The whole Trump 's campaign was based on taking power away from white establishment. #DryTheSwamp",
+					"cluster": 442,
+					"value": 1
+				},
+				{
+					"name": "#ireland : America has elected a fascist Accept #Trump ? Nope http:// l.facebook.com/l.php?u=http%3 A%2F%2Fgo.nowth.is%2F2giLXak&h=mAQG1_BoZ ",
+					"cluster": 443,
+					"value": 1
+				},
+				{
+					"name": "#news #trump #hillary #election #syria Apple and Ireland take on the EU http:// dlvr.it/MwBXfm pic.twitter.com/iPReJMLMNg",
+					"cluster": 444,
+					"value": 1
+				}
+			]
+		},
+		{
+			"week": 52,
+			"value": 6,
+			"children": [
+				{
+					"name": "#Refugee boats should be sent back to #Africa  according to #Bavarian allies of #Merkel s party https://www. rt.com/news/372161-ge rmany-refugees-mediterranean-return/#.WGUafTTroOA.twitter  #EU #Germany #Trump",
+					"cluster": 445,
+					"value": 1
+				},
+				{
+					"name": "IRELAND IS NOW OFFICIALLY ACCEPTING TRUMP REFUGEES FROM AMERICA! http:// fb.me/8707iuC35",
+					"cluster": 90,
+					"value": 1
+				},
+				{
+					"name": ": Donald Trump urges Israel to stay strong until he takes office says cannot allow #1 in #Ireland http://www. toprt.com/TopRT_IE/?t=81 4119464698519552 ",
+					"cluster": 446,
+					"value": 1
+				},
+				{
+					"name": "Trump and Brexit take 30m bite out of Christmas sales http:// bit.ly/2hM0Xtq #Irishbiz #Ireland",
+					"cluster": 447,
+					"value": 1
+				},
+				{
+					"name": "Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/1LgLAaurW",
+					"cluster": 82,
+					"value": 1
+				},
+				{
+					"name": "Trump 's aide says Brexit 'God-given opportunity' for Ireland to take business from UK http:// indo.ie/MCGW307rY6T pic.twitter.com/xclpjasEgV",
+					"cluster": 448,
+					"value": 3
+				}
+			]
+		},
+		{
+			"week": 53,
+			"value": 1,
+			"children": [
+				{
+					"name": "@OmanReagan  Trump believe in eminent domain he will take your land in a secondcheck out what he did to the poor people in Ireland",
+					"cluster": 449,
+					"value": 1
+				}
+			]
 		}
-	},
-	{
-		"@EricTrump @Trump _ Ireland we need U Don Jr & Ivanka to take control of reigns - your father will be gone a long time-we trust U as he does": {
-			"cluster": 2,
-			"count": 1
-		}
-	},
-	{
-		"2016 election possibilities. #Trump vs #Sanders  with #Bernie winning. #SinnFein in Govt in Ireland . #PirateParty take power in #Iceland .": {
-			"cluster": 3,
-			"count": 1
-		},
-		"I wonder since I'm an immigrant if I can move to Ireland or something as a refugee of Trump gets elected... #UK #DonaldTrump": {
-			"cluster": 4,
-			"count": 1
-		}
-	},
-	{
-		"@KEEMSTARx do Americans actually take trump seriously? In Europe hes seen as a joke and we've had our share of them in ireland": {
-			"cluster": 5,
-			"count": 1
-		},
-		"If Trump takes the seat as president. We are moving out of this country. Ireland / Canada / UK.": {
-			"cluster": 6,
-			"count": 1
-		}
-	},
-	{
-		"Greetings from Ireland Eric!! If Trump takes New Hampshire he could win the lot! I'm lovin the coverage!! https:// twitter.com/ericbolling/st atus/695572418216251392 ": {
-			"cluster": 7,
-			"count": 1
-		}
-	},
-	{
-		"Trump : Not using profanities is easy - mammies across Ireland  take note of this quote to tell your kids! #GOPDebate": {
-			"cluster": 8,
-			"count": 1
-		},
-		"@KirstenPowers @KatrinaNation Kirstenif Trump becomes POTUS U& family welcome here in Australia.BOrielly going Ireland if SANDERS. Take care": {
-			"cluster": 9,
-			"count": 1
-		},
-		"Takes 10 years to dismantle HSE??? Ireland needs a Trump not a Leo. @FineGael @campaignforleo #twip": {
-			"cluster": 10,
-			"count": 1
-		},
-		"@laura_ ireland you know it beautiful lady Go Trump !!! time to take Back America !!! pic.twitter.com/RDINm5w802": {
-			"cluster": 11,
-			"count": 1
-		}
-	},
-	{
-		"When I asked my dad if we would move to Canada if Trump was elected he said no Ireland  because Trump was going to take over Canada": {
-			"cluster": 12,
-			"count": 1
-		}
-	},
-	{
-		"in the midst of #GE16 #ireland coverage take a few mins to read @marionmckeone in today's @sundaybusiness #Trump and #racism": {
-			"cluster": 13,
-			"count": 1
-		},
-		"With Pfizer moving to Ireland  I am waiting for Donald Trump to say he will no longer be taking Viagra.": {
-			"cluster": 14,
-			"count": 1
-		},
-		"Take a break from Trump . Ireland votes today. http://www. ft.com/intl/cms/s/0/c d8719ca-db09-11e5-98fd-06d75973fe09.html#axzz41FxhgrK0  pic.twitter.com/BWPso60zEv": {
-			"cluster": 15,
-			"count": 1
-		},
-		"if trump wins the election I'm declaring myself a political refugee and moving to Ireland": {
-			"cluster": 16,
-			"count": 1
-		},
-		"@FoxNews @KarlRove NO The only reason why Cruz won in IA was b/c he cheated. Trump is taking every State. We are done with Politicians": {
-			"cluster": 17,
-			"count": 1
-		},
-		"@Kingghidorah64 well Ireland is always willing to take Refugees from America fleeing a Trump administration": {
-			"cluster": 18,
-			"count": 1
-		}
-	},
-	{
-		"If the election comes down to Hillary or Trump .. I can whole heartedly say I'm gonna do all that it takes to move to Ireland .": {
-			"cluster": 19,
-			"count": 1
-		},
-		"@Jacobnbc Trump needs to take a tour of that BEAUTY!!!": {
-			"cluster": 20,
-			"count": 1
-		},
-		"@foxandfriends @FoxFriendsFirst Trump with his 15% corp tax ..that puts into competition with Ireland that is taking our corp due to low tax": {
-			"cluster": 21,
-			"count": 1
-		},
-		"If trump is elected president I'm taking my ass to Ireland . All are welcome to join me.": {
-			"cluster": 22,
-			"count": 1
-		},
-		"The Harry Potter club offered to take me with them to Ireland and live there in a castle if trump wins.": {
-			"cluster": 23,
-			"count": 1
-		},
-		"@Matttt_wynne yassss I'm so happy rn  but for real if trump becomes president were moving to Ireland we'll take Grayson ...": {
-			"cluster": 24,
-			"count": 1
-		},
-		"@Matttt_wynne trump is leading the Republican Party pls take me to Ireland and just drop me off and leave me there...": {
-			"cluster": 25,
-			"count": 1
-		},
-		"Who in the uk and Ireland wants to take in a chef when the USA burns as trump plays a streaming audio of a fiddle?": {
-			"cluster": 26,
-			"count": 1
-		},
-		"If Trump becomes US president - expect flood of fleeing American refugees struggling across Atlantic and washing up in west Ireland /Cornwall": {
-			"cluster": 27,
-			"count": 1
-		},
-		"@realDonaldTrump @ZANVDEM Trump is gettting better and better as time passeshe's taking on all the real criminal bullies and cowards": {
-			"cluster": 28,
-			"count": 1
-		},
-		"In America a nutter ( Trump or similar) is in danger of taking over the building; in Ireland the nutters (fringe groups inds) already have.": {
-			"cluster": 29,
-			"count": 1
-		}
-	},
-	{
-		". @clairlemon @newscomauHQ Ireland and (gulp) the U.S.? Or would Post- Trump Americans be considered refugees ?": {
-			"cluster": 30,
-			"count": 1
-		},
-		"If trump wins I need @wwebalor to marry me and take me to Ireland": {
-			"cluster": 31,
-			"count": 1
-		},
-		"Donald Trump : I've told the police be gentle when take those protesters out #TrumpRally": {
-			"cluster": 32,
-			"count": 1
-		},
-		"Donald Trump  We're going to take our country back from those people..they do nothing! #TrumpRally": {
-			"cluster": 33,
-			"count": 1
-		},
-		"@SenanByrne is Ireland pretty awesome? Need a place to after Adolf Trump takes over": {
-			"cluster": 34,
-			"count": 1
-		},
-		"@HealthyBalance8 @coeursvoles Ireland was on a list of countries that would totally accept people looking to leave the US if Trump wins.": {
-			"cluster": 35,
-			"count": 1
-		},
-		"Cartoonists Overseas Take on Donald Trump http://www. politico.com/magazine/galle ry/2016/03/foreign-cartoonists-trump-000621?slide=0  The horror of the hair. Dan Murphy of Ireland 's is impressive! Trump dump?": {
-			"cluster": 36,
-			"count": 1
-		},
-		"So ireland has no #Taoiseach . Better then the chance of #Trump taking over tho right?": {
-			"cluster": 37,
-			"count": 1
-		},
-		"So now #Trump wants to take Physer out of #Ireland and back to USA on CNN Anderson Cooper. #Krumpf": {
-			"cluster": 38,
-			"count": 1
-		},
-		"@Lee_Eisenberg Ireland will accept limited numbers of political refugees in a post- Trump election apocalypse. Form an orderly queue...": {
-			"cluster": 39,
-			"count": 1
-		},
-		"Wondering if Arlene Foster wants to take a leaf from Trump 's book and resurrect a great work from Early Ireland pic.twitter.com/w4J2lHalRk": {
-			"cluster": 40,
-			"count": 1
-		}
-	},
-	{
-		"#Trump supporters claim Paul Ryan's tie proves he was born in Ireland . Speaker denies he'll accept nomination @pryan pic.twitter.com/U4j6T7Xk3K": {
-			"cluster": 41,
-			"count": 1
-		},
-		"@amsaph A dear friend is here from Ireland and she has concluded that the US runs on fear...and Trump is totally taking advantage.": {
-			"cluster": 42,
-			"count": 1
-		},
-		"We're moving to Ireland  we're just moving back if Trump is elected. - Grandma's take on politics": {
-			"cluster": 43,
-			"count": 1
-		},
-		"The reason companies are coming to Ireland is the corporation tax is 12.5% unlike 35% in the states #Trump ! Plus we accept crap wages": {
-			"cluster": 44,
-			"count": 1
-		},
-		"We should not allow Pfizer to go to Ireland . Trump knows this because he liked to take companies overseas": {
-			"cluster": 45,
-			"count": 1
-		},
-		"Cartoonists Overseas Take on Donald Trump - Ireland http://www. politico.com/magazine/galle ry/2016/03/foreign-cartoonists-trump-000621?slide=3  #NeverTrump #LoathedWorldwide #CrassAsItGets": {
-			"cluster": 46,
-			"count": 1
-		},
-		"When you see Pfizer moving to Ireland and you see that in the future. This principle was that the purpose of taking them from us.": {
-			"cluster": 47,
-			"count": 1
-		}
-	},
-	{
-		"Ireland and Australia's are so good ~ Cartoonists Overseas Take on Donald Trump http://www. politico.com/magazine/galle ry/2016/03/foreign-cartoonists-trump-000621?slide=6 ": {
-			"cluster": 46,
-			"count": 1
-		},
-		"Donald Trump calls out Ireland for taking US jobs http://www. irishtimes.com/business/econo my/donald-trump-calls-out-ireland-for-taking-us-jobs-1.2582851#.VvPkkFY_ZQY.twitter@IrishTimesBiz ": {
-			"cluster": 48,
-			"count": 15
-		},
-		"Inishturk Island Ireland  has now also offered to take in Americans fleeing Trump . Real refugees should be as lucky as we are.": {
-			"cluster": 49,
-			"count": 1
-		},
-		"#Donald Trump calls out Ireland for taking US jobs #jobs #jobsearch #: #Countries like Mexico and Ireland are ... http:// bit.ly/1U6fUqp": {
-			"cluster": 50,
-			"count": 2
-		},
-		"So Ireland will take Americans fleeing Trump ? I'm a bit surprised they're not offering to take Americans fleeing Clinton.": {
-			"cluster": 51,
-			"count": 1
-		},
-		"We should take a page out of Trump 's book and build a wall between Ireland and England. #MakeIrelandGreatAgain #TrumpTrain": {
-			"cluster": 52,
-			"count": 1
-		},
-		"For like the 5000th time Trump implied that when Pfizer inverts to Ireland  it takes jobs with it. Not true. http://www. bna.com/trump-taxes-b1 7179935343/ ": {
-			"cluster": 53,
-			"count": 1
-		},
-		"In his @washingtonpost editorial board meeting Trump mentions Ireland taking jobs (presumably American jobs). It doesn't. EU's a big market": {
-			"cluster": 54,
-			"count": 1
-		},
-		"A transcript of Trump 's meeting with The Washington Post editorial board ( Ireland gets mentioned for taking jobs http:// wpo.st/H6rN1": {
-			"cluster": 55,
-			"count": 1
-		},
-		"I take it back if Trump wins I'm moving to Italy or LONDON. or Ireland  they don't have as many problems ( I don't think...)": {
-			"cluster": 56,
-			"count": 1
-		}
-	},
-	{
-		"Take a look at Ireland 's #erodingcoastline after #RTEprime time episode on #Trump 's golf course #doonbeg": {
-			"cluster": 57,
-			"count": 1
-		},
-		"Cringed looking at #Trump on #rtept we welcome #refugees we don't welcome #racist . Keep that mad man out of Ireland": {
-			"cluster": 58,
-			"count": 1
-		},
-		"Cruz & #Trump are DANGEROUS: Ireland is prosecuting a 21 yr-old for taking pills to prevent pregnancy! #WarOnWomen https:// twitter.com/rishikesh2905/ status/715554574325538816 ": {
-			"cluster": 59,
-			"count": 1
-		},
-		"@kencurtin Yes indeed but hasn't Ireland been becoming more liberal little by little? Trump wants to take a huge step back.": {
-			"cluster": 60,
-			"count": 1
-		},
-		"Trump takes lead from Ireland & says punish women for abortions @repealeight http://www. irishtimes.com/news/world/us/ donald-trump-says-women-should-be-punished-for-abortions-1.2592878  pic.twitter.com/dX2fYJLroc": {
-			"cluster": 61,
-			"count": 1
-		},
-		"There's literally a website for American refugees immigrating to Ireland if Donald Trump becomes president": {
-			"cluster": 62,
-			"count": 1
-		},
-		"I swear if Trump becomes president I am taking my passport and moving straight back to Ireland": {
-			"cluster": 63,
-			"count": 1
-		},
-		"#DonaldTrump says the US can't take anyone who might be in any way related to ISIS. Ireland can't take anyone in any way related to Trump .": {
-			"cluster": 64,
-			"count": 1
-		}
-	},
-	{
-		"#IrishMed top trend in Ireland for 8 hrs @GoffHickey ' Take that Donald Trump ;your boys took one hell of a beating' https://www. dropbox.com/s/1el2iet4e95s r7a/Screenshot%202016-04-07%2007.28.37.png?dl=0 ": {
-			"cluster": 65,
-			"count": 1
-		},
-		"@oreillyfactor Feizer not to move to Ireland kandy after alk. TRUMP spoke about this issue many times. Taking jobs away": {
-			"cluster": 66,
-			"count": 1
-		},
-		"Trump abused over his abortion comments. In Northern Ireland a woman has been given a suspended sentence for taking an abortion Pill.": {
-			"cluster": 67,
-			"count": 1
-		}
-	},
-	{
-		"POLL: At This Rate Would You Take Donald Trump Over This Shower? http:// waterfordwhispersnews.com/2016/04/15/pol l-at-this-rate-would-you-take-donald-trump-over-this-shower/?utm_source=WWN_Twitter_Account&utm_medium=Twitter&utm_campaign=Social_Link&utm_content=Article  #ireland pic.twitter.com/ALmEKEYzph": {
-			"cluster": 68,
-			"count": 1
-		},
-		"@AppSame @DrMartyFox @ChristieC733 @realDonaldTrump #TRUMP #CONGRESS @SpeakerRyan @SenateMajLdr REFUGEES TO IRELAND https:// twitter.com/ONECampaign/st atus/719857853968883713 ": {
-			"cluster": 69,
-			"count": 1
-		},
-		"@TammaraMaiden1 @RebeccaHewitt18 @interUNFAO @bimmerella @TripleMinority @annanotherthng Ireland is accepting refugees from Trump Land.": {
-			"cluster": 70,
-			"count": 1
-		}
-	},
-	{
-	},
-	{
-		"Ironically he's an anti-immigrant Trump supporter from Ireland . I don't think a single refugee has ever gone TO Ireland .": {
-			"cluster": 71,
-			"count": 1
-		},
-		"@david75donovan @TrueEgAl @PopulationWatch @drewmistak @conradhackett how many is ireland taking in?": {
-			"cluster": 72,
-			"count": 1
-		},
-		"@farleftcoast If Trump wins there is a place in Ireland that shall accept us for free!!": {
-			"cluster": 73,
-			"count": 1
-		},
-		"If trump supporters find america so bad rn why dont they take their stupid asses to 7% ireland 8% germany 12% britan......": {
-			"cluster": 74,
-			"count": 1
-		}
-	},
-	{
-		"People who are trying to move to Ireland if Trump becomes President should have to take a history test to get in.": {
-			"cluster": 75,
-			"count": 1
-		},
-		"@SNu_Zeke371 well then trump taking GOP nomination then should give me more of a reason to go to Ireland now": {
-			"cluster": 76,
-			"count": 1
-		},
-		"Take heart Northern Ireland ....whatever the outcome of #Elections2016 we are safe in the knowledge we won't have voted in #Trump #ae16": {
-			"cluster": 77,
-			"count": 1
-		},
-		"@KupoOnToast I think I'll vote Trump ... so I can move to Ireland . Because they are apparently open to taking Trump - refugees": {
-			"cluster": 78,
-			"count": 1
-		},
-		"@Hippie_Gemma Maybe we'll build a wall around the UK and charge you for it. But I did see Ireland is accepting citizens if Trump wins.": {
-			"cluster": 79,
-			"count": 1
-		},
-		"Hey Ted Take time out in St Mullins The Mystic center of Ireland #TedCruz #Trump #dublin #carlow #waterford pic.twitter.com/kxuoWxYIpq": {
-			"cluster": 80,
-			"count": 1
-		},
-		"I COME BACK TO THE UNITED STATES AND NOT EVEN 8 HOURS LATER AND TRUMP IS THE NOMINEE SCREW THIS TAKE ME BACK TO IRELAND": {
-			"cluster": 81,
-			"count": 1
-		}
-	},
-	{
-		"Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/6gMQP8MIZ": {
-			"cluster": 82,
-			"count": 168
-		},
-		"Ireland is now officially accepting Trump refugees from America http:// ift.tt/27q4lz6 #Mimmer #Politics": {
-			"cluster": 83,
-			"count": 9
-		},
-		". @LorrieHope1955 Ireland Is Seriously Accepting Trump human beings From The U.S. -- Here's Why #HumanCrisis": {
-			"cluster": 84,
-			"count": 13
-		},
-		"there's also an island off the coast of Ireland accepting post- Trump ex-pats so you do have options @MapleMatch": {
-			"cluster": 85,
-			"count": 1
-		},
-		"Is this thing about Ireland accepting Americans if Donald Trump gets elected real? Because I mean sign me up.": {
-			"cluster": 86,
-			"count": 1
-		},
-		"In other news Ireland has agreed to accept American refugees if Trump becomes President.": {
-			"cluster": 87,
-			"count": 1
-		},
-		". @SarcasticGringo Help me out #Ireland if Trump really wins will you take us in as political humans? #HumanCrisis": {
-			"cluster": 88,
-			"count": 2
-		},
-		"LOL didn't know that. Well Ireland would still likely protect US trump refugees from trained (by roy cohen) macathyite trump": {
-			"cluster": 89,
-			"count": 1
-		},
-		"IRELAND IS NOW OFFICIALLY ACCEPTING TRUMP REFUGEES FROM AMERICA https:// bandannie.com/2016/05/15/ire land-is-now-officially-accepting-trump-refugees-from-america/  via @wordpressdotcom": {
-			"cluster": 90,
-			"count": 4
-		},
-		". @MichelleGregg61 Inishturk Ireland is offering to take in American human beings just in case Trump gets elected. More than likely...": {
-			"cluster": 91,
-			"count": 2
-		},
-		"Ireland is taking refugees if trump gets elected..I know where I'll be going #irishroots": {
-			"cluster": 92,
-			"count": 1
-		},
-		"Ireland has now joined Canada in accepting Americans requesting political asylum from a Donald Trump presidency. -- http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 93,
-			"count": 1
-		},
-		"wow other countries are offering us a Silence from a possible Trump presidency we may have to take Ireland": {
-			"cluster": 94,
-			"count": 1
-		},
-		". @soloniallrising Also thank you Ireland for accepting trump humans #HumanCrisis": {
-			"cluster": 95,
-			"count": 2
-		},
-		". @saoirseomara Ireland Is Now Officially Accepting Trump humans From America Do we need more proof that it *is* bad? #noTrump #HumanCrisis": {
-			"cluster": 96,
-			"count": 6
-		},
-		"#Ireland joins #Canada in accepting #Trump #Refugees from America http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 97,
-			"count": 1
-		},
-		"#Ireland Is Now Officially Accepting #Trump Refugees From America Can't take the idea of a Trump presidency? Then... http:// fb.me/Acw7D6G3": {
-			"cluster": 98,
-			"count": 1
-		}
-	},
-	{
-		"BREAKING : Ireland is now officially accepting Trump refugees from America | Cosmo Politics http:// fb.me/1679De98L": {
-			"cluster": 83,
-			"count": 47
-		},
-		"Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/7bAuEUlP1": {
-			"cluster": 82,
-			"count": 40
-		},
-		"Ireland is accepting Trump refugees . http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 99,
-			"count": 4
-		},
-		"Just found out if Trump becomes president Ireland is excepting Americans as refugees !": {
-			"cluster": 100,
-			"count": 1
-		},
-		"Ireland Is Seriously Accepting Trump Refugees From The U.S.  Heres Why http://www. liberalamerica.org/2016/05/15/ire land-is-seriously-accepting-trump-refugees-from-the-u-s-heres-why/  via @LibAmericaOrg": {
-			"cluster": 84,
-			"count": 4
-		},
-		"I hear Ireland & Canada will accept Trump refugees . Upside to Trump vote.": {
-			"cluster": 101,
-			"count": 1
-		},
-		">Scandinavian countries along with Ireland will be accepting refugees from America should Trump become president I'M FUCKING DOING IT": {
-			"cluster": 102,
-			"count": 1
-		},
-		"This sounds awesome. #Ireland Is Seriously Accepting #Trump #Refugees From The U.S. -- Here's Why http:// bit.ly/1OyzPNi": {
-			"cluster": 84,
-			"count": 2
-		},
-		"#Ireland & #Canada now accepting #Trump #refugees http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 97,
-			"count": 1
-		},
-		"#Ireland  now welcoming #Trump refugees ! http:// fb.me/3DHSSN4db": {
-			"cluster": 103,
-			"count": 1
-		}
-	},
-	{
-		"Ireland Is Seriously Accepting Trump Refugees From The U.S. -- Here's Why http:// fb.me/4zJdjBamz": {
-			"cluster": 82,
-			"count": 4
-		},
-		"BREAKING : Ireland is now officially accepting Trump refugees from America | Cosmo Politics http:// cosmo-politics.com/2016/05/18/bre aking-ireland-is-now-officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 83,
-			"count": 1
-		},
-		"Trump Building Wall in Ireland to Keep Climate Change Out News that the Donalds businesses take climate change... http:// fb.me/14AwVQT6P": {
-			"cluster": 104,
-			"count": 6
-		},
-		"Jemaine tweeted an article that stated Ireland will take those of us trying to escape Trump . Truth?": {
-			"cluster": 105,
-			"count": 1
-		},
-		"#Climate Guardian  Trump dismissive of CC but takes threat seriously when it comes to his golf course in Ireland http:// bit.ly/1TKBq2X": {
-			"cluster": 106,
-			"count": 1
-		},
-		"Wow. Even Donald Trump is taking the time to prepare for #ClimateChange along Ireland 's west coast. Lessons for gov? https:// twitter.com/ArthurNeslen/s tatus/735016112295976960 ": {
-			"cluster": 107,
-			"count": 1
-		}
-	},
-	{
-		"Trump takes time-out from trail to visit golf courses in Scotland Ireland via the @FoxNews App http://www. foxnews.com/politics/2016/ 06/03/trump-takes-time-out-from-trail-to-visit-golf-courses-in-scotland-ireland.html ": {
-			"cluster": 108,
-			"count": 36
-		},
-		"Spare me the Trump visiting Ireland hot takes ; we've already implemented his removal of birthright citizenship policy here": {
-			"cluster": 109,
-			"count": 1
-		},
-		"#Trump is coming to visit Ireland  Anti fascist action take note he is a high profile person Gardai will come down heavy on any violence .": {
-			"cluster": 110,
-			"count": 1
-		},
-		"Trump will probably use his trip to Ireland to take pot shots at the Democratic Party via Joe Biden": {
-			"cluster": 111,
-			"count": 1
-		},
-		". @bingoald Ireland Is Now Officially Accepting Trump humans From America #HumanCrisis": {
-			"cluster": 82,
-			"count": 2
-		},
-		"So Biden and Trump will be in Ireland at the same time. That'll take the edge off silly season.": {
-			"cluster": 112,
-			"count": 1
-		},
-		"Apparently trump is coming to ireland  taKE HIM BAC K": {
-			"cluster": 113,
-			"count": 1
-		},
-		"BREAKING : Ireland is now officially accepting Trump refugees from America | Cosmo Politics http:// fb.me/7Xk2EhZHM": {
-			"cluster": 83,
-			"count": 3
-		},
-		"Ireland Is Seriously Accepting Trump Refugees From The U.S. -- Here's Why http:// fb.me/TnU3KhwT": {
-			"cluster": 82,
-			"count": 1
-		}
-	},
-	{
-		"http://www. thejournal.ie/donald-trump-i slamic-centre-dublin-2814986-Jun2016/?utm_source=facebook_short  . WOULD YOU ACCEPT THIS OFFER MR. TRUMP ??? #Trump #Ireland #Thejournal .ie #Usa #DonaldTrump #DonaldTrumpforPresident": {
-			"cluster": 114,
-			"count": 1
-		},
-		"Ireland ? #Trump wants to take a judge off a #GMO potato labeling case because of his Irish ancestry. @Palecrybaby #tcot": {
-			"cluster": 115,
-			"count": 1
-		},
-		"Honestly just going to take my Ireland passport and move to Europe if Trump be comes President": {
-			"cluster": 116,
-			"count": 1
-		},
-		"Could I move to Ireland as a political Refugee seeking asylum if #HillaryClinton or #Trump get into the White House.... Just curious...": {
-			"cluster": 117,
-			"count": 1
-		},
-		"' Trump Not Welcome' protest to take place against Donald Trump 's visit to Ireland http://www. rte.ie/radio/utils/ra dioplayer/rteradioweb.html#!rii=b9%5F21001064%5F48%5F08%2D06%2D2016%5F   pic.twitter.com/STnwn4Mcd9": {
-			"cluster": 118,
-			"count": 1
-		},
-		". @MEH957 @misterjaded I hear there's a place in Ireland accepting Trump human beings #HumanCrisis": {
-			"cluster": 119,
-			"count": 2
-		},
-		"Ireland announced that if Trump wins the election they'll take in American refugees ... I'm down to go back to the motherland": {
-			"cluster": 120,
-			"count": 1
-		},
-		"Ireland  England Canada and the Netherlands will be accepting American immigrants if trump gets elected. Start planning.": {
-			"cluster": 121,
-			"count": 1
-		}
-	},
-	{
-		"Trump is no role model for Ireland 's refugee policy http://www. independent.ie/opinion/column ists/eoghan-harris/trump-is-no-role-model-for-irelands-refugee-policy-34813672.html  via @Independent_ie": {
-			"cluster": 122,
-			"count": 5
-		},
-		"Trump is no role model for Ireland 's refugee policy:  a better future for Northern Ireland . But awa... http:// bit.ly/1ZZymRa": {
-			"cluster": 123,
-			"count": 4
-		},
-		"#Trump now skips Ireland on trip. Can't compete with #Biden  or tries to hide #GlobalWarming take #IndependentVoters pic.twitter.com/qUSQdSDSP3": {
-			"cluster": 124,
-			"count": 1
-		},
-		"@Morning_Joe @JoeNBC @morningmika More interesting than who Trump might pick as VP is the question what sane person would accept it?!": {
-			"cluster": 125,
-			"count": 1
-		},
-		"Must watch...... Video: President Obama Takes on Donald Trump During Speech on ISIS http:// abcnews.go.com/Politics/video /president-obama-takes-donald-trump-speech-isis-39849704?cid=share_twitter_widget ": {
-			"cluster": 126,
-			"count": 1
-		},
-		"Trump 's not coming to Ireland  I was looking forward to the political lot bending over and taking it up the poo pipe...": {
-			"cluster": 127,
-			"count": 1
-		},
-		"Michael Moore has called on Irish people to  take the p**s out of Donald Trump when he visits Ireland later this... http:// fb.me/2GHraTZEL": {
-			"cluster": 128,
-			"count": 1
-		},
-		"@JonathanRKnight donald trump is coming here to Ireland in a week or two. Taking bids to lock him in a room and throw away the key lol #joke": {
-			"cluster": 129,
-			"count": 1
-		},
-		"@Lawrence @realDonaldTrump Irish were known terrorists at the time. Can't take chance -Scotland near Ireland . Deport trump .": {
-			"cluster": 130,
-			"count": 1
-		}
-	},
-	{
-		"hmmm. Maybe we future Pres Trump refugees should consider Ireland .": {
-			"cluster": 131,
-			"count": 1
-		},
-		"Between this and Trump  Ireland may has its own unique refugee crisis 'cos so many have rights to granny citizenship https:// twitter.com/sambrook/statu s/746762134831370241 ": {
-			"cluster": 132,
-			"count": 1
-		},
-		"Biden to take on Trump in Ireland http:// thehill.com/homenews/admin istration/284761-biden-to-take-on-trump-in-ireland ": {
-			"cluster": 133,
-			"count": 11
-		},
-		"@realDonaldTrump Trump said UK took its country back. Yup Scotland Northern Ireland  may take back their countries from the UK.": {
-			"cluster": 134,
-			"count": 1
-		},
-		"Donald Trump bad mouthing Pres Obama over n Ireland . Media blows it off but admits it would not b accepted if it were done to any other Pres": {
-			"cluster": 135,
-			"count": 1
-		},
-		"Hmm take back my country 'this England' -And when Scotland & Ireland leave? Trump / @CNN -Don't explain consequences https:// twitter.com/politico/statu s/746420162752983042 ": {
-			"cluster": 136,
-			"count": 1
-		},
-		"Trump arrives in Scotland on the day of #EUref result...UK out of EU Scotland & Ireland want out of UK take note USA!! #666": {
-			"cluster": 137,
-			"count": 1
-		},
-		"Now when the Mob takes over the Bahamas and Trump becomes president all I have is Britain Whales Ireland and Scotland... Fuck the UK": {
-			"cluster": 138,
-			"count": 1
-		},
-		"Biden to take on Trump in Ireland : The VP will slam demagogues in politics who blame immigrants for problems. http:// bit.ly/294cEID": {
-			"cluster": 139,
-			"count": 2
-		},
-		"With #Farage & #B .Johnson to take charge in UK & #Trump in America surely it's not outlandish that #Ireland could win #EURO2016 #Brexit": {
-			"cluster": 140,
-			"count": 1
-		},
-		"Lol Trump says UK votes to take its country back except Scotland and Northern Ireland now want to leave.": {
-			"cluster": 141,
-			"count": 1
-		},
-		"Waiting 4 Trump to take credit for UK leaving EU now 2 make Ireland France Belgium & Netherlands build a giant wall! #UKreferendum #UKref": {
-			"cluster": 142,
-			"count": 1
-		},
-		"So I'm awake in Ireland with news the UK voted leave. Look out Merica the forces of Trump are global elites take note.": {
-			"cluster": 143,
-			"count": 1
-		},
-		"Frantz Fanon would so be diggin' on this: UK gonna ' take their country back' N Ireland Sinn Fein bugout & Scots flying Mexican flag @Trump": {
-			"cluster": 144,
-			"count": 1
-		},
-		"If Scotland & Ireland leave to the EU an American referendum's in order. Let US states secede & take Trump w/ 'em. #theCentreWillNotHold": {
-			"cluster": 145,
-			"count": 1
-		},
-		"@VP Visits Ireland  Takes Shots at Donald Trump . #BestVPever #JoeBiden http://www. irishcentral.com/roots/ancestry /Joe-Biden-on-the-personal-nature-of-his-visit-to-his-ancestral-home.html  : http://www. irishcentral.com/roots/ancestry /Joe-Biden-on-the-personal-nature-of-his-visit-to-his-ancestral-home.html ": {
-			"cluster": 146,
-			"count": 1
-		},
-		"You will be welcome in Ireland along with the Trump refugees from the States !": {
-			"cluster": 147,
-			"count": 1
-		},
-		"#Trump takes opposing stances on climate change depending on if he's in the US or Ireland . http:// ow.ly/d1vJ30191vE": {
-			"cluster": 148,
-			"count": 1
-		},
-		"- and what do you want by ' take control'. Sounds a little Trump -esque. Ireland would be hit badly if Britain left": {
-			"cluster": 149,
-			"count": 1
-		},
-		"Joe Biden takes his anti-Donald Trump crusade to Ireland next week | Daily Mail Online http://www. dailymail.co.uk/news/article-3 651297/Biden-tees-anti-Trump-moment-plans-Ireland-speech-just-Republican-Donald-Trump-visits-Scottish-golf-course.html ": {
-			"cluster": 150,
-			"count": 9
-		},
-		"Vi. P. Biden takes his anti- Trump crusade to Ireland next week http:// dailym.ai/28JCIY7 What part of illegal is Biden not understanding?": {
-			"cluster": 151,
-			"count": 2
-		},
-		"Vice President Joe Biden takes anti-Donald Trump crusade to Ireland as The Don flies to his resort in Scotland http:// dailym.ai/28JCIY7": {
-			"cluster": 152,
-			"count": 2
-		},
-		"#maddow I'll take Trump cancels Ireland trip for the daily double Alex?": {
-			"cluster": 153,
-			"count": 1
-		},
-		"Ireland doesn't want refugees yet they recently criticized Trump for wanting ban them! http:// ln.is/www.irishcentr al.com/jNV1x ": {
-			"cluster": 154,
-			"count": 1
-		}
-	},
-	{
-		"Suddenly Ireland is the place to be  if youre a Trump or Brexit refugee http:// fw.to/aT5pJw": {
-			"cluster": 155,
-			"count": 17
-		},
-		"Trump takes time-out from trail to visit golf courses in Scotland Ireland #golftraining #golf http:// soco.space/KbzlDr": {
-			"cluster": 108,
-			"count": 1
-		},
-		"Funny how Trump was in Scotland when he praised the UK for taking back their country while Scotland and Northern Ireland voted to remain": {
-			"cluster": 156,
-			"count": 1
-		},
-		"I felt kinda dumb for a couple days for taking a postgrad job in Ireland . Then Brexit + Trump happened and now I'm feeling v comfortable": {
-			"cluster": 157,
-			"count": 1
-		}
-	},
-	{
-		"@Trump _World we need to take Ireland back from the dinosaurs in Europe bleeding us dry. Help by a teacher that's leading us. God help us": {
-			"cluster": 158,
-			"count": 1
-		},
-		"Ireland is offering refugee status of trump gets elected so that's always an option": {
-			"cluster": 159,
-			"count": 1
-		},
-		"same sections that might elect Trump as our president. Idiocracy in full effect. Is Ireland accepting young professionals?": {
-			"cluster": 160,
-			"count": 1
-		},
-		"omfg. Ireland would take Trump haters over Hillary haters ?!?!?!?! my sadness has now turned livid. STOP THE NEO-BOLSHEVIKS EVERYWHERE !!!!": {
-			"cluster": 161,
-			"count": 1
-		},
-		"will they take Killary refugees ? RT @Ognir2 : Trump to make Ireland - well Inishturk - great again http:// theinfounderground.com/smf/index.php? topic=21607 ": {
-			"cluster": 162,
-			"count": 1
-		},
-		"If Trump takes power in Amerikkka we're expatriating to Ireland or Scotland. Seriously. We're working on passports now.": {
-			"cluster": 163,
-			"count": 1
-		},
-		"@Ireland Fellow Imgurian here was in Ireland last year. Fell in #Love with #Galway . I might be a refugee there if we elect Trump or Hillary": {
-			"cluster": 164,
-			"count": 1
-		},
-		"Happy Fourth of July!! Take a look at the Trump International Golf Links in Doonbeg Ireland http://www. executivetoursireland.com/trump-internat ional-golf-links-doonbeg-private-golf-tours-of-ireland/ ": {
-			"cluster": 165,
-			"count": 1
-		},
-		"Discover the little Irish ireland opening its doors to Trump refugees in @dfreid 's short doc http:// bit.ly/29orYDR pic.twitter.com/j6aN7JXZOT": {
-			"cluster": 166,
-			"count": 1
-		}
-	},
-	{
-		"Watching the docudrama After Braveheart 14th Century Ireland - Othering of the Irish by the English. Like Trump 's take on Muslims.": {
-			"cluster": 167,
-			"count": 1
-		},
-		"This week:Richard Ford takes on #Trump ;a newnuanced history of modern Ireland ;the ups & downs of historical fiction https:// twitter.com/thetls/status/ 753510721472921600 ": {
-			"cluster": 168,
-			"count": 1
-		},
-		"Shameless Hillary haven't you heard Trump stopped 18 times to take questions in Ireland in one day? You? 222 days&counting": {
-			"cluster": 169,
-			"count": 1
-		},
-		"#Trump President: Guess I'm moving to Ireland Refugee status. #Clinton President:Guess I'm moving to Ireland Refugee status. #BernieOrJill": {
-			"cluster": 170,
-			"count": 1
-		},
-		"@realDonaldTrump mr trump chances are youll never see this im fro ireland and i pray you take up the position of Great Leader help IRELAND": {
-			"cluster": 171,
-			"count": 1
-		}
-	},
-	{
-		"romanticized cute. i've a better idea! Ireland  take yr descendants who vote trump . plenty of Irish-Am racists here. http://www. theatlantic.com/video/index/49 1813/the-tiny-irish-island-that-will-welcome-american-refugees/ ": {
-			"cluster": 172,
-			"count": 1
-		},
-		"'As for Micah he has a backup plan should Trump be elected: Were going to move to Ireland  he says.' A refugee crisis in Ireland ?": {
-			"cluster": 173,
-			"count": 1
-		},
-		". @matteorenzi I heard you're taking in migrants. Is it true? If Trump wins I just want a few options in case #Canada and #Ireland say no.": {
-			"cluster": 174,
-			"count": 1
-		},
-		"The Tiny Irish Island That Will Welcome American Refugees #IrishIsland #Trump #Americanexodus #Inishturk #Ireland http://www. theatlantic.com/video/index/49 1813/the-tiny-irish-island-that-will-welcome-american-refugees/ ": {
-			"cluster": 175,
-			"count": 1
-		},
-		"Ireland Is Now Officially Accepting Trump Refugees From America http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 82,
-			"count": 2
-		},
-		"A little coffee shop in Ireland  take note. #Trump pic.twitter.com/d9Ew51y18e": {
-			"cluster": 176,
-			"count": 1
-		},
-		"Ireland starting accepting American Donald Trump refugees in May. https:// twitter.com/dorothysnarker /status/755873594815619072 ": {
-			"cluster": 177,
-			"count": 1
-		},
-		"I hear a village in Ireland is opening their arms to American refugees from a Trump Presidency. You should def look into that.": {
-			"cluster": 178,
-			"count": 1
-		},
-		"Sharp intake of breath there as the guy from Muslims for Trump takes the stage. Can feel the temperature dropping all the way in Ireland .": {
-			"cluster": 179,
-			"count": 1
-		},
-		"Inishturk the tiny Irish island that would welcome Trump refugees - https:// vimeo.com/172273624 @inishturkisland #Ireland": {
-			"cluster": 180,
-			"count": 1
-		},
-		"As Trump accepts the GOP nomination the Irish prepare to take the coffin ships back to Ireland . #RNCinCLE": {
-			"cluster": 181,
-			"count": 1
-		},
-		"Love this doc by MEL Films on tiny Inishturk Ireland  where American refugees fleeing Donald Trump are welcome http://www. theatlantic.com/video/index/49 1813/the-tiny-irish-island-that-will-welcome-american-refugees/ ": {
-			"cluster": 182,
-			"count": 1
-		}
-	},
-	{
-		"Someone ask Trump if he's okay with Great Britain taking over Northern Ireland .": {
-			"cluster": 183,
-			"count": 1
-		},
-		". @ChristinaMBeck Ireland Is Now Officially Accepting Trump humans From America #HumanCrisis": {
-			"cluster": 82,
-			"count": 42
-		},
-		"You can't let that egomaniac Trump take The Whitehouse. Ireland right behind you Bill & Hillary. C you in July August 2018.": {
-			"cluster": 184,
-			"count": 1
-		},
-		"Guys just remember if trump is elected Ireland will take us in": {
-			"cluster": 185,
-			"count": 1
-		},
-		"Watch Make Inishturk Great Again on @Vimeo https:// vimeo.com/172273624 for trump refugees to Ireland": {
-			"cluster": 186,
-			"count": 1
-		},
-		"Well be prepared for Americans. Ireland has stated if Trump becomes president they're opening an island for refugees .": {
-			"cluster": 187,
-			"count": 1
-		},
-		"Incase any1 is wondering what Ireland thinks of #Trump take a look at the new men's urinals in the Adelphi Dublin pic.twitter.com/9srIBZtrWI": {
-			"cluster": 188,
-			"count": 1
-		},
-		"In May 2016- Ireland Officially began Accepting Trump Refugees From America & they've already started redecorating! pic.twitter.com/HbEnGFslhw": {
-			"cluster": 189,
-			"count": 1
-		},
-		"Ireland Is Now Officially Accepting Trump Refugees From America ...can't hurt to have info on how to go visit http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 82,
-			"count": 14
-		},
-		"i just read an article about an island in Ireland that announced it will accept Trump refugees !": {
-			"cluster": 190,
-			"count": 1
-		},
-		"Ireland is accepting trump refugees  we can head out there.": {
-			"cluster": 191,
-			"count": 1
-		},
-		"With Trump we Russians can take back Baltic countries rebuild USSR and end Ireland 's Eurovision dynasty.": {
-			"cluster": 192,
-			"count": 1
-		},
-		"I just uploaded (NEW TAKE 3) MICHAEL FLATLEY Trump International Golf Links and Hotel Doonbeg Ireland  to @Vimeo : https:// vimeo.com/176577918": {
-			"cluster": 193,
-			"count": 2
-		},
-		"@RepubDirtyTrick - If you do move; please take me and my dog with you!! #Fyilive - Ireland is now prepping for refugees due to Herr Trump": {
-			"cluster": 194,
-			"count": 1
-		},
-		"Ireland is accepting refugees if trump wins. So looks like I'll be leaving to Ireland ": {
-			"cluster": 92,
-			"count": 1
-		},
-		"In Ireland  some1 asked me Why is Trump popular? I said He's a joke! No1 takes him seriously. Watched primaries #AndThatsWhenIStartedCrying": {
-			"cluster": 195,
-			"count": 1
-		},
-		"Inishturk Ireland offers a haven if Donald Trump wins - The Tiny Irish Island That Will Welcome American Refugees  http://www. theatlantic.com/video/index/49 1813/the-tiny-irish-island-that-will-welcome-american-refugees/ ": {
-			"cluster": 175,
-			"count": 1
-		},
-		"Trump and Clinton have very different takes on US firms relocating to Ireland - http:// ift.tt/2aoJmJe": {
-			"cluster": 196,
-			"count": 1
-		},
-		"New poll has Trump ahead of Clinton by a decent gap. Scary thought. After voting I might take Ireland up on their offer of a new home.": {
-			"cluster": 197,
-			"count": 1
-		}
-	},
-	{
-		"If Donald Trump 's son runs for mayor of NYC I'll be moving to Ireland . *@andymientus sings take me home to Ireland *": {
-			"cluster": 198,
-			"count": 1
-		},
-		"even if Ireland needs reforms doesn't mean we can't take a model & learn from it. Im not a fool or trump supporter": {
-			"cluster": 199,
-			"count": 1
-		},
-		"Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/2iKttOhvA": {
-			"cluster": 82,
-			"count": 10
-		},
-		"Lmao its lololololo TRUMP GO VACATION TAKE CARE GOLF COURSE IN IRELAND IF THEY CARE TO HAVE U THERE LOLOLOLOLOL https:// twitter.com/BlackCatUnload s/status/761409611341688832 ": {
-			"cluster": 200,
-			"count": 1
-		},
-		"Irish pub invites restroom patrons to take aim at Trump #aim https:// dragplus.com/post/id/372131 56 ": {
-			"cluster": 201,
-			"count": 2
-		},
-		"#ElectionDayIn5Words Still accepting Trump refugees  Ireland ?": {
-			"cluster": 202,
-			"count": 1
-		},
-		"Ireland takes aim at Donald Trump as his face appears on an Irish pubs urinal http:// irishpost.co.uk/ireland-takes- aim-donald-trump-face-appears-irish-pubs-urinal/ ": {
-			"cluster": 203,
-			"count": 2
-		},
-		"A #DonaldTrump urinal has #Dublin lining up to take aim https://www. rt.com/viral/354045-t rump-urinal-dublin-viral/#.V5_zrU5HYt8.twitter  #DumpTrump #NeverTrump #ImWithHer #Trump #Ireland": {
-			"cluster": 204,
-			"count": 1
-		},
-		"This small Irish town wants to welcome US citizens if Trump becomes president ( Trump refugees ) http://www. irishcentral.com/culture/travel /Make-Inishturk-Great-Again--Irish-island-reacts-to-huge-interest-from-Trump-refugees.html  #Ireland #Trump": {
-			"cluster": 205,
-			"count": 1
-		},
-		"Dublin pub takes the piss out of Donald Trump  literally - Mashable http:// dlvr.it/Lx0cpf": {
-			"cluster": 206,
-			"count": 10
-		}
-	},
-	{
-		"Trump said he's going to take a long vacation after he losing election probably Ireland to be with his $": {
-			"cluster": 207,
-			"count": 1
-		},
-		"Sadlyonly when Ireland is terror target will voters accept #TaxesForTanksNotBanks . Trump would deffo pull Nato $ plug": {
-			"cluster": 208,
-			"count": 1
-		},
-		"When Ireland is taking about Trump  you know things are ugly. #donaldordictator": {
-			"cluster": 209,
-			"count": 1
-		},
-		"POTUS SCOTUS US Senate US House Clinton and Trump could take their cue from Ireland ... http:// fb.me/7SzsK2VVD": {
-			"cluster": 210,
-			"count": 1
-		},
-		"Donald Trump singing to american tourist's in Ireland https:// youtu.be/TKVwst1RGHw via @YouTube Take a min. to listen it is GOOD~!": {
-			"cluster": 211,
-			"count": 1
-		}
-	},
-	{
-		"Curious about what Donald Trump 's plans with US corporate taxes could mean for Ireland ? We take a look http:// bit.ly/2bCD5XC": {
-			"cluster": 212,
-			"count": 1
-		},
-		"Dear Mr. Trump ! I was contacted by the person from Ireland who is originally from Donbass.He asked me if you would accept ..": {
-			"cluster": 213,
-			"count": 1
-		},
-		"Even Ireland wants to DUMP TRUMP - so what's taking so long 4 the @GOP 2 come to the same conclusion? Delusion ?! https:// twitter.com/asdevaul/statu s/764944524367933441 ": {
-			"cluster": 214,
-			"count": 1
-		},
-		"Can I apply for refugee status if the madman Trump is elected? I'm 38% Irish. Help!": {
-			"cluster": 215,
-			"count": 1
-		},
-		"Ireland is taking lots of business from US MANY american companies moving there I'm surehe's worried that will end w trump": {
-			"cluster": 216,
-			"count": 1
-		}
-	},
-	{
-		"For sure Canada & Ireland don't want them. They will accept us tho if Trump wins!": {
-			"cluster": 217,
-			"count": 1
-		},
-		"@bigtwinnygav quality movie better she learns now as soon as Trump takes over it will be real": {
-			"cluster": 218,
-			"count": 1
-		},
-		"We are seeing an explosion of Capitalist World Economic Growth now taking place in Ireland  England and will in the future Trump Presidency": {
-			"cluster": 219,
-			"count": 1
-		},
-		"oh God. Ireland us far too close to the US if Trump takes power!!": {
-			"cluster": 220,
-			"count": 1
-		},
-		"God Bless you as well lovely lady; pray for Trump & like minded ppl to Take Back Our Country pic.twitter.com/OfwPmgO8N2": {
-			"cluster": 221,
-			"count": 1
-		},
-		"If trump becomes president I'm moving to Dublin Ireland to train at @SBGCHARLESTOWN is that okay with ya'll?Do you guys accept immigrants?": {
-			"cluster": 222,
-			"count": 1
-		}
-	},
-	{
-		"If the ACC can convince Ireland to take GT vs BC off our hands then maybe Trump really can convince Mexico to pay for his wall": {
-			"cluster": 223,
-			"count": 1
-		},
-		"@masg66 Don't just say it someone please take the step deport Trump & family back to Ireland Scotland where ever maybe Africa": {
-			"cluster": 224,
-			"count": 1
-		},
-		"REVEALED: Foreign #FED Member Behind #Refugee Push https:// youtu.be/yUuh1iQo-yU via @YouTube #US #EU #CoudenhoveKalergi #Orban #AFD #Trump #LePen": {
-			"cluster": 225,
-			"count": 1
-		},
-		"Take the money while you can! #Ireland ppl deserve it. Apple will be returning to US anyway when Trump 's reforms manifestate.": {
-			"cluster": 226,
-			"count": 1
-		},
-		"I would love to hear Donald Trump 's take on Apple owing back taxes to Ireland  his beacon of hope in a sea of high taxes.": {
-			"cluster": 227,
-			"count": 1
-		}
-	},
-	{
-		"Conflicting Takes  Here and Abroad on Clinton's Role in Northern Ireland Accord http:// linkr.es/2nmGZ #Hillary #Trump": {
-			"cluster": 228,
-			"count": 1
-		},
-		"@DebraMessing From here in Ireland it's amazing to see how much crap many Americans will accept from Trump https:// twitter.com/talkopan/statu s/774797765633200128 ": {
-			"cluster": 229,
-			"count": 1
-		},
-		"Postscript: If Trump wins I am taking my brain back to Ireland from where my ancestors came in the 1700s.": {
-			"cluster": 230,
-			"count": 1
-		},
-		"There's a Father Ted-ish isle off the coast of Ireland that's willing to take all of us in the event Trump wins.": {
-			"cluster": 231,
-			"count": 1
-		},
-		"If you go to Ireland  I beg of you PLEASE take Trump with you.": {
-			"cluster": 232,
-			"count": 1
-		},
-		"We have to move if he wi no joke.. Ireland is accepting Trump refugees . . https:// twitter.com/Nupe117/status /773371817062961152 ": {
-			"cluster": 233,
-			"count": 1
-		},
-		"Abortion pushers in Ireland despise Trump because he's wealthy but take money and direction from Soros and Murdoch. How does that work?": {
-			"cluster": 234,
-			"count": 1
-		}
-	},
-	{
-		"Come on Mayo. Take advantage of 2016's freaky voodoo. If Trump can be president you can win an All Ireland . #DUBvMAYO": {
-			"cluster": 235,
-			"count": 1
-		},
-		"@lynnsweet Your take on Trump 's birther issue as being racist is garbage! If Obama's origin perhaps was Ireland you wouldnt say a thing!": {
-			"cluster": 236,
-			"count": 1
-		},
-		"Take 30 seconds of your time to help this cause still a lot of sign-ups needed. #trump #ireland #surfing https:// twitter.com/eanilsen/statu s/776750581155262464 ": {
-			"cluster": 237,
-			"count": 1
-		},
-		"@HillaryClinton Trump : 10% repatriation tax. Not a bad idea. Do it fast before Ireland takes a big chuck of it.": {
-			"cluster": 238,
-			"count": 1
-		},
-		"If Donald Trump becomes President of USA the Republic of Ireland has agreed to take in Muslim refugees from America.": {
-			"cluster": 239,
-			"count": 1
-		}
-	},
-	{
-		"STOP Trump for what? When are ppl going to start taking responsibility for their own actions.": {
-			"cluster": 240,
-			"count": 1
-		},
-		"U2 BONO should go to his home Ireland n beg his govt to take millions of moslums moran. Latinos for Trump": {
-			"cluster": 241,
-			"count": 1
-		},
-		"Here at TrumpU we demand you take this down - Bono says he dislikes #Trump therefore he must be sent back to Ireland !": {
-			"cluster": 242,
-			"count": 1
-		},
-		"Bono Says Donald Trump Is Trying to Hijack the Idea of America http:// TAKE YOUR GLOBAL WARMING AND GO BACK TO IRELAND  WE DON'T NEED YOU!!": {
-			"cluster": 243,
-			"count": 1
-		},
-		"Im suprised Sean the refugee basher/barrister hasn't began building a Trump style wall around Ireland .This mans from the stone age #liveline": {
-			"cluster": 244,
-			"count": 1
-		},
-		"People are loving Skittles' response to Donald Trump Jr.'s refugee tweet http:// mashable.com/2016/09/20/ski ttles-donald-trump-jr-refugees-/#6RAASwSsa05c  via @mashable": {
-			"cluster": 245,
-			"count": 1
-		},
-		". @michaelgrais Ireland Is Now Officially Accepting Trump humans From America #HumanCrisis": {
-			"cluster": 82,
-			"count": 1
-		},
-		"@U2 you make Ireland proud. God's country. Thanks for taking a stand against Donald Trump": {
-			"cluster": 246,
-			"count": 1
-		}
-	},
-	{
-		"@PhilipdClarke TRUMP IS Panicking. What'A your take there in Ireland ?": {
-			"cluster": 247,
-			"count": 1
-		},
-		"Alec Baldwin As Trump won't take any acting on Alec's part. But Trump treats Ivanka w/ dignity. Baldwin treats daughter Ireland #NotSoMuch ..": {
-			"cluster": 248,
-			"count": 1
-		},
-		"#LwC Note their is a island in Ireland that is taking Democrats if Trump gets elected. Regressives can have a home! Hope is out there!": {
-			"cluster": 249,
-			"count": 1
-		},
-		"Are you going to go see the island Ireland 's pirate queen came from? Apparently they're taking US asylum seekers from Trump .": {
-			"cluster": 250,
-			"count": 1
-		},
-		"Trump draws worlds attention to Moriarty tribunal and siteserve Another proud day for Ireland Take a bow @FineGael http://www. irishtimes.com/news/world/us/ trump-attacks-clinton-over-denis-o-brien-links-1.2809481#.V-xRb-NDPPE.twitter ": {
-			"cluster": 251,
-			"count": 1
-		},
-		"@GovGaryJohnson @HardballChris Your comment just helped Trump take a big leap twds Presidency. You should be ASHAMED. This is not a game.": {
-			"cluster": 252,
-			"count": 1
-		},
-		"Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/5ldAZsVqu": {
-			"cluster": 82,
-			"count": 1
-		},
-		"Remember America Ireland is the same size as your state of Ohio. We cant take everyone if Donald Trump wins.": {
-			"cluster": 253,
-			"count": 1
-		},
-		"Fact check: Trump 's Corporate Tax rate takes rate from highest in the world to 15% competitive with Ireland . Plus US co.s pay State tax 2": {
-			"cluster": 254,
-			"count": 1
-		},
-		"Conflicting Takes  Here and Abroad on Clinton's Role in Northern Ireland Accord http:// linkr.es/7CBuo #Hillary #Trump": {
-			"cluster": 228,
-			"count": 1
-		},
-		"WATCH: U2 ends the iHeartRadio Music Festival by bashing Donald Trump http:// disq.us/t/2djyupc Bono; Take your happy ass back to IRELAND !!": {
-			"cluster": 255,
-			"count": 1
-		}
-	},
-	{
-		"If you decide to go back to ol Ireland iffin Trump becomes Prez please take me with you.": {
-			"cluster": 232,
-			"count": 1
-		},
-		"Does #Trump realize he'd b pouring ale @pub n Ireland rt now if his #refugee ancestors wer ban 2 enter USA? #StrongerTogether #Debates": {
-			"cluster": 256,
-			"count": 1
-		},
-		"I have an idea go back to Ireland  take trump with you and build a wall there and live among only blond ppl!": {
-			"cluster": 257,
-			"count": 1
-		},
-		"USA created by White people from EuropeEngland Ireland etc+we're taking her back; that+ Trump scares you @jerryspringer #insaneHillary": {
-			"cluster": 258,
-			"count": 1
-		},
-		"Trump 's already building a wall. In Ireland . Environmentalists and surfers are taking him on. http:// magicseaweed.com/news/donald-tr umps-wall-in-ireland-will-unquestionably-ruin-surf-spot/9535/ ": {
-			"cluster": 259,
-			"count": 1
-		},
-		"Why is #Clinton obsessed with refugees from the Middle East when there are plenty of refugees in Latin America? #FARC #Venezuela #Trump": {
-			"cluster": 260,
-			"count": 1
-		}
-	},
-	{
-		"Ireland Is Now Officially Accepting Trump Refugees From America  Winning Democrats http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 82,
-			"count": 1
-		},
-		"http:// ie.beduac.de Trump : US election is rigged and Hillary Clinton should take drug test - Irish Independent #news #Ireland": {
-			"cluster": 261,
-			"count": 1
-		},
-		"trump is right...come to Ireland and yell see a globalist sell out corrupt refugee full country...Corp media r foolin all": {
-			"cluster": 262,
-			"count": 1
-		},
-		"tbh my dog is from ireland . if trump really is trying deport all the immigrants i sweater god i'll throw hands before they take my puppo.": {
-			"cluster": 263,
-			"count": 1
-		},
-		"@PTcoldfire Google how Trump tried to used Eminent Domain to Take Ireland Citizens Land.Judge Ruled against him": {
-			"cluster": 264,
-			"count": 1
-		},
-		"#bbcqt How do we  take control of the only land border we have - with the Republic of Ireland ? Build a Trump style wall?": {
-			"cluster": 265,
-			"count": 1
-		},
-		"who cares? trump said lewd things. btw don't we invite millions of them here? why doesn't ireland take in 500000?": {
-			"cluster": 266,
-			"count": 1
-		},
-		"Let's take it a step further...Apple took their parent company to Ireland for tax shield reasons but Trump has kept his here in the USA. https:// twitter.com/nationdivided/ status/786029985328869377 ": {
-			"cluster": 267,
-			"count": 1
-		}
-	},
-	{
-		": US election: Trump takes aim at First Lady Michelle Obama http:// bbc.in/2eCbYeU  #1 in #Ireland http://www. toprt.com/TopRT_IE/?t=78 9609485853655040 ": {
-			"cluster": 268,
-			"count": 1
-		},
-		"Markets up as Hillary Clinton takes big lead over Donald Trump http:// bit.ly/2dUkm9x #Irishbiz #Ireland": {
-			"cluster": 269,
-			"count": 1
-		},
-		"http:// ie.beduac.de Donald Trump 's 'rigged' claim takes US election into dangerous waters - Irish Times #news #Ireland": {
-			"cluster": 270,
-			"count": 1
-		},
-		": US presidential hopeful Donald Trump says he will accept the results of the #1 in #Ireland http://www. toprt.com/TopRT_IE/?t=78 9146047905955840 ": {
-			"cluster": 271,
-			"count": 1
-		},
-		"so uh...how easy would it be to move to Ireland as a political refugee in the event Trump wins (asking for a friend/me)?": {
-			"cluster": 272,
-			"count": 1
-		},
-		"In fairness the astonishment saying that Trump won't accept result when we vote in Ireland and give a NO we get told to vote again. #debate": {
-			"cluster": 273,
-			"count": 1
-		},
-		"If Trump got presidency Ireland  will you accept an American refugee ? I'm a Conley if it counts. #debatenight": {
-			"cluster": 274,
-			"count": 1
-		},
-		"doesnt Trump comprehend that austerity DOESNT work.. take a look at Greece Spain Ireland all places that tried it & economy perished": {
-			"cluster": 275,
-			"count": 1
-		},
-		"He can take @mitchellreports w him.. to a #Trump golf course in Ireland ... Far far away. https:// twitter.com/damnpatriot/st atus/788894412877074434 ": {
-			"cluster": 276,
-			"count": 1
-		},
-		"Even #Obama is taking time off Campaigning against #Trump & for #Clinton to back us! Learn English in UK or Ireland . http://www. Lingoo.ninja pic.twitter.com/C1BpreUaU0": {
-			"cluster": 277,
-			"count": 1
-		}
-	},
-	{
-		"Hillary slandered Lewinsky. Trump takes it to court": {
-			"cluster": 278,
-			"count": 1
-		},
-		"Take rugby add NZ All Blacks Ireland  Chicago and Donald Trump and you have a brouhaha. Me for Breitbart Sports http://www. breitbart.com/sports/2016/10 /27/rugby-brawl-ireland-team-urged-to-dump-stay-at-trump-tower-ahead-of-chicago-match/ ": {
-			"cluster": 279,
-			"count": 1
-		},
-		"In today's AP test Trump wins the presidency but Dems take the senate. So the  Ireland wins but Krum catches the snitch scenario": {
-			"cluster": 280,
-			"count": 1
-		}
-	},
-	{
-		"A tiny island off the coast of Ireland called Inishturk will be happy to take you in if Trump wins on Tuesday: http:// buff.ly/2fu7I3j": {
-			"cluster": 281,
-			"count": 1
-		},
-		"Here is my plan.. If Trump wins and becomes president I will take my family even my parents and defect to Ireland . I am very serious.": {
-			"cluster": 282,
-			"count": 1
-		},
-		"Ireland has put out a statement that they will happily take fleeing Americans repulsed by TRUMP . Luckily it don't come to that.": {
-			"cluster": 283,
-			"count": 1
-		},
-		"People are loving the Dublin Cookie Co's blackboard taking the piss out of Donald Trump : The only http:// dlvr.it/MbnSnV #Dublin #Ireland pic.twitter.com/eMbKAvFPMd": {
-			"cluster": 284,
-			"count": 1
-		},
-		"The View from Ireland : Will Trump fans accept the result if he loses? (Guest Voice) - http:// themoderatevoice.com/the-view-from- ireland/  pic.twitter.com/eM8iVDnKfK": {
-			"cluster": 285,
-			"count": 1
-		},
-		"@Newshub_ Ireland Trump will take Pennsylvania momentum is on his side. The undecideds are making up their minds!": {
-			"cluster": 286,
-			"count": 1
-		},
-		"Gov Granholm you are a stellar surrogate for HRC! It takes a village to handle the truckloads of lies coming from Trump et al.": {
-			"cluster": 287,
-			"count": 1
-		},
-		"Will Ireland take a hit with a Trump Presidency? http://www. irishtimes.com/business/econo my/bruton-warns-trump-presidency-would-be-bad-for-global-trade-1.2852348#.WBsWpM4Mdeo.twitter  via @IrishTimesBiz": {
-			"cluster": 288,
-			"count": 1
-		},
-		"If Trump wins I can only hope to god that Ireland will take me and my family back.": {
-			"cluster": 289,
-			"count": 1
-		},
-		"Mosul refugees  Clinton/ Trump  Calais Jungle Ireland  obviously not news. However a 1964 dog story is?": {
-			"cluster": 290,
-			"count": 1
-		},
-		"Is #Ireland prepared for the #American #Refugees #Trump win? time to consider extending his wall in Clare the whole length of the west coast": {
-			"cluster": 291,
-			"count": 1
-		},
-		"We gotta make Ireland great again. Pleasure to meet you last night Mr. Trump ( @Clisare ) No walls were built in the taking of this pic pic.twitter.com/eZOrLBQ0HG": {
-			"cluster": 292,
-			"count": 1
-		}
-	},
-	{
-		"Ireland is accepting Trump refugees  but abortion is not legal there so why would ppl go there to run away from republican administration?": {
-			"cluster": 293,
-			"count": 1
-		},
-		"Ireland Is Now Officially Accepting Trump Refugees From America http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 82,
-			"count": 200
-		},
-		"@Doemela Merkel tells ? Trump she'll gladly take themvia Ireland UK FranceHollandBelgiumDenmarkbut must be Muslims?": {
-			"cluster": 294,
-			"count": 1
-		},
-		"@DrunkRemnick So I take it you were not totally in favor of a Donald Trump presidency...you can always move to Cape Breton or Ireland !": {
-			"cluster": 295,
-			"count": 1
-		},
-		"IRELAND IS NOW OFFICIALLY ACCEPTING TRUMP REFUGEES FROM AMERICA! http:// fb.me/8ivxMCwQf": {
-			"cluster": 90,
-			"count": 11
-		},
-		"They're calling him the 'pride of Ireland ' Jesus lads I'd take trump over him anyway": {
-			"cluster": 296,
-			"count": 1
-		},
-		" #FactCheck :No #Ireland is NOT 'officially accepting Trump refugees '(via @thejournal_ie ) http:// jrnl.ie/3074777 Well can you start? ;-)": {
-			"cluster": 297,
-			"count": 1
-		},
-		". @andrewrobscott Ireland is now accepting Trump humans from America #HumanCrisis": {
-			"cluster": 83,
-			"count": 9
-		},
-		"Ireland taking the Trump approach turn things so ugly that the other side loses their enthusiasm.": {
-			"cluster": 298,
-			"count": 1
-		},
-		"Take heart: Trump has failed for a couple of years now to build a 3km wall in Ireland : http://www. irishtimes.com/news/ireland/i rish-news/new-campaign-against-trump-s-plans-for-doonbeg-wall-1.2795344#.WCcmUffAzv4.twitter  via @IrishTimes": {
-			"cluster": 299,
-			"count": 1
-		},
-		"Read that Ireland is taking in  Trump Refugees . Well.....t m'am anois. Sln go fill cl tna fionn!": {
-			"cluster": 300,
-			"count": 1
-		},
-		"Jen: Ireland is accepting Trump refugees . Wanna move to Ireland ? Me: OF COURSE I DO. DOMHNALL GLEESON IS THERE! #savemefuturehusband pic.twitter.com/rqUPw3C7nU": {
-			"cluster": 301,
-			"count": 1
-		},
-		"FactCheck: No Ireland is NOT officially accepting Trump refugees  http:// fb.me/8cf54LAvP": {
-			"cluster": 83,
-			"count": 27
-		},
-		"#Ireland We had to accept #FF #FG #LAB Why cant they accept #TRUMP ...": {
-			"cluster": 302,
-			"count": 1
-		},
-		"No Ireland is NOT officially accepting Trump refugees from America. This gets our first ever verdict of NONSENSE http:// jrnl.ie/3074777f pic.twitter.com/vWcpNDytc5": {
-			"cluster": 303,
-			"count": 5
-		},
-		"Ireland is accepting refugees from America who want asylum from Trump 's presidency. Bye everyone. #Iwantedtogotoirelandanyway": {
-			"cluster": 304,
-			"count": 1
-		},
-		"So Ireland is accepting  Trump -ugees. The irony. Ah well I'm covered by dual citizenship but I'm willing to see how he does first.": {
-			"cluster": 305,
-			"count": 1
-		},
-		"Markets take bets on what Donald Trump will change http:// bit.ly/2fWFGkm #Irishbiz #Ireland": {
-			"cluster": 306,
-			"count": 1
-		},
-		"After Brexit and now Trump it's all wide open in the political world. Ireland and the rest of the world needs to take note of these events": {
-			"cluster": 307,
-			"count": 1
-		},
-		"@Apple Before Trump takes you out of Ireland could you pay your tax please? Cheers": {
-			"cluster": 308,
-			"count": 1
-		},
-		"Listen to Alan Barrett on @morningireland discussing foreign direct investment in Ireland after Trump takes office http:// bit.ly/2fHCSUI": {
-			"cluster": 309,
-			"count": 1
-		},
-		"US friends Ireland is open to taking applications from US refugees fleeing Trump hate crimes ! Apply for asylum #trump": {
-			"cluster": 310,
-			"count": 1
-		},
-		"@cooper_m @lstwrd @JaneyMack66 I wonder how Irish Trump supporters will react if his tax policy takes multinational jobs from ireland": {
-			"cluster": 311,
-			"count": 1
-		},
-		". @dilfquest literally any country besides ireland accepting trump humans???? #HumanCrisis": {
-			"cluster": 312,
-			"count": 2
-		},
-		"just saw ireland was  accepting trump refugees ": {
-			"cluster": 313,
-			"count": 1
-		},
-		"Ireland now accepting Trump refugees  see you there...": {
-			"cluster": 202,
-			"count": 2
-		},
-		"Ireland is accepting Trump refugees . Lol. That house party might not be completely out of the question!": {
-			"cluster": 314,
-			"count": 1
-		},
-		"Ireland is Accepting Trump Results America Immigrants http:// fb.me/4zEqcHYO7": {
-			"cluster": 315,
-			"count": 2
-		},
-		"Is Ireland officially accepting Trump refugees from America? NO - of course it isn't. Verdict: NONSENSE. http:// jrnl.ie/3074777f pic.twitter.com/Ci53jJdbDV": {
-			"cluster": 316,
-			"count": 2
-		},
-		"@AnneCadwallader This daft tweet takes away from the book Lethal Allies. Many here in Ireland support Donald Trump .": {
-			"cluster": 317,
-			"count": 1
-		},
-		"Long before Trump we in Ireland instigated a policy of conscious cruelty to drive away refugees #DirectProvision https:// twitter.com/EXECUTIVESTEVE /status/796647436529860608 ": {
-			"cluster": 318,
-			"count": 1
-		},
-		"#rtept If it takes Trump as long to build his wall as it takes Ireland to sort out the #HomelessCrisis  he'll be 2 years into his 2nd term!": {
-			"cluster": 319,
-			"count": 1
-		},
-		"Hey @Neeerts is Ireland really accepting Trump refugees ?": {
-			"cluster": 99,
-			"count": 2
-		},
-		"Ireland is accepting Trump refugees from America. Lets go babe! @inkedhigh": {
-			"cluster": 320,
-			"count": 2
-		},
-		"Friendly advice: Ireland is accepting Americans fleeing from trump !": {
-			"cluster": 321,
-			"count": 1
-		},
-		"#Ireland Accepting American #Hillaryrefugees that are unhappy with Trump 's win... http:// winningdemocrats.com/ireland-is-now -officially-accepting-trump-refugees-from-america/ ": {
-			"cluster": 322,
-			"count": 1
-		},
-		"If Trump does pull all the American companies out Ireland I hope he takes that Budweiser piss too.Even the rats won't drink it in the cellar": {
-			"cluster": 323,
-			"count": 1
-		},
-		"@Jack_Septic_Eye did you hear about Ireland offering americans homes as ' trump refugees '? pic.twitter.com/5KsGuSsVHt": {
-			"cluster": 324,
-			"count": 1
-		},
-		"Enda Kenny congratulated Trump on behalf of Ireland ? Well on behalf of Ireland I take that back you numskull": {
-			"cluster": 325,
-			"count": 2
-		},
-		"lol Ireland is taking  trump refugees  well I'll be there in 2 days anyway": {
-			"cluster": 92,
-			"count": 1
-		},
-		"Great thread. We in Ireland already accept lots of the things that terrified us about Trump . https:// twitter.com/EXECUTIVESTEVE /status/796647436529860608 ": {
-			"cluster": 326,
-			"count": 1
-		},
-		"After the disappointment of Trump I'm counting on @RugbyCanada to cheer me up when they take on Ireland this Saturday at @AVIVAStadium": {
-			"cluster": 327,
-			"count": 1
-		},
-		"My take on what President Trump might mean for Northern Ireland 's economy in today's Belfast Telegraph http://www. belfasttelegraph.co.uk/news/world-new s/trump-triumph-puts-northern-ireland-economy-at-risk-if-us-adopts-policy-of-inward-investment-35203490.html ": {
-			"cluster": 328,
-			"count": 1
-		},
-		"Trump elected as the president today- Riots in L.A. Ireland beat the All Blacks. Brexit and refugee Europe. A Crazy world": {
-			"cluster": 329,
-			"count": 1
-		},
-		"For all of you wanting to leave the U.S. come January 1st Ireland is officially accepting Trump refugees .": {
-			"cluster": 330,
-			"count": 1
-		},
-		"@Jack_Septic_Eye I heard Ireland is accepting American refugees because of trump . Is it true? If it is can I come live with you?": {
-			"cluster": 331,
-			"count": 1
-		},
-		"Trump has hotels in Brazil & Panama & Ireland . Can you plz take these protests to one of those #TrumpProtest#presidentelect": {
-			"cluster": 332,
-			"count": 1
-		},
-		"Trump election kills #TTIP deal and will hurt Ireland : John Bruton http:// shr.gs/IIMWaTK Right with one part - taking bollox later!": {
-			"cluster": 333,
-			"count": 1
-		},
-		"Just got return flights to Ireland for 3 for 50 total in the @Ryanair Donald Trump sale. Thanks Americans.... I take it all back": {
-			"cluster": 334,
-			"count": 1
-		},
-		". @Boojum_Dublin Just wait until #Trump invades #Ireland and takes the #Guinness he always said we should have taken the #Guinness": {
-			"cluster": 335,
-			"count": 1
-		},
-		"Are Americans who leave the country due to Trump considered to be a refugee ? Ireland has to sort out the Syrians before we let them in if so": {
-			"cluster": 336,
-			"count": 1
-		},
-		"A different take : the theme of my Presidency is Building Bridges Mary McAleese President of Ireland  Nov '97. #Trump #BuildingWalls": {
-			"cluster": 337,
-			"count": 1
-		},
-		"My English 101 teacher just announced she's moving to Ireland bc trump  I decided to take advantage of the situation and gave her my card ;) pic.twitter.com/lz4ZmeC96U": {
-			"cluster": 338,
-			"count": 1
-		},
-		"It takes America electing trump  for Ireland to truly start second guessing their own judgement and leadership? We really are sheep.": {
-			"cluster": 339,
-			"count": 1
-		},
-		"going there... and more if #TRUMP takes a keen eye on taxes not being paid and scrambled by $ AAPL in Ireland ... #W &S https:// twitter.com/PugTrader/stat us/793336926749151233 ": {
-			"cluster": 340,
-			"count": 1
-		},
-		"@EndaKennyTD take back that congratulations from Ireland bullshit. Irish people dont like trump . Dont fucking sign us up to WW3 grow a pair": {
-			"cluster": 341,
-			"count": 1
-		},
-		"If Trump even tries to take Starbucks out of Ireland  I'll kill him myself.": {
-			"cluster": 342,
-			"count": 1
-		},
-		"#UltraConservatism is taking #Britain & #Ireland down the road of #Trumpism Trump & May support #racism #xenophobia #mobrule #isolationism pic.twitter.com/0wUUqpwsJk": {
-			"cluster": 343,
-			"count": 1
-		},
-		"Trump beats Clinton to take White House: We'll have reaction from America the UK and the Republic of Ireland . pic.twitter.com/CbxZJbkKH7": {
-			"cluster": 344,
-			"count": 1
-		},
-		"#cubs take #WorldSeries . Ireland beat #allblacks . Trump new @potus . Hahahaha...oh wait...": {
-			"cluster": 345,
-			"count": 1
-		},
-		"In this weird day take time to see our latest post - they'll go with your mood that's for sure http:// wp.me/p37U35-2OX #Trump #blacktights": {
-			"cluster": 346,
-			"count": 1
-		},
-		"Nominations now being accepted from villages all over Ireland who want to be the place that Trump 's ancestors hail from.": {
-			"cluster": 347,
-			"count": 1
-		},
-		"Justin tells @talktojoe1850 that if his ex wife would allow he'd take his kids to Ireland #USElections #Trump #liveline pic.twitter.com/Lewo9dybAE": {
-			"cluster": 348,
-			"count": 1
-		},
-		"There's still that little village in Ireland that said it would take us all in if Trump won.": {
-			"cluster": 349,
-			"count": 1
-		},
-		"@Liveline_RTE Michael OLeary is the Equivalent of Trump . Take no bullshit from anyone Joe. You asked the question who in Ireland .": {
-			"cluster": 350,
-			"count": 1
-		},
-		"How dare Enda Kenny congratulate Donald Trump on behalf of Ireland . On behalf of Ireland I would like to take back Enda's statement.": {
-			"cluster": 351,
-			"count": 2
-		},
-		"@realDonaldTrump Donald trump are you going to work close with Ireland when you take your seat in January according to @EndaKennyTD": {
-			"cluster": 352,
-			"count": 1
-		},
-		"The Irish know to take Trump seriously. Many big companies are using Ireland 's low business tax rate. https:// twitter.com/deputymcgratht d/status/796268779277787137 ": {
-			"cluster": 353,
-			"count": 1
-		},
-		"Where were you when Trump got elected? Oh just finishing off a refugee camp in the living room for my US friends #USElection2016 #Ireland": {
-			"cluster": 354,
-			"count": 1
-		},
-		"If Trump goes on a rampage and drags Britain into it I'm okay cause @1987ladyo said she's taking me to live in Ireland": {
-			"cluster": 355,
-			"count": 1
-		},
-		"7 reasons for Americans to move to Northern Ireland (before Trump takes control) via @irish_news http://www. irishnews.com/opinion/2016/1 1/09/news/7-reasons-for-americans-to-move-to-northern-ireland-777435/?param=ds441rif44T ": {
-			"cluster": 356,
-			"count": 1
-		},
-		"@EndaKennyTD Please take back Congratulating Donald Trump from the people of Ireland . #WeDont #TrumpNotWelcomeHere": {
-			"cluster": 357,
-			"count": 1
-		},
-		"My Google search history: Who won the election? What countries are taking refugees if Trump wins? How to move to Ireland .": {
-			"cluster": 358,
-			"count": 1
-		},
-		". @Jackaboys_Sam Welp I've heard that Ireland is taking Trump humans so... BYEEEEE AMERICA HELLO JACKABOY! @Jack_Septic_Eye #HumanCrisis": {
-			"cluster": 359,
-			"count": 2
-		},
-		"Should #Ireland take in #American political refugees ? #USElection2016 #Trump #USA @JOEdotie": {
-			"cluster": 360,
-			"count": 1
-		},
-		"Trump and Ireland : No trade deals are Great & Hes taking back multinationals who didnt pay taxes anyways http:// a.msn.com/01/en-ie/AAk4T Yu?ocid=st ": {
-			"cluster": 361,
-			"count": 1
-		},
-		"While we in Ireland can't directly do anything about Trump  what we can do is take this as motivation to demand better from our politicians": {
-			"cluster": 362,
-			"count": 1
-		},
-		"Pres. Trump will take back visa free access for countries that refuse to take back their citizens who are illegal immigrants in US.": {
-			"cluster": 363,
-			"count": 1
-		},
-		"How long will it take for an attempt on Trump 's life": {
-			"cluster": 364,
-			"count": 1
-		},
-		"2/2 person to take on Trump . Too unpopular and too much baggage. Some year for underdogs Leicester Brexit Ireland vAll Blacks & Trump ...": {
-			"cluster": 365,
-			"count": 1
-		},
-		"@Colmogorman This is like if Ireland let the Catholic Church take back control!! #Trump": {
-			"cluster": 366,
-			"count": 1
-		},
-		"@macklemore so when are you moving to Ireland ? Our president is sound and cute. Take the trump card and run": {
-			"cluster": 367,
-			"count": 1
-		},
-		"@TV3Ireland asking the questions that matter: Will Trump accept the Shamrock on St. Patrick's day #USElection2016 #trump #ireland": {
-			"cluster": 368,
-			"count": 1
-		},
-		"Did Morning Ireland really just take an ad break during Trump 's victory speech!": {
-			"cluster": 369,
-			"count": 1
-		},
-		"Think Ireland needs to take the blame here. This all started when we voted Dustin into the Eurovision #electionnight #trump": {
-			"cluster": 370,
-			"count": 1
-		},
-		"03/08/17: American refugees should be allowed into Ireland in search of a better life! #trump": {
-			"cluster": 371,
-			"count": 1
-		},
-		"IF trump wins president will you take me Ireland when you go home PLEASE!!!": {
-			"cluster": 372,
-			"count": 1
-		},
-		"@newyorktimes110 Ireland watching as Trump takes big lead. #fear #ElectionNight @POTUS can you veto... pic.twitter.com/3lvCEeNy25": {
-			"cluster": 373,
-			"count": 1
-		},
-		"when Trump kicks you and others out take me to Ireland please.": {
-			"cluster": 374,
-			"count": 2
-		},
-		"#TYTLive FYI Canada and a small island in Ireland is accepting Trump Refugees Checking Paperwork & looking around the house at what to bring": {
-			"cluster": 375,
-			"count": 1
-		},
-		"COUNTRIES ACCEPTING IMMIGRANTS IF TRUMP WINS: - New Zealand - Ireland - Canada - Svalbard - Sweden (credit: http:// mashable.com/2016/03/03/mov e-to-canada-trump/#J5chOMZ8lsqT  )": {
-			"cluster": 376,
-			"count": 1
-		},
-		"Ireland said they would accept political refugees from a Trump presidency maybe look into it. Gorgeous country and much better than THIS": {
-			"cluster": 377,
-			"count": 1
-		},
-		"I would if I could trust me. This is just sickening. Look into Ireland for immigration they said they'd accept trump refuges": {
-			"cluster": 378,
-			"count": 1
-		},
-		"If Trump wins you folks in Ireland ready to take in some political refugees . Anyone who questions him will be trampled on.": {
-			"cluster": 379,
-			"count": 1
-		},
-		"@my family in Ireland : clear out a guest room for me. If trump wins y'all gonna have to take me for the next 4 years.": {
-			"cluster": 380,
-			"count": 1
-		},
-		"I wonder if Trump will take over Facebook like Putin did with Vkontakte? They'll should move their HQ to Ireland for real while they can.": {
-			"cluster": 381,
-			"count": 1
-		},
-		"So about that island off coast of Ireland taking Americans in case Donald Trump becomes POTUS.....": {
-			"cluster": 382,
-			"count": 1
-		},
-		"My home country ( ireland ) has legitimayely offered me free stay and work if Trump wins. I may have to take you up on that tomorrow. Slinte!": {
-			"cluster": 383,
-			"count": 1
-		},
-		"if trump wins will Ireland take me because I am but a mere high school student with high anxiety I can't take this": {
-			"cluster": 384,
-			"count": 1
-		},
-		"and i thought ireland was dumb for legalising drugs for 24 hrs that one time but trump being in the lead so far really just takes the piss": {
-			"cluster": 385,
-			"count": 1
-		},
-		"There's a few islands in Ireland that may take in refugees from American pending a Trump win.": {
-			"cluster": 386,
-			"count": 1
-		},
-		"If Trump wins as it seems he will be might take mom up on her friend's house in Ireland": {
-			"cluster": 387,
-			"count": 1
-		},
-		"if trump wins mark and i just decided we are taking our cat and moving to ireland . we'll miss you all.": {
-			"cluster": 388,
-			"count": 1
-		},
-		"Hey so anyone living in Ireland or Britain want to take in @JoBelleCee and myself in if Trump wins????": {
-			"cluster": 389,
-			"count": 1
-		},
-		"I think the good news is that when Trump takes over my mother in law has to get shipped back to Ireland .": {
-			"cluster": 390,
-			"count": 1
-		},
-		"Would any of you from the UK Ireland  or Canada be kind enough to take me in if Trump wins? Please? Anybody?": {
-			"cluster": 391,
-			"count": 1
-		},
-		"Will the UK or Ireland also accept Trump escapees should the situation sour enough such that escape is necessary? Canada is nice but...": {
-			"cluster": 392,
-			"count": 1
-		},
-		"when u said to nic that's more republican votes for trump ... you meant electoral bc u we're taking about Ohio but ok": {
-			"cluster": 393,
-			"count": 1
-		},
-		"If Trump wins I'm taking full advantage of my dual citizenship and moving to Ireland": {
-			"cluster": 394,
-			"count": 1
-		},
-		"I love being in unproblematic Ireland no trump or Clinton taking over here": {
-			"cluster": 395,
-			"count": 1
-		},
-		"@Lord_Sugar If Leicester can with the PL..Brexit take place..Todd Hamilton win the open & Ireland beat NZ at rugby...could it be trump ??": {
-			"cluster": 396,
-			"count": 1
-		},
-		"and Mrs Brown as President of Ireland ? The Trump Card and talking the Brown would take on totally different meanings!!": {
-			"cluster": 397,
-			"count": 1
-		},
-		"If Trump wins I'm either going to A. Petition to England to take us back or B. Move to Ireland .": {
-			"cluster": 398,
-			"count": 1
-		},
-		"If there's any silver lining to a Trump win it's that @BATTLES might take up residence in Ireland . https:// twitter.com/BATTLES/status /795453696721162240 ": {
-			"cluster": 399,
-			"count": 1
-		},
-		"Trump to become president and to fund the IRA to take back Ireland  heard it here first": {
-			"cluster": 400,
-			"count": 1
-		},
-		"trump ain't my boy. only support him because you know 2 of less evils anyways how about them all blacks taking the L vs Ireland": {
-			"cluster": 401,
-			"count": 1
-		},
-		"The (social) media is so messed up. take one look at snapchat and it's all about standing up to trump and voting for Hillary.": {
-			"cluster": 402,
-			"count": 1
-		},
-		"Go President Trump ! Only corruption can take you down now. Best wishes from Ireland ..x.": {
-			"cluster": 403,
-			"count": 1
-		}
-	},
-	{
-		"trump is going to pull the american companies out of ireland take it back to the states": {
-			"cluster": 404,
-			"count": 1
-		},
-		"@nowthisnews In Ireland they said if Trump is elected it will take a generation to recover however it will be a black eye USA": {
-			"cluster": 405,
-			"count": 1
-		},
-		"That's what Trump & co have been saying all along. They'll just copy the Canadians & follow the Japanese by banning refugees .": {
-			"cluster": 406,
-			"count": 1
-		},
-		"An American refugee on her way to Ireland in search of a better life away from Donald Trump  https://www. instagram.com/p/BM9eibHgmNt/": {
-			"cluster": 407,
-			"count": 1
-		},
-		"Farage and Trump to elope and take advantage of Ireland 's SSM laws with a honeymoon in Doonbeg": {
-			"cluster": 408,
-			"count": 1
-		},
-		"#ThursdayThoughts 'It's vital we stand up against it': Anti- Trump protest to take place outside US embassy in Dublin Ireland": {
-			"cluster": 409,
-			"count": 1
-		},
-		"oh wait despite a brexiter/ Trump supporter saying Ireland should should follow. can't take his argument seriously. #PatKennyTonight": {
-			"cluster": 410,
-			"count": 1
-		},
-		"Time to move on in Ireland over trump  lots of Americans Hav now accepted it time all the experts here do same #Trump": {
-			"cluster": 411,
-			"count": 1
-		},
-		"Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/5HFFUXVNC": {
-			"cluster": 82,
-			"count": 2
-		},
-		". @Newshub_ Ireland President #Trump has the power to reduce the number of human beings that the USA takes in per year to ZERO! #HumanCrisis": {
-			"cluster": 412,
-			"count": 2
-		},
-		"IRELAND IS NOW OFFICIALLY ACCEPTING TRUMP REFUGEES FROM AMERICA! http:// fb.me/X0jmcqb9": {
-			"cluster": 90,
-			"count": 1
-		},
-		"#MAGA ! http:// ift.tt/2fR7O51 Trump : No 'big' vacations no salary as president - Gee The Obama's take a vacation to Ireland and it only": {
-			"cluster": 413,
-			"count": 2
-		}
-	},
-	{
-		"If you take away all my illegal votes (who I'm going to reward by sending them all back to Mexico and Ireland ) I still won #Trump https:// twitter.com/realDonaldTrum p/status/802972944532209664 ": {
-			"cluster": 414,
-			"count": 1
-		},
-		"The western world is full of liberal fascists .. they can't accept #Brexit & President #Trump .. next weekend will they accept #loVotoNo ?": {
-			"cluster": 415,
-			"count": 1
-		},
-		"Article by @arnouddemeyer President of Singapore Mgt Uni well worth a read - Ireland take note #Brexit #Trump #Entreprenuership #Tax @Entirl pic.twitter.com/O2Ef1k8sgb": {
-			"cluster": 416,
-			"count": 1
-		},
-		"In Scotland #Trump Built a Wall. Then He Sent Residents the Bill. #Doonbeg #Ireland take note #NatureTrumpWalls http:// nyti.ms/2fYGljw": {
-			"cluster": 417,
-			"count": 1
-		},
-		"Ireland ended up taking trump refugees https:// twitter.com/konradkarandy/ status/802153973314715648 ": {
-			"cluster": 418,
-			"count": 1
-		},
-		"what is the area of Ireland Helping Trump refugees ???": {
-			"cluster": 419,
-			"count": 1
-		},
-		"come to Ireland  I'll take care of you. Trump won't be able to bother you there.": {
-			"cluster": 420,
-			"count": 1
-		},
-		"#Trump Immigration Plan: Reduce intake of Syrian refugees to zero using authority under the 1980 Refugee Act.": {
-			"cluster": 421,
-			"count": 1
-		},
-		"FactCheck: No Ireland is NOT officially accepting Trump refugees  - TheJournal.ie http:// ow.ly/IZYt306oN45": {
-			"cluster": 83,
-			"count": 1
-		},
-		"@ghook @IngrahamAngle George: If Enda Kenny is smart (?) he should accept Pres Elect Trump 's idea today of bilateral trade deals- Ireland &US": {
-			"cluster": 422,
-			"count": 1
-		},
-		"Today's @GraziaUK column: the precious nature of abortion rights why Trump / Pence mustn't take them from US and why Ireland needs them NOW": {
-			"cluster": 423,
-			"count": 1
-		},
-		"Great read about Trump taking jobs back from Ireland . @BakerTillyHB reminds us Ireland is the only English speaking EU country post #brexit https:// twitter.com/BakerTillyHB/s tatus/798121430621753344 ": {
-			"cluster": 424,
-			"count": 1
-		},
-		"#Immigrants taking our government jobs! Send #Trump to Germany or Scotland #Pence & #Bannon to Ireland . #USA #MAGA #NotMyPresident": {
-			"cluster": 425,
-			"count": 1
-		}
-	},
-	{
-		"Trump promises to build a border wall and limit immigration and refugees . Need to keep them out in Ireland as well!": {
-			"cluster": 426,
-			"count": 1
-		},
-		"@deejay90192 no shit. One guy said what's the big deal trump taking a congrats from Taiwan pres. I can't take much more. Ireland": {
-			"cluster": 427,
-			"count": 1
-		},
-		"@ceejay410 I can't take this. I am going to Ireland or Scotland. They are accepting trump refugees . I will not be trump Usa": {
-			"cluster": 428,
-			"count": 1
-		},
-		"TRANE is now headquartered in Ireland via Ingersoll Rand taking advantage of tax shelters Trump seeks to squelch.": {
-			"cluster": 429,
-			"count": 1
-		},
-		"Don't forget about #AppleTax  Ireland should abandon it's stupid appeal and grab the 19 bn (incl int) & before Trump takes office. #rtept": {
-			"cluster": 430,
-			"count": 1
-		},
-		"Has #Trump s Election Win Exposed #Ireland s Apathy and Hypocrisy? #Repealthe8th #Homeless #LGBTQ #Refugees http://www. headstuff.org/2016/11/trump- win-ireland-apathy-hypocrisy/  pic.twitter.com/xT4G44slcD": {
-			"cluster": 431,
-			"count": 1
-		}
-	},
-	{
-		"Evening top 5: Ireland committed to taking 130 refugees before Christmas; and Trump dismisses CIA claims of Russia http:// ift.tt/2gtoN0t": {
-			"cluster": 432,
-			"count": 1
-		},
-		"If Apple takes Advantage of the 10% Tax Rate under Trump to bring Home their $230 Billion in Cash Ireland will ta http:// ift.tt/2hAyjv5": {
-			"cluster": 433,
-			"count": 2
-		},
-		"Prediction: In years to come Conor McGregor will take a run at being Ireland 's Donald Trump type candidate.": {
-			"cluster": 434,
-			"count": 1
-		},
-		"Ireland taking in Americans fleeing Trump ...ruPaul says Trump touched inappropriately... Hundreds and hundreds of thousands of hits. https:// twitter.com/SFGate/status/ 807234643732725760 ": {
-			"cluster": 435,
-			"count": 1
-		},
-		"Message from Ireland : Donald Trump should be wary of let them take the boat approach to abortion - @PatrickSmyth1 http://www. irishtimes.com/opinion/donald -trump-should-be-wary-of-let-them-take-the-boat-approach-to-abortion-1.2890578 ": {
-			"cluster": 436,
-			"count": 1
-		},
-		"Ignore Trump . In N Ireland we say if you give it out you have to take it. John Boyd": {
-			"cluster": 437,
-			"count": 1
-		}
-	},
-	{
-		"I'm drinking Irish Whiskey do you think Ireland will take me in when Trump /Putin takeover?": {
-			"cluster": 438,
-			"count": 1
-		},
-		"If #Apple takes Advantage of 10% #TaxRate under #Trump 2bring Home their $230 Bill-Cash #Ireland will take a Hit https:// waa.ai/jWFo pic.twitter.com/ruFjc9M4mq": {
-			"cluster": 439,
-			"count": 1
-		},
-		"I agree. I just hope and pray the left start accepting democracy and allow President Trump to lead in peace.": {
-			"cluster": 440,
-			"count": 1
-		}
-	},
-	{
-		"I've read your pieces on Trump  the Electoral College and Christmas in Ireland ...but this is the hot take I was looking for!": {
-			"cluster": 441,
-			"count": 1
-		},
-		"The whole Trump 's campaign was based on taking power away from white establishment. #DryTheSwamp": {
-			"cluster": 442,
-			"count": 1
-		},
-		"#ireland : America has elected a fascist Accept #Trump ? Nope http:// l.facebook.com/l.php?u=http%3 A%2F%2Fgo.nowth.is%2F2giLXak&h=mAQG1_BoZ ": {
-			"cluster": 443,
-			"count": 1
-		},
-		"#news #trump #hillary #election #syria Apple and Ireland take on the EU http:// dlvr.it/MwBXfm pic.twitter.com/iPReJMLMNg": {
-			"cluster": 444,
-			"count": 1
-		}
-	},
-	{
-		"#Refugee boats should be sent back to #Africa  according to #Bavarian allies of #Merkel s party https://www. rt.com/news/372161-ge rmany-refugees-mediterranean-return/#.WGUafTTroOA.twitter  #EU #Germany #Trump": {
-			"cluster": 445,
-			"count": 1
-		},
-		"IRELAND IS NOW OFFICIALLY ACCEPTING TRUMP REFUGEES FROM AMERICA! http:// fb.me/8707iuC35": {
-			"cluster": 90,
-			"count": 1
-		},
-		": Donald Trump urges Israel to stay strong until he takes office says cannot allow #1 in #Ireland http://www. toprt.com/TopRT_IE/?t=81 4119464698519552 ": {
-			"cluster": 446,
-			"count": 1
-		},
-		"Trump and Brexit take 30m bite out of Christmas sales http:// bit.ly/2hM0Xtq #Irishbiz #Ireland": {
-			"cluster": 447,
-			"count": 1
-		},
-		"Ireland Is Now Officially Accepting Trump Refugees From America http:// fb.me/1LgLAaurW": {
-			"cluster": 82,
-			"count": 1
-		},
-		"Trump 's aide says Brexit 'God-given opportunity' for Ireland to take business from UK http:// indo.ie/MCGW307rY6T pic.twitter.com/xclpjasEgV": {
-			"cluster": 448,
-			"count": 3
-		}
-	},
-	{
-		"@OmanReagan  Trump believe in eminent domain he will take your land in a secondcheck out what he did to the poor people in Ireland": {
-			"cluster": 449,
-			"count": 1
-		}
-	}
-]
+	]
+}

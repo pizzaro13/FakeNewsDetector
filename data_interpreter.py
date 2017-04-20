@@ -96,36 +96,46 @@ def createClusterIDs():
                     currCluster.clusterID = clustCount
                     clustCount += 1
 #main
-createTweets('tweets_results_8.csv')
+createTweets('tweets_results_0.csv')
 createWeeks()
 createClusters(allTweets)
 createClusterIDs()
-toWrite = open('Obama_Leave_Office_Clusters.json', 'w')
-toWrite.write('[\n')
+toWrite = open('Obama_Pledge_Allegiance_Clusters.json', 'w')
+toWrite.write('{\n')
 weekCounter = 0
+toWrite.write('\t\"name\": \"obama pledge allegiance bans OR pledge OR allegiance\",\n')
+toWrite.write('\t\"value\": 53,\n')
+toWrite.write('\t\"children\": [\n')
 for currWeek in listOfWeeks:
-    toWrite.write('\t{\n')
+    toWrite.write('\t\t{\n')
+    toWrite.write("\t\t\t\"week\": ")
+    toWrite.write(str(weekCounter + 1))
+    toWrite.write(",\n\t\t\t\"value\": ")
+    toWrite.write(str(len(currWeek.clusterList)))
+    toWrite.write(",\n\t\t\t\"children\": [\n")
     clusterCounter = 0
     for currCluster in currWeek.clusterList:
-        toWrite.write("\t\t\"")
+        toWrite.write("\t\t\t\t{\n\t\t\t\t\t\"name\": \"")
         toWrite.write(currCluster.startingTweet)
-        toWrite.write("\": {\n")
-        toWrite.write("\t\t\t\"cluster\": ")
+        toWrite.write("\",\n")
+        toWrite.write("\t\t\t\t\t\"cluster\": ")
         toWrite.write(str(currCluster.clusterID))
         toWrite.write(",\n")
-        toWrite.write("\t\t\t\"count\": ")
+        toWrite.write("\t\t\t\t\t\"value\": ")
         toWrite.write(str(len(currCluster.tweetList)))
         toWrite.write("\n")
 
         clusterCounter += 1
 
         if clusterCounter == len(currWeek.clusterList):
-            toWrite.write('\t\t}\n')
+            toWrite.write('\t\t\t\t}\n')
         else:
-            toWrite.write('\t\t},\n')
+            toWrite.write('\t\t\t\t},\n')
+    toWrite.write("\t\t\t]\n")
     weekCounter += 1
     if weekCounter == len(listOfWeeks):
-        toWrite.write('\t}\n')
+        toWrite.write('\t\t}\n')
     else:
-        toWrite.write('\t},\n')
-toWrite.write(']')
+        toWrite.write('\t\t},\n')
+toWrite.write('\t]\n')
+toWrite.write('}')
